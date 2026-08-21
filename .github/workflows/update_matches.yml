@@ -28,10 +28,8 @@ jobs:
         run: |
           python scraper.py
 
-      - name: Commit et Push du fichier JSON
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add matches.json
-          git pull --rebase origin main
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique des matchs" && git push origin main)
+      - name: Commit et Push automatique
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Mise à jour automatique des matchs"
+          file_pattern: "matches.json"
