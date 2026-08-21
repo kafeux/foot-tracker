@@ -52,6 +52,11 @@
     },
     {
       "date": "Samedi 22 août",
+      "heure": "18:00",
+      "affiche": "Saint-Étienne - Grenoble Ligue 2"
+    },
+    {
+      "date": "Samedi 22 août",
       "heure": "18:45",
       "affiche": "Toulouse - Lyon Ligue 1"
     },
@@ -97,6 +102,11 @@
     }
   ],
   "Angleterre": [
+    {
+      "date": "Vendredi 21 août",
+      "heure": "10:30",
+      "affiche": "FC Tokyo - JEF United Chiba J-League"
+    },
     {
       "date": "Vendredi 21 août",
       "heure": "19:00",
@@ -342,7 +352,33 @@
       "affiche": "AS Roma - Fiorentina Serie A"
     }
   ],
-  "Allemagne": [],
+  "Allemagne": [
+    {
+      "date": "Vendredi 21 août",
+      "heure": "16:00",
+      "affiche": "SC St. Tönis - Francfort Coupe d'Allemagne"
+    },
+    {
+      "date": "Vendredi 21 août",
+      "heure": "18:45",
+      "affiche": "Hansa Rostock - Stuttgart Coupe d'Allemagne"
+    },
+    {
+      "date": "Samedi 22 août",
+      "heure": "11:00",
+      "affiche": "SV Wehen - Bayer Leverkusen Coupe d'Allemagne"
+    },
+    {
+      "date": "Samedi 22 août",
+      "heure": "16:00",
+      "affiche": "Eintracht Trier - RB Leipzig Coupe d'Allemagne"
+    },
+    {
+      "date": "Samedi 22 août",
+      "heure": "18:30",
+      "affiche": "Borussia Dortmund - Bayern Munich Supercoupe d'Allemagne"
+    }
+  ],
   "Europe": [
     {
       "date": "Mardi 25 août",
@@ -378,6 +414,16 @@
   "Autres": [
     {
       "date": "Vendredi 21 août",
+      "heure": "16:00",
+      "affiche": "Al Riyadh - Al-Nassr Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 21 août",
+      "heure": "18:00",
+      "affiche": "Al-Qadisiyah FC - Al-Ittihad Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 21 août",
       "heure": "18:30",
       "affiche": "Erzurumspor FK - Galatasaray Süper Lig"
     },
@@ -388,8 +434,18 @@
     },
     {
       "date": "Samedi 22 août",
+      "heure": "15:45",
+      "affiche": "Al-Fateh - Al-Ettifaq Saudi Pro League"
+    },
+    {
+      "date": "Samedi 22 août",
       "heure": "16:15",
       "affiche": "Charleroi - Malines Jupiler Pro League"
+    },
+    {
+      "date": "Samedi 22 août",
+      "heure": "18:00",
+      "affiche": "Al-Ahli Saudi - Abha Saudi Pro League"
     },
     {
       "date": "Samedi 22 août",
@@ -443,6 +499,11 @@
     },
     {
       "date": "Dimanche 23 août",
+      "heure": "10:30",
+      "affiche": "Machida Zelvia - Urawa Reds J-League"
+    },
+    {
+      "date": "Dimanche 23 août",
       "heure": "12:30",
       "affiche": "PSV Eindhoven - Groningen Eredivisie"
     },
@@ -462,9 +523,24 @@
       "affiche": "Alanyaspor - Besiktas Süper Lig"
     },
     {
+      "date": "Lundi 24 août",
+      "heure": "16:40",
+      "affiche": "NEOM - Al-Qadisiyah FC Saudi Pro League"
+    },
+    {
+      "date": "Lundi 24 août",
+      "heure": "18:00",
+      "affiche": "Al-Ittihad - Al-Hazem Saudi Pro League"
+    },
+    {
       "date": "Mardi 25 août",
       "heure": "16:05",
       "affiche": "Abha - Al Khaleej Saudi Pro League"
+    },
+    {
+      "date": "Mardi 25 août",
+      "heure": "18:00",
+      "affiche": "Al-Ettifaq - Al-Nassr Saudi Pro League"
     }
   ]
 }
