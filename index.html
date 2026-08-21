@@ -18,27 +18,27 @@
   <!-- Page d'accueil : Choix du pays -->
   <main id="home-view" class="p-4 grid grid-cols-2 gap-3 max-w-md mx-auto">
     <div onclick="openCountry('France')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">FR</span>
+      <span class="text-4xl">🇫🇷</span>
       <span class="mt-2 font-semibold text-sm">France</span>
     </div>
     <div onclick="openCountry('Angleterre')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">GB</span>
+      <span class="text-4xl">🇬🇧</span>
       <span class="mt-2 font-semibold text-sm">Angleterre</span>
     </div>
     <div onclick="openCountry('Espagne')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">ES</span>
+      <span class="text-4xl">🇪🇸</span>
       <span class="mt-2 font-semibold text-sm">Espagne</span>
     </div>
     <div onclick="openCountry('Italie')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">IT</span>
+      <span class="text-4xl">🇮🇹</span>
       <span class="mt-2 font-semibold text-sm">Italie</span>
     </div>
     <div onclick="openCountry('Allemagne')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">DE</span>
+      <span class="text-4xl">🇩🇪</span>
       <span class="mt-2 font-semibold text-sm">Allemagne</span>
     </div>
     <div onclick="openCountry('Europe')" class="bg-slate-800 hover:bg-slate-750 p-5 rounded-2xl flex flex-col items-center justify-center cursor-pointer border border-slate-700 active:scale-95 transition shadow">
-      <span class="text-3xl font-black text-blue-400">EU</span>
+      <span class="text-4xl">🇪🇺</span>
       <span class="mt-2 font-semibold text-sm">Europe</span>
     </div>
     <div onclick="openCountry('Autres')" class="col-span-2 bg-slate-800 hover:bg-slate-750 p-4 rounded-2xl flex items-center justify-center gap-3 cursor-pointer border border-slate-700 active:scale-95 transition shadow">
@@ -48,13 +48,52 @@
   </main>
 
   <!-- Page liste des matchs -->
-  <main id="matches-view" class="p-4 max-w-md mx-auto hidden">
-    <div id="matches-list" class="space-y-4"></div>
+  <main id="matches-view" class="p-4 space-y-3 max-w-md mx-auto hidden">
+    <div id="matches-list" class="space-y-2.5"></div>
   </main>
 
   <script>
     const DATA_URL = "https://raw.githubusercontent.com/kafeux/foot-tracker/main/matches.json";
     let matchesData = {};
+
+    // Calcule dynamiquement si Paris est à UTC+2 (été) ou UTC+1 (hiver)
+    function getParisUtcOffset() {
+      const now = new Date();
+      // On formate l'heure courante sous le fuseau de Paris pour connaître le décalage UTC
+      const parts = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'Europe/Paris',
+        timeZoneName: 'shortOffset'
+      }).formatToParts(now);
+      
+      const tzPart = parts.find(p => p.type === 'timeZoneName');
+      if (tzPart && tzPart.value) {
+        const match = tzPart.value.match(/GMT([+-]\d+)/);
+        if (match) return parseInt(match[1], 10);
+      }
+      
+      // Sécurité : fin mars à fin octobre = été (+2), sinon hiver (+1)
+      const month = now.getUTCMonth() + 1;
+      return (month >= 4 && month <= 10) ? 2 : 1;
+    }
+
+    function convertParisToGMT(timeStr) {
+      if (!timeStr || !timeStr.includes(':')) return timeStr;
+      const [hours, minutes] = timeStr.split(':').map(Number);
+      
+      const offset = getParisUtcOffset();
+      let gmtH = hours - offset;
+      
+      if (gmtH < 0) gmtH += 24;
+      if (gmtH >= 24) gmtH -= 24;
+
+      return `${String(gmtH).padStart(2, '0')}:${String(minutes).padStart(2, '0')} GMT`;
+    }
+
+    // Nettoie l'affiche en retirant l'ancienne heure française au début (ex: "20:00 OM - PSG" -> "OM - PSG")
+    function cleanTitle(rawTitle) {
+      if (!rawTitle) return "";
+      return rawTitle.replace(/^[0-2]?[0-9][h:][0-5][0-9]\s*/i, '').trim();
+    }
 
     async function loadData() {
       try {
@@ -80,28 +119,15 @@
         return;
       }
 
-      // Regroupement par date
-      let lastDate = "";
       matches.forEach(m => {
-        const matchDate = m.date || "Date à confirmer";
-        
-        // Ajoute un titre de date dès qu'on change de jour
-        if (matchDate !== lastDate) {
-          lastDate = matchDate;
-          const dateHeader = document.createElement('div');
-          dateHeader.className = "pt-2 pb-1 text-xs font-bold uppercase tracking-wider text-blue-400 border-b border-slate-800";
-          dateHeader.innerText = "📅 " + matchDate;
-          listContainer.appendChild(dateHeader);
-        }
-
         const card = document.createElement('div');
         card.className = "bg-slate-800 p-3.5 rounded-xl border border-slate-700 shadow flex justify-between items-center";
         card.innerHTML = `
           <div class="pr-2 flex-1 min-w-0">
-            <p class="font-medium text-white text-sm break-words">${m.affiche}</p>
+            <p class="font-medium text-white text-sm break-words">${cleanTitle(m.affiche)}</p>
           </div>
           <span class="bg-blue-600/20 text-blue-400 border border-blue-500/30 px-2.5 py-1 rounded-lg text-xs font-mono font-bold whitespace-nowrap ml-2">
-            ${m.heure}
+            ${convertParisToGMT(m.heure)}
           </span>
         `;
         listContainer.appendChild(card);
