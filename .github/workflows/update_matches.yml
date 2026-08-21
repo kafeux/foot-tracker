@@ -1,0 +1,37 @@
+name: Actualisation des Matchs
+
+on:
+  schedule:
+    # Tourne toutes les 3h (à 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Permet aussi de lancer manuellement depuis l'interface GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: |
+          pip install -r requirements.txt
+
+      - name: Lancer le scraper
+        run: |
+          python scraper.py
+
+      - name: Commit et Push du fichier JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique des matchs" && git push)
