@@ -2,9 +2,8 @@ name: Actualisation des Matchs
 
 on:
   schedule:
-    # Tourne toutes les 3h (à 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC)
     - cron: '0 */3 * * *'
-  workflow_dispatch: # Permet aussi de lancer manuellement depuis l'interface GitHub
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -34,4 +33,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add matches.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique des matchs" && git push)
+          git pull --rebase origin main
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique des matchs" && git push origin main)
