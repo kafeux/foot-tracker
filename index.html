@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Matchs TV</title>
+  <link rel="manifest" href="manifest.json">
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-900 text-slate-100 min-h-screen font-sans select-none pb-8">
@@ -83,7 +84,6 @@
       let lastDate = "";
 
       matches.forEach(m => {
-        // Affichage de l'en-tête de date
         const matchDate = m.date || "Aujourd'hui";
         if (matchDate !== lastDate) {
           lastDate = matchDate;
