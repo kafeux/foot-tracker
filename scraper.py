@@ -28,42 +28,54 @@ def get_matches():
         "Autres": []
     }
 
-    # On récupère tout le texte brut du site
     full_text = soup.get_text(separator=" ")
     
-    # Regex qui détecte chaque match : (Heure) + (Équipe 1 - Équipe 2) + (Compétition/Détails jusqu'au prochain match ou virgule)
-    # Exemple : "20h45 Marseille - Strasbourg Ligue 1"
-    pattern = re.compile(r'([0-2]?[0-9][h:][0-5][0-9])\s+([A-Za-z0-9À-ÿ\.\s]+?\s*-\s*[A-Za-z0-9À-ÿ\.\s]+?)(?=(?:[0-2]?[0-9][h:][0-5][0-9]|$|,|\bJournée\b))', re.IGNORECASE)
+    # Regex pour repérer les changements de jour (ex: "vendredi 21 août", "samedi 22 août", etc.)
+    days_regex = r'\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s+\d{1,2}\s+(janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\b'
     
-    matches_found = pattern.findall(full_text)
+    # Découpage par morceaux avec date ou heure
+    pattern = re.compile(rf'({days_regex})|([0-2]?[0-9][h:][0-5][0-9])\s+([A-Za-z0-9À-ÿ\.\s]+?\s*-\s*[A-Za-z0-9À-ÿ\.\s]+?)(?=(?:{days_regex}|[0-2]?[0-9][h:][0-5][0-9]|$|,|\bJournée\b))', re.IGNORECASE)
     
+    current_date = "Aujourd'hui"
     seen = set()
-    for heure, affiche in matches_found:
-        heure_clean = heure.replace('h', ':').strip()
-        affiche_clean = clean_text(affiche)
+
+    for match in pattern.finditer(full_text):
+        text_match = match.group(0).strip()
         
-        # Filtre pour éviter les faux positifs ou les textes trop longs/courts
-        if len(affiche_clean) < 5 or len(affiche_clean) > 80 or " - " not in affiche_clean:
+        # Si c'est un en-tête de date
+        if re.match(rf'^{days_regex}$', text_match, re.IGNORECASE):
+            current_date = text_match.capitalize()
             continue
             
-        key = f"{heure_clean}_{affiche_clean}"
+        heure_match = re.search(r'([0-2]?[0-9][h:][0-5][0-9])', text_match)
+        if not heure_match or " - " not in text_match:
+            continue
+            
+        heure = heure_match.group(1).replace('h', ':').strip()
+        affiche = clean_text(text_match[heure_match.end():])
+        
+        if len(affiche) < 5 or len(affiche) > 80:
+            continue
+            
+        key = f"{current_date}_{heure}_{affiche}"
         if key in seen:
             continue
         seen.add(key)
         
         item = {
-            "heure": heure_clean,
-            "affiche": affiche_clean
+            "date": current_date,
+            "heure": heure,
+            "affiche": affiche
         }
         
-        text_lower = affiche_clean.lower()
-        if any(k in text_lower for k in ["ligue 1", "ligue 2", "france", "paris", "marseille", "lyon", "toulouse", "monaco", "nantes", "rennes", "lens", "lille", "nice", "saint-étienne", "strasbourg", "dunkerque", "boulogne", "pau", "sochaux", "red star"]):
+        text_lower = affiche.lower()
+        if any(k in text_lower for k in ["ligue 1", "ligue 2", "coupe de france", "france", "national", "paris", "marseille", "lyon", "toulouse", "monaco", "nantes", "rennes", "lens", "lille", "nice", "saint-étienne", "strasbourg", "dunkerque", "boulogne", "pau", "sochaux", "red star"]):
             data["France"].append(item)
         elif any(k in text_lower for k in ["premier league", "championship", "fa cup", "arsenal", "chelsea", "liverpool", "manchester", "city", "united", "tottenham", "everton", "newcastle", "villa", "leeds"]):
             data["Angleterre"].append(item)
-        elif any(k in text_lower for k in ["liga", "real madrid", "barcelon", "madrid", "séville", "athletic", "betis", "valence", "espanyol", "villarreal"]):
+        elif any(k in text_lower for k in ["liga", "copa del rey", "real madrid", "barcelon", "madrid", "séville", "athletic", "betis", "valence", "espanyol", "villarreal"]):
             data["Espagne"].append(item)
-        elif any(k in text_lower for k in ["serie a", "juventus", "milan", "inter", "roma", "naples", "lazio", "atalanta", "fiorentina", "torino"]):
+        elif any(k in text_lower for k in ["serie a", "coppa", "juventus", "milan", "inter", "roma", "naples", "lazio", "atalanta", "fiorentina", "torino"]):
             data["Italie"].append(item)
         elif any(k in text_lower for k in ["bundesliga", "bayern", "dortmund", "leverkusen", "leipzig", "stuttgart", "francfort"]):
             data["Allemagne"].append(item)
