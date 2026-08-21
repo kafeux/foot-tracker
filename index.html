@@ -83,12 +83,13 @@
       let lastDate = "";
 
       matches.forEach(m => {
-        // En-tête de date
-        if (m.date && m.date !== lastDate) {
-          lastDate = m.date;
+        // Affichage de l'en-tête de date
+        const matchDate = m.date || "Aujourd'hui";
+        if (matchDate !== lastDate) {
+          lastDate = matchDate;
           const dateHeader = document.createElement('div');
-          dateHeader.className = "text-xs font-bold uppercase tracking-wider text-blue-400 pt-3 pb-1 border-b border-slate-700/60";
-          dateHeader.innerText = `📅 ${m.date}`;
+          dateHeader.className = "text-xs font-bold uppercase tracking-wider text-blue-400 pt-3 pb-1 border-b border-slate-700/80 flex items-center gap-1.5";
+          dateHeader.innerHTML = `<span>📅</span><span>${matchDate}</span>`;
           listContainer.appendChild(dateHeader);
         }
 
