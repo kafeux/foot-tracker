@@ -25,49 +25,52 @@ def get_matches():
         "Autres": []
     }
 
-    # Matchs.tv organise généralement les rencontres sous forme de lignes / blocs avec du texte
-    # On recherche les éléments contenant des heures au format HH:MM ou HHhMM
-    time_pattern = re.compile(r'\b([0-2]?[0-9][h:][0-5][0-9])\b')
+    # On cherche les éléments spécifiques de chaque ligne de match
+    # On évite les conteneurs globaux (div/p trop longs)
+    match_items = []
     
-    # Récupération de tous les conteneurs ou lignes de liste/table
-    elements = soup.find_all(['tr', 'li', 'div', 'p'])
-    
-    seen = set()
-    for el in elements:
-        text = " ".join(el.get_text().split())
-        if not text:
+    for row in soup.find_all(['tr', 'li', 'div']):
+        # Ignore les blocs trop longs (paragraphes entiers ou descriptions de page)
+        text = " ".join(row.get_text().split())
+        if len(text) > 150 or len(text) < 10:
             continue
-            
-        time_match = time_pattern.search(text)
-        # On vérifie si la ligne contient une heure et un séparateur d'équipes classique (vs, -, /)
+        
+        # Format d'heure type 20h45 ou 20:45
+        time_match = re.search(r'\b([0-2]?[0-9][h:][0-5][0-9])\b', text)
         if time_match and any(sep in text.lower() for sep in [" - ", " vs ", " contre "]):
-            if text in seen:
+            # On vérifie qu'on ne prend pas un conteneur parent qui englobe plusieurs sous-éléments
+            if len(row.find_all(['tr', 'li'])) > 0:
                 continue
-            seen.add(text)
             
             heure = time_match.group(1).replace('h', ':')
-            text_lower = text.lower()
-            
-            # Extraction sommaire des infos de la ligne
-            match_item = {
-                "heure": heure,
-                "description": text
-            }
-            
-            if any(k in text_lower for k in ["ligue 1", "ligue 2", "coupe de france", "france", "national"]):
-                data["France"].append(match_item)
-            elif any(k in text_lower for k in ["premier league", "fa cup", "angleterre", "championship", "efl"]):
-                data["Angleterre"].append(match_item)
-            elif any(k in text_lower for k in ["liga", "espagne", "copa del rey"]):
-                data["Espagne"].append(match_item)
-            elif any(k in text_lower for k in ["serie a", "italie", "coppa"]):
-                data["Italie"].append(match_item)
-            elif any(k in text_lower for k in ["bundesliga", "allemagne"]):
-                data["Allemagne"].append(match_item)
-            elif any(k in text_lower for k in ["champions league", "europa", "conference", "ligue des champions"]):
-                data["Europe"].append(match_item)
-            else:
-                data["Autres"].append(match_item)
+            match_items.append((heure, text))
+
+    seen = set()
+    for heure, text in match_items:
+        if text in seen:
+            continue
+        seen.add(text)
+        
+        item = {
+            "heure": heure,
+            "description": text
+        }
+        
+        text_lower = text.lower()
+        if any(k in text_lower for k in ["ligue 1", "ligue 2", "coupe de france", "france", "national", "paris", "marseille", "lyon", "toulouse"]):
+            data["France"].append(item)
+        elif any(k in text_lower for k in ["premier league", "fa cup", "championship", "arsenal", "chelsea", "liverpool", "city", "united"]):
+            data["Angleterre"].append(item)
+        elif any(k in text_lower for k in ["liga", "copa del rey", "real madrid", "barcelon", "madrid", "séville", "athletic"]):
+            data["Espagne"].append(item)
+        elif any(k in text_lower for k in ["serie a", "coppa", "juventus", "milan", "inter", "roma", "naples"]):
+            data["Italie"].append(item)
+        elif any(k in text_lower for k in ["bundesliga", "bayern", "dortmund", "leverkusen", "leipzig"]):
+            data["Allemagne"].append(item)
+        elif any(k in text_lower for k in ["champions league", "europa", "conference", "ligue des champions"]):
+            data["Europe"].append(item)
+        else:
+            data["Autres"].append(item)
 
     with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
