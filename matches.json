@@ -2,443 +2,378 @@
   "France": [
     {
       "heure": "20:00",
-      "description": "20h00 Dunkerque - MontpellierLigue 2, Journée 3"
+      "affiche": "Dunkerque - Montpellier Ligue 2"
     },
     {
       "heure": "20:00",
-      "description": "20h00 Boulogne - Red StarLigue 2, Journée 3"
+      "affiche": "Boulogne - Red Star Ligue 2"
     },
     {
       "heure": "20:00",
-      "description": "20h00 Pau FC - NancyLigue 2, Journée 3"
+      "affiche": "Pau FC - Nancy Ligue 2"
     },
     {
       "heure": "20:00",
-      "description": "20h00 Clermont Foot - DijonLigue 2, Journée 3"
+      "affiche": "Clermont Foot - Dijon Ligue 2"
     },
     {
       "heure": "20:00",
-      "description": "20h00 Sochaux - GuingampLigue 2, Journée 3"
+      "affiche": "Sochaux - Guingamp Ligue 2"
     },
     {
       "heure": "20:00",
-      "description": "20h00 Multiplex - MultiplexLigue 2, Journée 3"
+      "affiche": "Multiplex - Multiplex Ligue 2"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Marseille - StrasbourgLigue 1, Journée 1"
+      "affiche": "Marseille - Strasbourg Ligue 1"
     },
     {
       "heure": "14:00",
-      "description": "14h00 Metz - LavalLigue 2, Journée 3"
+      "affiche": "Metz - Laval Ligue 2"
     },
     {
       "heure": "14:00",
-      "description": "14h00 Nantes - RodezLigue 2, Journée 3"
+      "affiche": "Nantes - Rodez Ligue 2"
     },
     {
       "heure": "17:15",
-      "description": "17h15 Lens - AuxerreLigue 1, Journée 1"
-    },
-    {
-      "heure": "20:00",
-      "description": "20h00 Saint-Étienne - GrenobleLigue 2, Journée 3"
+      "affiche": "Lens - Auxerre Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Toulouse - LyonLigue 1, Journée 1"
+      "affiche": "Toulouse - Lyon Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Nice - LorientLigue 1, Journée 1"
+      "affiche": "Nice - Lorient Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Troyes - Paris FCLigue 1, Journée 1"
+      "affiche": "Troyes - Paris FC Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Le Mans - BrestLigue 1, Journée 1"
+      "affiche": "Le Mans - Brest Ligue 1"
     },
     {
       "heure": "15:00",
-      "description": "15h00 Angers - LilleLigue 1, Journée 1"
+      "affiche": "Angers - Lille Ligue 1"
     },
     {
       "heure": "17:15",
-      "description": "17h15 Le Havre - MonacoLigue 1, Journée 1"
+      "affiche": "Le Havre - Monaco Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 PSG - RennesLigue 1, Journée 1"
+      "affiche": "PSG - Rennes Ligue 1"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Reims - AnnecyLigue 2, Journée 3"
+      "affiche": "Reims - Annecy Ligue 2"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Lyon - FenerbahçeLigue des Champions, Barrage"
+      "affiche": "Lyon - Fenerbahçe Ligue des Champions"
     }
   ],
   "Angleterre": [
     {
-      "heure": "12:30",
-      "description": "12h30 FC Tokyo - JEF United ChibaJ-League, Journée 3"
-    },
-    {
       "heure": "21:00",
-      "description": "21h00 Arsenal - CoventryPremier League, Journée 1"
+      "affiche": "Arsenal - Coventry Premier League"
     },
     {
       "heure": "13:30",
-      "description": "13h30 Hull City - Manchester UnitedPremier League, Journée 1"
+      "affiche": "Hull City - Manchester United Premier League"
     },
     {
       "heure": "13:30",
-      "description": "13h30 Lincoln - PortsmouthChampionship, Journée 2"
+      "affiche": "Lincoln - Portsmouth Championship"
     },
     {
       "heure": "16:00",
-      "description": "16h00 Everton - Crystal PalacePremier League, Journée 1"
+      "affiche": "Everton - Crystal Palace Premier League"
     },
     {
       "heure": "16:00",
-      "description": "16h00 Nottingham Forest - LeedsPremier League, Journée 1"
+      "affiche": "Nottingham Forest - Leeds Premier League"
     },
     {
       "heure": "16:00",
-      "description": "16h00 Ipswich - SunderlandPremier League, Journée 1"
+      "affiche": "Ipswich - Sunderland Premier League"
     },
     {
       "heure": "16:00",
-      "description": "16h00 West Ham - CharltonChampionship, Journée 2"
+      "affiche": "West Ham - Charlton Championship"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Brentford - TottenhamPremier League, Journée 1"
+      "affiche": "Brentford - Tottenham Premier League"
     },
     {
       "heure": "01:30",
-      "description": "01h30 Orlando City SC - Real Salt LakeMLS, Journée 21"
+      "affiche": "Orlando City SC - Real Salt Lake MLS"
     },
     {
       "heure": "01:30",
-      "description": "01h30 Charlotte FC - DC UnitedMLS, Journée 21"
+      "affiche": "Charlotte FC - DC United MLS"
     },
     {
       "heure": "02:30",
-      "description": "02h30 St. Louis City - Houston DynamoMLS, Journée 21"
+      "affiche": "St. Louis City - Houston Dynamo MLS"
     },
     {
       "heure": "04:30",
-      "description": "04h30 San Jose Earthquakes - Minnesota United FCMLS, Journée 21"
+      "affiche": "San Jose Earthquakes - Minnesota United FC MLS"
     },
     {
       "heure": "13:00",
-      "description": "13h00 West Bromwich - BurnleyChampionship, Journée 2"
+      "affiche": "West Bromwich - Burnley Championship"
     },
     {
       "heure": "15:00",
-      "description": "15h00 Manchester City - BournemouthPremier League, Journée 1"
+      "affiche": "Manchester City - Bournemouth Premier League"
     },
     {
       "heure": "15:00",
-      "description": "15h00 Brighton - Aston VillaPremier League, Journée 1"
+      "affiche": "Brighton - Aston Villa Premier League"
+    },
+    {
+      "heure": "17:00",
+      "affiche": "Atlético Madrid - Villarreal Liga"
     },
     {
       "heure": "17:30",
-      "description": "17h30 Newcastle - LiverpoolPremier League, Journée 1"
+      "affiche": "Newcastle - Liverpool Premier League"
     },
     {
       "heure": "22:30",
-      "description": "22h30 New England Revolution - New York City FCMLS, Journée 21"
+      "affiche": "New England Revolution - New York City FC MLS"
     },
     {
       "heure": "01:00",
-      "description": "01h00 Atlanta United FC - Sporting Kansas CityMLS, Journée 21"
+      "affiche": "Atlanta United FC - Sporting Kansas City MLS"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Fulham - ChelseaPremier League, Journée 1"
+      "affiche": "Fulham - Chelsea Premier League"
     }
   ],
   "Espagne": [
     {
       "heure": "18:20",
-      "description": "18h20 Union Berlin F - Bayern Munich FBundesliga Féminine, Journée 1"
+      "affiche": "Union Berlin F - Bayern Munich F Bundesliga Féminine"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Betis Séville - Real SociedadLiga, Journée 2"
+      "affiche": "Betis Séville - Real Sociedad Liga"
     },
     {
       "heure": "12:00",
-      "description": "12h00 Francfort F - Cologne FBundesliga Féminine, Journée 1"
+      "affiche": "Francfort F - Cologne F Bundesliga Féminine"
     },
     {
       "heure": "17:00",
-      "description": "17h00 Athletic Bilbao - FC SévilleLiga, Journée 2"
+      "affiche": "Athletic Bilbao - FC Séville Liga"
     },
     {
       "heure": "19:30",
-      "description": "19h30 Valence - Celta VigoLiga, Journée 2"
+      "affiche": "Valence - Celta Vigo Liga"
     },
     {
       "heure": "21:30",
-      "description": "21h30 Espanyol Barcelone - Real MadridLiga, Journée 2"
+      "affiche": "Espanyol Barcelone - Real Madrid Liga"
     },
     {
       "heure": "21:30",
-      "description": "21h30 Sporting CP - AlvercaPrimeira Liga, Journée 3"
+      "affiche": "Sporting CP - Alverca Primeira Liga"
     },
     {
       "heure": "16:00",
-      "description": "16h00 RB Leipzig F - Bayer Leverkusen FBundesliga Féminine, Journée 1"
-    },
-    {
-      "heure": "17:00",
-      "description": "17h00 Atlético Madrid - VillarrealLiga, Journée 2"
+      "affiche": "RB Leipzig F - Bayer Leverkusen F Bundesliga Féminine"
     },
     {
       "heure": "19:00",
-      "description": "19h00 Santa Clara - FamalicaoPrimeira Liga, Journée 3"
+      "affiche": "Santa Clara - Famalicao Primeira Liga"
     },
     {
       "heure": "19:30",
-      "description": "19h30 Getafe - Racing SantanderLiga, Journée 2"
+      "affiche": "Getafe - Racing Santander Liga"
     },
     {
       "heure": "21:30",
-      "description": "21h30 Elche - FC BarceloneLiga, Journée 2"
+      "affiche": "Elche - FC Barcelone Liga"
     },
     {
       "heure": "21:30",
-      "description": "21h30 FC Porto - AroucaPrimeira Liga, Journée 3"
+      "affiche": "FC Porto - Arouca Primeira Liga"
     },
     {
       "heure": "18:00",
-      "description": "18h00 Mayence F - Werder Breme FBundesliga Féminine, Journée 1"
+      "affiche": "Mayence F - Werder Breme F Bundesliga Féminine"
     },
     {
       "heure": "19:30",
-      "description": "19h30 Osasuna - LevanteLiga, Journée 2"
+      "affiche": "Osasuna - Levante Liga"
     },
     {
       "heure": "21:30",
-      "description": "21h30 Malaga - Deportivo La CorogneLiga, Journée 2"
+      "affiche": "Malaga - Deportivo La Corogne Liga"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Valence - Betis SévilleLiga, Journée 1"
+      "affiche": "Valence - Betis Séville Liga"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Real Madrid - Real SociedadLiga, Journée 1"
+      "affiche": "Real Madrid - Real Sociedad Liga"
     }
   ],
   "Italie": [
     {
       "heure": "18:30",
-      "description": "18h30 Udinese - CômeSerie A, Journée 1"
+      "affiche": "Udinese - Côme Serie A"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Inter Milan - MonzaSerie A, Journée 1"
+      "affiche": "Inter Milan - Monza Serie A"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Genoa - NaplesSerie A, Journée 1"
+      "affiche": "Genoa - Naples Serie A"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Parme - CagliariSerie A, Journée 1"
+      "affiche": "Parme - Cagliari Serie A"
     },
     {
       "heure": "01:30",
-      "description": "01h30 Inter Miami - Toronto FCMLS, Journée 21"
+      "affiche": "Inter Miami - Toronto FC MLS"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Frosinone - Juventus TurinSerie A, Journée 1"
+      "affiche": "Frosinone - Juventus Turin Serie A"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Venise - LecceSerie A, Journée 1"
+      "affiche": "Venise - Lecce Serie A"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Torino - AC MilanSerie A, Journée 1"
+      "affiche": "Torino - AC Milan Serie A"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Atalanta - SassuoloSerie A, Journée 1"
+      "affiche": "Atalanta - Sassuolo Serie A"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Bologne - Lazio RomeSerie A, Journée 1"
+      "affiche": "Bologne - Lazio Rome Serie A"
     },
     {
       "heure": "20:45",
-      "description": "20h45 AS Roma - FiorentinaSerie A, Journée 1"
+      "affiche": "AS Roma - Fiorentina Serie A"
     }
   ],
-  "Allemagne": [
-    {
-      "heure": "13:00",
-      "description": "13h00 SV Wehen - Bayer LeverkusenCoupe d'Allemagne, 32e de finale"
-    },
-    {
-      "heure": "18:00",
-      "description": "18h00 Eintracht Trier - RB LeipzigCoupe d'Allemagne, 32e de finale"
-    },
-    {
-      "heure": "20:30",
-      "description": "20h30 Borussia Dortmund - Bayern MunichSupercoupe d'Allemagne, Finale"
-    }
-  ],
+  "Allemagne": [],
   "Europe": [
     {
       "heure": "18:45",
-      "description": "18h45 Sabah FA - Hapoel Beer ShevaLigue des Champions, Barrage"
+      "affiche": "Sabah FA - Hapoel Beer Sheva Ligue des Champions"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Lask Linz - Celtic GlasgowLigue des Champions, Barrage"
+      "affiche": "Lask Linz - Celtic Glasgow Ligue des Champions"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Bodo Glimt - NEC NimègueLigue des Champions, Barrage"
+      "affiche": "Bodo Glimt - NEC Nimègue Ligue des Champions"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Celje - Slovan BratislavaLigue des Champions, Barrage"
+      "affiche": "Celje - Slovan Bratislava Ligue des Champions"
     },
     {
       "heure": "21:00",
-      "description": "21h00 AEK Athènes - Levski SofiaLigue des Champions, Barrage"
+      "affiche": "AEK Athènes - Levski Sofia Ligue des Champions"
     },
     {
       "heure": "21:00",
-      "description": "21h00 Viking - Dinamo ZagrebLigue des Champions, Barrage"
+      "affiche": "Viking - Dinamo Zagreb Ligue des Champions"
     }
   ],
   "Autres": [
     {
-      "heure": "18:00",
-      "description": "18h00 SC St. Tönis - FrancfortCoupe d'Allemagne, 32e de finale"
-    },
-    {
-      "heure": "18:00",
-      "description": "18h00 Al Riyadh - Al-NassrSaudi Pro League, Journée 2"
-    },
-    {
-      "heure": "20:00",
-      "description": "20h00 Al-Qadisiyah FC - Al-IttihadSaudi Pro League, Journée 2"
-    },
-    {
       "heure": "20:30",
-      "description": "20h30 Erzurumspor FK - GalatasaraySüper Lig, Journée 2"
-    },
-    {
-      "heure": "20:45",
-      "description": "20h45 Hansa Rostock - StuttgartCoupe d'Allemagne, 32e de finale"
+      "affiche": "Erzurumspor FK - Galatasaray Süper Lig"
     },
     {
       "heure": "16:30",
-      "description": "16h30 Fortuna Sittard - AZ AlkmaarEredivisie, Journée 3"
-    },
-    {
-      "heure": "17:45",
-      "description": "17h45 Al-Fateh - Al-EttifaqSaudi Pro League, Journée 2"
+      "affiche": "Fortuna Sittard - AZ Alkmaar Eredivisie"
     },
     {
       "heure": "18:15",
-      "description": "18h15 Charleroi - MalinesJupiler Pro League, Journée 3"
-    },
-    {
-      "heure": "20:00",
-      "description": "20h00 Al-Ahli Saudi - AbhaSaudi Pro League, Journée 2"
+      "affiche": "Charleroi - Malines Jupiler Pro League"
     },
     {
       "heure": "20:30",
-      "description": "20h30 Fenerbahçe - KonyasporSüper Lig, Journée 2"
+      "affiche": "Fenerbahçe - Konyaspor Süper Lig"
     },
     {
       "heure": "20:45",
-      "description": "20h45 Anvers - Racing GenkJupiler Pro League, Journée 3"
+      "affiche": "Anvers - Racing Genk Jupiler Pro League"
     },
     {
       "heure": "01:30",
-      "description": "01h30 CF Montreal - Los Angeles GalaxyMLS, Journée 21"
+      "affiche": "CF Montreal - Los Angeles Galaxy MLS"
     },
     {
       "heure": "01:30",
-      "description": "01h30 FC Cincinnati - Seattle SoundersMLS, Journée 21"
+      "affiche": "FC Cincinnati - Seattle Sounders MLS"
     },
     {
       "heure": "01:30",
-      "description": "01h30 New York Red Bulls - Chicago FireMLS, Journée 21"
+      "affiche": "New York Red Bulls - Chicago Fire MLS"
     },
     {
       "heure": "02:30",
-      "description": "02h30 Austin FC - Philadelphia UnionMLS, Journée 21"
+      "affiche": "Austin FC - Philadelphia Union MLS"
     },
     {
       "heure": "02:30",
-      "description": "02h30 Nashville SC - Columbus CrewMLS, Journée 21"
+      "affiche": "Nashville SC - Columbus Crew MLS"
     },
     {
       "heure": "03:30",
-      "description": "03h30 Vancouver Whitecaps - FC DallasMLS, Journée 21"
+      "affiche": "Vancouver Whitecaps - FC Dallas MLS"
     },
     {
       "heure": "04:30",
-      "description": "04h30 Los Angeles FC - Portland TimbersMLS, Journée 21"
+      "affiche": "Los Angeles FC - Portland Timbers MLS"
     },
     {
       "heure": "04:30",
-      "description": "04h30 San Diego - Colorado RapidsMLS, Journée 21"
-    },
-    {
-      "heure": "12:30",
-      "description": "12h30 Machida Zelvia - Urawa RedsJ-League, Journée 3"
+      "affiche": "San Diego - Colorado Rapids MLS"
     },
     {
       "heure": "14:30",
-      "description": "14h30 PSV Eindhoven - GroningenEredivisie, Journée 3"
+      "affiche": "PSV Eindhoven - Groningen Eredivisie"
     },
     {
       "heure": "16:45",
-      "description": "16h45 Cambuur - FeyenoordEredivisie, Journée 3"
-    },
-    {
-      "heure": "18:00",
-      "description": "18h00 Trabzonspor - BaşakşehirSüper Lig, Journée 2"
+      "affiche": "Cambuur - Feyenoord Eredivisie"
     },
     {
       "heure": "18:30",
-      "description": "18h30 Club Bruges - Cercle BrugesJupiler Pro League, Journée 3"
+      "affiche": "Club Bruges - Cercle Bruges Jupiler Pro League"
     },
     {
       "heure": "20:30",
-      "description": "20h30 Alanyaspor - BesiktasSüper Lig, Journée 2"
-    },
-    {
-      "heure": "18:40",
-      "description": "18h40 NEOM - Al-Qadisiyah FCSaudi Pro League, Journée 3"
-    },
-    {
-      "heure": "20:00",
-      "description": "20h00 Al-Ittihad - Al-HazemSaudi Pro League, Journée 3"
+      "affiche": "Alanyaspor - Besiktas Süper Lig"
     },
     {
       "heure": "18:05",
-      "description": "18h05 Abha - Al KhaleejSaudi Pro League, Journée 3"
-    },
-    {
-      "heure": "20:00",
-      "description": "20h00 Al-Ettifaq - Al-NassrSaudi Pro League, Journée 3"
+      "affiche": "Abha - Al Khaleej Saudi Pro League"
     }
   ]
 }
