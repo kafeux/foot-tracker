@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Dunkerque - Montpellier Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Boulogne - Red Star Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Pau FC - Nancy Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Clermont Foot - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Sochaux - Guingamp Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:45",
-      "affiche": "Marseille - Strasbourg Ligue 1"
-    },
-    {
       "date": "Samedi 22 août",
       "heure": "12:00",
       "affiche": "Metz - Laval Ligue 2"
@@ -88,7 +53,7 @@
     {
       "date": "Dimanche 23 août",
       "heure": "18:45",
-      "affiche": "PSG - Rennes Ligue 1"
+      "affiche": "Rennes - PSG Ligue 1"
     },
     {
       "date": "Lundi 24 août",
@@ -102,16 +67,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 21 août",
-      "heure": "10:30",
-      "affiche": "FC Tokyo - JEF United Chiba J-League"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "19:00",
-      "affiche": "Arsenal - Coventry Premier League"
-    },
     {
       "date": "Samedi 22 août",
       "heure": "11:30",
@@ -210,16 +165,6 @@
   ],
   "Espagne": [
     {
-      "date": "Vendredi 21 août",
-      "heure": "16:20",
-      "affiche": "Union Berlin F - Bayern Munich F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "19:00",
-      "affiche": "Betis Séville - Real Sociedad Liga"
-    },
-    {
       "date": "Samedi 22 août",
       "heure": "10:00",
       "affiche": "Francfort F - Cologne F Bundesliga Féminine"
@@ -293,6 +238,16 @@
       "date": "Mercredi 26 août",
       "heure": "19:00",
       "affiche": "Real Madrid - Real Sociedad Liga"
+    },
+    {
+      "date": "Jeudi 27 août",
+      "heure": "18:30",
+      "affiche": "Celta Vigo - Osasuna Liga"
+    },
+    {
+      "date": "Jeudi 27 août",
+      "heure": "19:00",
+      "affiche": "FC Barcelone - Athletic Bilbao Liga"
     }
   ],
   "Italie": [
@@ -354,16 +309,6 @@
   ],
   "Allemagne": [
     {
-      "date": "Vendredi 21 août",
-      "heure": "16:00",
-      "affiche": "SC St. Tönis - Francfort Coupe d'Allemagne"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:45",
-      "affiche": "Hansa Rostock - Stuttgart Coupe d'Allemagne"
-    },
-    {
       "date": "Samedi 22 août",
       "heure": "11:00",
       "affiche": "SV Wehen - Bayer Leverkusen Coupe d'Allemagne"
@@ -412,21 +357,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 21 août",
-      "heure": "16:00",
-      "affiche": "Al Riyadh - Al-Nassr Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:00",
-      "affiche": "Al-Qadisiyah FC - Al-Ittihad Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 21 août",
-      "heure": "18:30",
-      "affiche": "Erzurumspor FK - Galatasaray Süper Lig"
-    },
     {
       "date": "Samedi 22 août",
       "heure": "14:30",
@@ -541,6 +471,11 @@
       "date": "Mardi 25 août",
       "heure": "18:00",
       "affiche": "Al-Ettifaq - Al-Nassr Saudi Pro League"
+    },
+    {
+      "date": "Jeudi 27 août",
+      "heure": "18:45",
+      "affiche": "Caen - Bastia Ligue 3"
     }
   ]
 }
