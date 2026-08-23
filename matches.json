@@ -1,46 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 22 août",
-      "heure": "12:00",
-      "affiche": "Metz - Laval Ligue 2"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "12:00",
-      "affiche": "Nantes - Rodez Ligue 2"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "15:15",
-      "affiche": "Lens - Auxerre Ligue 1"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:00",
-      "affiche": "Saint-Étienne - Grenoble Ligue 2"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Toulouse - Lyon Ligue 1"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Nice - Lorient Ligue 1"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Troyes - Paris FC Ligue 1"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Le Mans - Brest Ligue 1"
-    },
-    {
       "date": "Dimanche 23 août",
       "heure": "13:00",
       "affiche": "Angers - Lille Ligue 1"
@@ -64,44 +24,39 @@
       "date": "Mercredi 26 août",
       "heure": "19:00",
       "affiche": "Lyon - Fenerbahçe Ligue des Champions"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Montpellier - Boulogne Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Clermont Foot - Sochaux Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Nancy - Dunkerque Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Laval - Grenoble Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Rodez - Pau FC Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:45",
+      "affiche": "Lille - PSG Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 22 août",
-      "heure": "11:30",
-      "affiche": "Hull City - Manchester United Premier League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "11:30",
-      "affiche": "Lincoln - Portsmouth Championship"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "14:00",
-      "affiche": "Everton - Crystal Palace Premier League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "14:00",
-      "affiche": "Nottingham Forest - Leeds Premier League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "14:00",
-      "affiche": "Ipswich - Sunderland Premier League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "14:00",
-      "affiche": "West Ham - Charlton Championship"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "16:30",
-      "affiche": "Brentford - Tottenham Premier League"
-    },
     {
       "date": "Dimanche 23 août",
       "heure": "23:30",
@@ -161,34 +116,14 @@
       "date": "Lundi 24 août",
       "heure": "19:00",
       "affiche": "Fulham - Chelsea Premier League"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "19:30",
+      "affiche": "Alavés - Villarreal Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Samedi 22 août",
-      "heure": "10:00",
-      "affiche": "Francfort F - Cologne F Bundesliga Féminine"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "15:00",
-      "affiche": "Athletic Bilbao - FC Séville Liga"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "17:30",
-      "affiche": "Valence - Celta Vigo Liga"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "19:30",
-      "affiche": "Espanyol Barcelone - Real Madrid Liga"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "19:30",
-      "affiche": "Sporting CP - Alverca Primeira Liga"
-    },
     {
       "date": "Dimanche 23 août",
       "heure": "14:00",
@@ -248,29 +183,14 @@
       "date": "Jeudi 27 août",
       "heure": "19:00",
       "affiche": "FC Barcelone - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "17:00",
+      "affiche": "Racing Santander - Elche Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 22 août",
-      "heure": "16:30",
-      "affiche": "Udinese - Côme Serie A"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "16:30",
-      "affiche": "Inter Milan - Monza Serie A"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Genoa - Naples Serie A"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Parme - Cagliari Serie A"
-    },
     {
       "date": "Dimanche 23 août",
       "heure": "23:30",
@@ -305,25 +225,14 @@
       "date": "Lundi 24 août",
       "heure": "18:45",
       "affiche": "AS Roma - Fiorentina Serie A"
-    }
-  ],
-  "Allemagne": [
-    {
-      "date": "Samedi 22 août",
-      "heure": "11:00",
-      "affiche": "SV Wehen - Bayer Leverkusen Coupe d'Allemagne"
     },
     {
-      "date": "Samedi 22 août",
-      "heure": "16:00",
-      "affiche": "Eintracht Trier - RB Leipzig Coupe d'Allemagne"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:30",
-      "affiche": "Borussia Dortmund - Bayern Munich Supercoupe d'Allemagne"
+      "date": "Vendredi 28 août",
+      "heure": "18:45",
+      "affiche": "AC Milan - Venise Serie A"
     }
   ],
+  "Allemagne": [],
   "Europe": [
     {
       "date": "Mardi 25 août",
@@ -357,36 +266,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 22 août",
-      "heure": "14:30",
-      "affiche": "Fortuna Sittard - AZ Alkmaar Eredivisie"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "15:45",
-      "affiche": "Al-Fateh - Al-Ettifaq Saudi Pro League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "16:15",
-      "affiche": "Charleroi - Malines Jupiler Pro League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:00",
-      "affiche": "Al-Ahli Saudi - Abha Saudi Pro League"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:30",
-      "affiche": "Fenerbahçe - Konyaspor Süper Lig"
-    },
-    {
-      "date": "Samedi 22 août",
-      "heure": "18:45",
-      "affiche": "Anvers - Racing Genk Jupiler Pro League"
-    },
     {
       "date": "Dimanche 23 août",
       "heure": "23:30",
@@ -476,6 +355,16 @@
       "date": "Jeudi 27 août",
       "heure": "18:45",
       "affiche": "Caen - Bastia Ligue 3"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Al Khaleej - Al-Hilal Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Al-Nassr - Al-Taawoun Saudi Pro League"
     }
   ]
 }
