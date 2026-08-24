@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 23 août",
-      "heure": "13:00",
-      "affiche": "Angers - Lille Ligue 1"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "15:15",
-      "affiche": "Le Havre - Monaco Ligue 1"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "18:45",
-      "affiche": "Rennes - PSG Ligue 1"
-    },
-    {
       "date": "Lundi 24 août",
       "heure": "18:45",
       "affiche": "Reims - Annecy Ligue 2"
@@ -54,59 +39,54 @@
       "date": "Vendredi 28 août",
       "heure": "18:45",
       "affiche": "Lille - PSG Ligue 1"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:00",
+      "affiche": "Red Star - Reims Ligue 2"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:00",
+      "affiche": "Annecy - Metz Ligue 2"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Thionville Lusitanos - Paris 13 Atletico Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "15:15",
+      "affiche": "Strasbourg - Lens Ligue 1"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:00",
+      "affiche": "Guingamp - Nantes Ligue 2"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:45",
+      "affiche": "Lyon - Le Havre Ligue 1"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:45",
+      "affiche": "Lorient - Troyes Ligue 1"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:45",
+      "affiche": "Brest - Toulouse Ligue 1"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:45",
+      "affiche": "Auxerre - Angers Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "Orlando City SC - Real Salt Lake MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "Charlotte FC - DC United MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "00:30",
-      "affiche": "St. Louis City - Houston Dynamo MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "02:30",
-      "affiche": "San Jose Earthquakes - Minnesota United FC MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "11:00",
-      "affiche": "West Bromwich - Burnley Championship"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "13:00",
-      "affiche": "Manchester City - Bournemouth Premier League"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "13:00",
-      "affiche": "Brighton - Aston Villa Premier League"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "15:00",
-      "affiche": "Atlético Madrid - Villarreal Liga"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "15:30",
-      "affiche": "Newcastle - Liverpool Premier League"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "20:30",
-      "affiche": "New England Revolution - New York City FC MLS"
-    },
     {
       "date": "Lundi 24 août",
       "heure": "23:00",
@@ -124,31 +104,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 23 août",
-      "heure": "14:00",
-      "affiche": "RB Leipzig F - Bayer Leverkusen F Bundesliga Féminine"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "17:00",
-      "affiche": "Santa Clara - Famalicao Primeira Liga"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "17:30",
-      "affiche": "Getafe - Racing Santander Liga"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "19:30",
-      "affiche": "Elche - FC Barcelone Liga"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "19:30",
-      "affiche": "FC Porto - Arouca Primeira Liga"
-    },
     {
       "date": "Lundi 24 août",
       "heure": "16:00",
@@ -188,34 +143,24 @@
       "date": "Vendredi 28 août",
       "heure": "17:00",
       "affiche": "Racing Santander - Elche Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "15:00",
+      "affiche": "Levante - Betis Séville Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "17:00",
+      "affiche": "Real Sociedad - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "19:30",
+      "affiche": "FC Séville - Atlético Madrid Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "Inter Miami - Toronto FC MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "16:30",
-      "affiche": "Frosinone - Juventus Turin Serie A"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "16:30",
-      "affiche": "Venise - Lecce Serie A"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "18:45",
-      "affiche": "Torino - AC Milan Serie A"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "18:45",
-      "affiche": "Atalanta - Sassuolo Serie A"
-    },
     {
       "date": "Lundi 24 août",
       "heure": "16:30",
@@ -230,6 +175,26 @@
       "date": "Vendredi 28 août",
       "heure": "18:45",
       "affiche": "AC Milan - Venise Serie A"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "16:30",
+      "affiche": "Sassuolo - Torino Serie A"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "16:30",
+      "affiche": "Monza - Udinese Serie A"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "16:30",
+      "affiche": "Fiorentina - Frosinone Serie A"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:45",
+      "affiche": "Juventus Turin - Parme Serie A"
     }
   ],
   "Allemagne": [],
@@ -267,71 +232,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "CF Montreal - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "FC Cincinnati - Seattle Sounders MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - Chicago Fire MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "00:30",
-      "affiche": "Nashville SC - Columbus Crew MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "01:00",
-      "affiche": "Austin FC - Philadelphia Union MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "01:30",
-      "affiche": "Vancouver Whitecaps - FC Dallas MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "02:30",
-      "affiche": "Los Angeles FC - Portland Timbers MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "02:30",
-      "affiche": "San Diego - Colorado Rapids MLS"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "10:30",
-      "affiche": "Machida Zelvia - Urawa Reds J-League"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "12:30",
-      "affiche": "PSV Eindhoven - Groningen Eredivisie"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "14:45",
-      "affiche": "Cambuur - Feyenoord Eredivisie"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "16:30",
-      "affiche": "Club Bruges - Cercle Bruges Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 23 août",
-      "heure": "18:30",
-      "affiche": "Alanyaspor - Besiktas Süper Lig"
-    },
-    {
       "date": "Lundi 24 août",
       "heure": "16:40",
       "affiche": "NEOM - Al-Qadisiyah FC Saudi Pro League"
@@ -365,6 +265,46 @@
       "date": "Vendredi 28 août",
       "heure": "18:00",
       "affiche": "Al-Nassr - Al-Taawoun Saudi Pro League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Cannes - Le Puy Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Aubagne - Bourg-Péronnas Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Villefranche - Rouen Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Valenciennes - Concarneau Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Orléans - La Roche VF Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Amiens - Versailles Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "12:45",
+      "affiche": "Quevilly - Fleury 91 Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "20:30",
+      "affiche": "Seattle Sounders - Chicago Fire MLS"
     }
   ]
 }
