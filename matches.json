@@ -11,14 +11,9 @@
       "affiche": "Lyon - Fenerbahçe Ligue des Champions"
     },
     {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Montpellier - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Clermont Foot - Sochaux Ligue 2"
+      "date": "Jeudi 27 août",
+      "heure": "16:45",
+      "affiche": "Monaco - Gornik Zabrze Ligue Europa Conférence"
     },
     {
       "date": "Vendredi 28 août",
@@ -28,12 +23,27 @@
     {
       "date": "Vendredi 28 août",
       "heure": "18:00",
-      "affiche": "Laval - Grenoble Ligue 2"
+      "affiche": "Clermont Foot - Sochaux Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Montpellier - Boulogne Ligue 2"
     },
     {
       "date": "Vendredi 28 août",
       "heure": "18:00",
       "affiche": "Rodez - Pau FC Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Laval - Grenoble Ligue 2"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:00",
+      "affiche": "Multiplex - Multiplex Ligue 2"
     },
     {
       "date": "Vendredi 28 août",
@@ -123,9 +133,54 @@
       "affiche": "Preston - Everton League Cup"
     },
     {
+      "date": "Jeudi 27 août",
+      "heure": "18:30",
+      "affiche": "Chelsea - Luton League Cup"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "19:00",
+      "affiche": "Wrexham - Birmingham Championship"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "19:00",
+      "affiche": "Crystal Palace - Manchester City Premier League"
+    },
+    {
       "date": "Vendredi 28 août",
       "heure": "19:30",
       "affiche": "Alavés - Villarreal Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "11:30",
+      "affiche": "Middlesbrough - West Bromwich Championship"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "11:30",
+      "affiche": "Liverpool - Nottingham Forest Premier League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "14:00",
+      "affiche": "Cardiff - Sheffield United Championship"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "14:00",
+      "affiche": "Bournemouth - Everton Premier League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "14:00",
+      "affiche": "Coventry - Hull City Premier League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "16:30",
+      "affiche": "Tottenham - Newcastle Premier League"
     }
   ],
   "Espagne": [
@@ -166,8 +221,53 @@
     },
     {
       "date": "Vendredi 28 août",
+      "heure": "16:30",
+      "affiche": "Cologne F - Hoffenheim F Bundesliga Féminine"
+    },
+    {
+      "date": "Vendredi 28 août",
       "heure": "17:00",
       "affiche": "Racing Santander - Elche Liga"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "18:30",
+      "affiche": "Bayern Munich - Stuttgart Bundesliga"
+    },
+    {
+      "date": "Vendredi 28 août",
+      "heure": "19:15",
+      "affiche": "Rio Ave - Sporting CP Primeira Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "11:00",
+      "affiche": "Karlsruhe - Wolfsbourg Bundesliga 2"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "13:30",
+      "affiche": "RB Leipzig - Monchengladbach Bundesliga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "13:30",
+      "affiche": "SV Elversberg - Bayer Leverkusen Bundesliga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "13:30",
+      "affiche": "Cologne - Hoffenheim Bundesliga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "13:30",
+      "affiche": "Union Berlin - Francfort Bundesliga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "13:30",
+      "affiche": "Mayence - Paderborn Bundesliga"
     },
     {
       "date": "Samedi 29 août",
@@ -176,8 +276,23 @@
     },
     {
       "date": "Samedi 29 août",
+      "heure": "16:30",
+      "affiche": "Borussia Dortmund - Hambourg Bundesliga"
+    },
+    {
+      "date": "Samedi 29 août",
       "heure": "17:00",
       "affiche": "Real Sociedad - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "17:00",
+      "affiche": "Academico Viseu - FC Porto Primeira Liga"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:30",
+      "affiche": "Nuremberg - Arminia Bielefeld Bundesliga 2"
     },
     {
       "date": "Samedi 29 août",
@@ -323,8 +438,23 @@
     },
     {
       "date": "Jeudi 27 août",
+      "heure": "00:30",
+      "affiche": "Toluca - Austin FC Leagues Cup"
+    },
+    {
+      "date": "Jeudi 27 août",
+      "heure": "02:45",
+      "affiche": "Club America - Columbus Crew Leagues Cup"
+    },
+    {
+      "date": "Jeudi 27 août",
       "heure": "18:45",
       "affiche": "Caen - Bastia Ligue 3"
+    },
+    {
+      "date": "Jeudi 27 août",
+      "heure": "19:00",
+      "affiche": "Fulham - AFC Wimbledon League Cup"
     },
     {
       "date": "Vendredi 28 août",
@@ -370,6 +500,21 @@
       "date": "Samedi 29 août",
       "heure": "12:45",
       "affiche": "Quevilly - Fleury 91 Ligue 3"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "16:05",
+      "affiche": "Al Kholood - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:00",
+      "affiche": "Al-Fateh - Al-Ittihad Saudi Pro League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "18:30",
+      "affiche": "Galatasaray - Goztepe Süper Lig"
     },
     {
       "date": "Samedi 29 août",
