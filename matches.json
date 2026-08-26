@@ -109,24 +109,14 @@
       "date": "Dimanche 30 août",
       "heure": "18:45",
       "affiche": "Monaco - Marseille Ligue 1"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "18:45",
+      "affiche": "Dijon - Saint-Étienne Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Blackburn - Sheffield United League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Cambridge United - Millwall League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "19:00",
-      "affiche": "Nottingham Forest - Leeds League Cup"
-    },
     {
       "date": "Mercredi 26 août",
       "heure": "18:45",
@@ -231,14 +221,19 @@
       "date": "Dimanche 30 août",
       "heure": "15:30",
       "affiche": "Manchester United - Ipswich Premier League"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "23:00",
+      "affiche": "St. Louis City - FC Dallas MLS"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "19:00",
+      "affiche": "Aston Villa - Arsenal Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 25 août",
-      "heure": "19:00",
-      "affiche": "Valence - Betis Séville Liga"
-    },
     {
       "date": "Mercredi 26 août",
       "heure": "19:00",
@@ -358,6 +353,26 @@
       "date": "Dimanche 30 août",
       "heure": "19:30",
       "affiche": "Celta Vigo - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "17:30",
+      "affiche": "Osasuna - Getafe Liga"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "19:15",
+      "affiche": "Benfica - Estoril Primeira Liga"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "19:15",
+      "affiche": "Braga - Vitória SC Primeira Liga"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "19:30",
+      "affiche": "FC Barcelone - Rayo Vallecano Liga"
     }
   ],
   "Italie": [
@@ -405,25 +420,20 @@
       "date": "Dimanche 30 août",
       "heure": "18:45",
       "affiche": "Cagliari - Inter Milan Serie A"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "16:30",
+      "affiche": "Lecce - AS Roma Serie A"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "18:45",
+      "affiche": "Atalanta - Bologne Serie A"
     }
   ],
   "Allemagne": [],
   "Europe": [
-    {
-      "date": "Mardi 25 août",
-      "heure": "16:45",
-      "affiche": "Sabah FA - Hapoel Beer Sheva Ligue des Champions"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "19:00",
-      "affiche": "Lask Linz - Celtic Glasgow Ligue des Champions"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "19:00",
-      "affiche": "Bodo Glimt - NEC Nimègue Ligue des Champions"
-    },
     {
       "date": "Mercredi 26 août",
       "heure": "19:00",
@@ -441,51 +451,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mardi 25 août",
-      "heure": "16:05",
-      "affiche": "Abha - Al Khaleej Saudi Pro League"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:00",
-      "affiche": "Al-Ettifaq - Al-Nassr Saudi Pro League"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:00",
-      "affiche": "Cardiff - Norwich League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:30",
-      "affiche": "Doncaster - Middlesbrough League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Southampton - West Ham League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Sheffield Wednesday - Wolverhampton League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Watford - Peterborough League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "18:45",
-      "affiche": "Ipswich - Leicester League Cup"
-    },
-    {
-      "date": "Mardi 25 août",
-      "heure": "19:00",
-      "affiche": "Birmingham - Brentford League Cup"
-    },
     {
       "date": "Mercredi 26 août",
       "heure": "00:30",
@@ -645,6 +610,11 @@
       "date": "Dimanche 30 août",
       "heure": "18:30",
       "affiche": "Samsunspor - Fenerbahçe Süper Lig"
+    },
+    {
+      "date": "Lundi 31 août",
+      "heure": "18:30",
+      "affiche": "Besiktas - Çorum FK Süper Lig"
     }
   ]
 }
