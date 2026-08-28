@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "Lyon - Fenerbahçe Ligue des Champions"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "16:45",
-      "affiche": "Monaco - Gornik Zabrze Ligue Europa Conférence"
-    },
-    {
       "date": "Vendredi 28 août",
       "heure": "18:00",
       "affiche": "Nancy - Dunkerque Ligue 2"
@@ -118,26 +108,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mercredi 26 août",
-      "heure": "18:45",
-      "affiche": "Tottenham - Charlton League Cup"
-    },
-    {
-      "date": "Mercredi 26 août",
-      "heure": "18:45",
-      "affiche": "Newcastle - West Bromwich League Cup"
-    },
-    {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "Preston - Everton League Cup"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "18:30",
-      "affiche": "Chelsea - Luton League Cup"
-    },
-    {
       "date": "Vendredi 28 août",
       "heure": "19:00",
       "affiche": "Wrexham - Birmingham Championship"
@@ -239,21 +209,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "Real Madrid - Real Sociedad Liga"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "18:30",
-      "affiche": "Celta Vigo - Osasuna Liga"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "19:00",
-      "affiche": "FC Barcelone - Athletic Bilbao Liga"
-    },
     {
       "date": "Vendredi 28 août",
       "heure": "16:30",
@@ -382,11 +337,6 @@
   ],
   "Italie": [
     {
-      "date": "Mercredi 26 août",
-      "heure": "16:00",
-      "affiche": "Wolfsbourg F - Inter Milan F Ligue des Champions Féminine"
-    },
-    {
       "date": "Vendredi 28 août",
       "heure": "18:45",
       "affiche": "AC Milan - Venise Serie A"
@@ -442,55 +392,20 @@
       "affiche": "Atalanta - Bologne Serie A"
     }
   ],
-  "Allemagne": [],
-  "Europe": [
+  "Allemagne": [
     {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "Celje - Slovan Bratislava Ligue des Champions"
+      "date": "Mardi 1 septembre",
+      "heure": "18:45",
+      "affiche": "Hambourg - Borussia Dortmund Coupe d'Allemagne"
     },
     {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "AEK Athènes - Levski Sofia Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 26 août",
-      "heure": "19:00",
-      "affiche": "Viking - Dinamo Zagreb Ligue des Champions"
+      "date": "Mercredi 2 septembre",
+      "heure": "18:45",
+      "affiche": "VfL Osnabruck - Bayern Munich Coupe d'Allemagne"
     }
   ],
+  "Europe": [],
   "Autres": [
-    {
-      "date": "Mercredi 26 août",
-      "heure": "00:30",
-      "affiche": "Monterrey - Chicago Fire Leagues Cup"
-    },
-    {
-      "date": "Mercredi 26 août",
-      "heure": "02:30",
-      "affiche": "Leon - Real Salt Lake Leagues Cup"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "00:30",
-      "affiche": "Toluca - Austin FC Leagues Cup"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "02:45",
-      "affiche": "Club America - Columbus Crew Leagues Cup"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "18:45",
-      "affiche": "Caen - Bastia Ligue 3"
-    },
-    {
-      "date": "Jeudi 27 août",
-      "heure": "19:00",
-      "affiche": "Fulham - AFC Wimbledon League Cup"
-    },
     {
       "date": "Vendredi 28 août",
       "heure": "18:00",
@@ -625,6 +540,16 @@
       "date": "Lundi 31 août",
       "heure": "18:30",
       "affiche": "Besiktas - Çorum FK Süper Lig"
+    },
+    {
+      "date": "Mardi 1 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Hilal - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Mercredi 2 septembre",
+      "heure": "18:30",
+      "affiche": "Saint-Trond - Union Saint-Gilloise Jupiler Pro League"
     }
   ]
 }
