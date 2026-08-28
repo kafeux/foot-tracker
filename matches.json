@@ -206,6 +206,16 @@
       "date": "Lundi 31 août",
       "heure": "19:00",
       "affiche": "Aston Villa - Arsenal Premier League"
+    },
+    {
+      "date": "Mardi 1 septembre",
+      "heure": "19:00",
+      "affiche": "Stoke City - Norwich Championship"
+    },
+    {
+      "date": "Mercredi 2 septembre",
+      "heure": "19:00",
+      "affiche": "Burnley - Middlesbrough Championship"
     }
   ],
   "Espagne": [
@@ -316,6 +326,11 @@
     },
     {
       "date": "Lundi 31 août",
+      "heure": "16:00",
+      "affiche": "Bayern Munich F - Mayence F Bundesliga Féminine"
+    },
+    {
+      "date": "Lundi 31 août",
       "heure": "17:30",
       "affiche": "Osasuna - Getafe Liga"
     },
@@ -390,6 +405,11 @@
       "date": "Lundi 31 août",
       "heure": "18:45",
       "affiche": "Atalanta - Bologne Serie A"
+    },
+    {
+      "date": "Mardi 1 septembre",
+      "heure": "19:00",
+      "affiche": "Torino - Monza Coupe d'Italie"
     }
   ],
   "Allemagne": [
@@ -415,6 +435,16 @@
       "date": "Vendredi 28 août",
       "heure": "18:00",
       "affiche": "Al-Nassr - Al-Taawoun Saudi Pro League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "09:00",
+      "affiche": "Gamba Osaka - Sanfrecce Hiroshima J-League"
+    },
+    {
+      "date": "Samedi 29 août",
+      "heure": "10:00",
+      "affiche": "Urawa Reds - Yokohama FM J-League"
     },
     {
       "date": "Samedi 29 août",
@@ -543,8 +573,23 @@
     },
     {
       "date": "Mardi 1 septembre",
+      "heure": "16:00",
+      "affiche": "Parme - Cremonese Coupe d'Italie"
+    },
+    {
+      "date": "Mardi 1 septembre",
       "heure": "18:00",
       "affiche": "Al-Hilal - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Mercredi 2 septembre",
+      "heure": "13:00",
+      "affiche": "Sassuolo - Frosinone Coupe d'Italie"
+    },
+    {
+      "date": "Mercredi 2 septembre",
+      "heure": "16:00",
+      "affiche": "Udinese - Venise Coupe d'Italie"
     },
     {
       "date": "Mercredi 2 septembre",
