@@ -433,11 +433,6 @@
     },
     {
       "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "Columbus Crew - New England Revolution MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
       "heure": "00:30",
       "affiche": "Houston Dynamo - San Jose Earthquakes MLS"
     },
@@ -490,6 +485,11 @@
       "date": "Dimanche 30 août",
       "heure": "18:30",
       "affiche": "Samsunspor - Fenerbahçe Süper Lig"
+    },
+    {
+      "date": "Dimanche 30 août",
+      "heure": "20:30",
+      "affiche": "Columbus Crew - New England Revolution MLS"
     },
     {
       "date": "Lundi 31 août",
