@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Nancy - Dunkerque Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Clermont Foot - Sochaux Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Montpellier - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Rodez - Pau FC Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Laval - Grenoble Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:45",
-      "affiche": "Lille - PSG Ligue 1"
-    },
-    {
       "date": "Samedi 29 août",
       "heure": "12:00",
       "affiche": "Red Star - Reims Ligue 2"
@@ -104,24 +69,14 @@
       "date": "Lundi 31 août",
       "heure": "18:45",
       "affiche": "Dijon - Saint-Étienne Ligue 2"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "18:45",
+      "affiche": "Toulouse - Lille Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 28 août",
-      "heure": "19:00",
-      "affiche": "Wrexham - Birmingham Championship"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "19:00",
-      "affiche": "Crystal Palace - Manchester City Premier League"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "19:30",
-      "affiche": "Alavés - Villarreal Liga"
-    },
     {
       "date": "Samedi 29 août",
       "heure": "11:30",
@@ -219,26 +174,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 28 août",
-      "heure": "16:30",
-      "affiche": "Cologne F - Hoffenheim F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "17:00",
-      "affiche": "Racing Santander - Elche Liga"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:30",
-      "affiche": "Bayern Munich - Stuttgart Bundesliga"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "19:15",
-      "affiche": "Rio Ave - Sporting CP Primeira Liga"
-    },
     {
       "date": "Samedi 29 août",
       "heure": "11:00",
@@ -348,14 +283,14 @@
       "date": "Lundi 31 août",
       "heure": "19:30",
       "affiche": "FC Barcelone - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "19:00",
+      "affiche": "Real Sociedad - Celta Vigo Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:45",
-      "affiche": "AC Milan - Venise Serie A"
-    },
     {
       "date": "Samedi 29 août",
       "heure": "16:30",
@@ -426,16 +361,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Al Khaleej - Al-Hilal Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 28 août",
-      "heure": "18:00",
-      "affiche": "Al-Nassr - Al-Taawoun Saudi Pro League"
-    },
     {
       "date": "Samedi 29 août",
       "heure": "09:00",
@@ -595,6 +520,26 @@
       "date": "Mercredi 2 septembre",
       "heure": "18:30",
       "affiche": "Saint-Trond - Union Saint-Gilloise Jupiler Pro League"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "16:00",
+      "affiche": "Palerme - Mantova Coupe d'Italie"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "18:00",
+      "affiche": "Al Diriyah - Al-Qadisiyah FC Saudi Pro League"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "18:45",
+      "affiche": "Rouen - Valenciennes Ligue 3"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "19:00",
+      "affiche": "Cagliari - Hellas Verona Coupe d'Italie"
     }
   ]
 }
