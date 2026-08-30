@@ -1,51 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 29 août",
-      "heure": "12:00",
-      "affiche": "Red Star - Reims Ligue 2"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:00",
-      "affiche": "Annecy - Metz Ligue 2"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Thionville Lusitanos - Paris 13 Atletico Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "15:15",
-      "affiche": "Strasbourg - Lens Ligue 1"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:00",
-      "affiche": "Guingamp - Nantes Ligue 2"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:45",
-      "affiche": "Lyon - Le Havre Ligue 1"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:45",
-      "affiche": "Lorient - Troyes Ligue 1"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:45",
-      "affiche": "Brest - Toulouse Ligue 1"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:45",
-      "affiche": "Auxerre - Angers Ligue 1"
-    },
-    {
       "date": "Dimanche 30 août",
       "heure": "11:30",
       "affiche": "St. Pauli - Kaiserslautern Bundesliga 2"
@@ -74,39 +29,49 @@
       "date": "Jeudi 3 septembre",
       "heure": "18:45",
       "affiche": "Toulouse - Lille Ligue 1"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "17:00",
+      "affiche": "Lyon - Auxerre Ligue 1"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Grenoble - Annecy Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Laval - Red Star Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Pau FC - Sochaux Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Boulogne - Dijon Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Dunkerque - Clermont Foot Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "19:00",
+      "affiche": "Fleury F - Lyon F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "19:05",
+      "affiche": "PSG - Monaco Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 29 août",
-      "heure": "11:30",
-      "affiche": "Middlesbrough - West Bromwich Championship"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "11:30",
-      "affiche": "Liverpool - Nottingham Forest Premier League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "14:00",
-      "affiche": "Cardiff - Sheffield United Championship"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "14:00",
-      "affiche": "Bournemouth - Everton Premier League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "14:00",
-      "affiche": "Coventry - Hull City Premier League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:30",
-      "affiche": "Tottenham - Newcastle Premier League"
-    },
     {
       "date": "Dimanche 30 août",
       "heure": "23:30",
@@ -171,69 +136,14 @@
       "date": "Mercredi 2 septembre",
       "heure": "19:00",
       "affiche": "Burnley - Middlesbrough Championship"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "19:00",
+      "affiche": "Ipswich - Liverpool Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Samedi 29 août",
-      "heure": "11:00",
-      "affiche": "Karlsruhe - Wolfsbourg Bundesliga 2"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "13:30",
-      "affiche": "RB Leipzig - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "13:30",
-      "affiche": "SV Elversberg - Bayer Leverkusen Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "13:30",
-      "affiche": "Cologne - Hoffenheim Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "13:30",
-      "affiche": "Union Berlin - Francfort Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "13:30",
-      "affiche": "Mayence - Paderborn Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "15:00",
-      "affiche": "Levante - Betis Séville Liga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:30",
-      "affiche": "Borussia Dortmund - Hambourg Bundesliga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "17:00",
-      "affiche": "Real Sociedad - Espanyol Barcelone Liga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "17:00",
-      "affiche": "Academico Viseu - FC Porto Primeira Liga"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:30",
-      "affiche": "Nuremberg - Arminia Bielefeld Bundesliga 2"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "19:30",
-      "affiche": "FC Séville - Atlético Madrid Liga"
-    },
     {
       "date": "Dimanche 30 août",
       "heure": "13:30",
@@ -288,29 +198,19 @@
       "date": "Jeudi 3 septembre",
       "heure": "19:00",
       "affiche": "Real Sociedad - Celta Vigo Liga"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "16:30",
+      "affiche": "Hoffenheim F - Bayer Leverkusen F Bundesliga Féminine"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "19:00",
+      "affiche": "Betis Séville - Real Madrid Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:30",
-      "affiche": "Sassuolo - Torino Serie A"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:30",
-      "affiche": "Monza - Udinese Serie A"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:30",
-      "affiche": "Fiorentina - Frosinone Serie A"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:45",
-      "affiche": "Juventus Turin - Parme Serie A"
-    },
     {
       "date": "Dimanche 30 août",
       "heure": "23:30",
@@ -345,6 +245,11 @@
       "date": "Mardi 1 septembre",
       "heure": "19:00",
       "affiche": "Torino - Monza Coupe d'Italie"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:45",
+      "affiche": "Genoa - Côme Serie A"
     }
   ],
   "Allemagne": [
@@ -361,71 +266,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Samedi 29 août",
-      "heure": "09:00",
-      "affiche": "Gamba Osaka - Sanfrecce Hiroshima J-League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "10:00",
-      "affiche": "Urawa Reds - Yokohama FM J-League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Cannes - Le Puy Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Aubagne - Bourg-Péronnas Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Villefranche - Rouen Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Valenciennes - Concarneau Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Orléans - La Roche VF Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Amiens - Versailles Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "12:45",
-      "affiche": "Quevilly - Fleury 91 Ligue 3"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "16:05",
-      "affiche": "Al Kholood - Al-Ahli Saudi Saudi Pro League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:00",
-      "affiche": "Al-Fateh - Al-Ittihad Saudi Pro League"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "18:30",
-      "affiche": "Galatasaray - Goztepe Süper Lig"
-    },
-    {
-      "date": "Samedi 29 août",
-      "heure": "20:30",
-      "affiche": "Seattle Sounders - Chicago Fire MLS"
-    },
     {
       "date": "Dimanche 30 août",
       "heure": "23:30",
@@ -540,6 +380,16 @@
       "date": "Jeudi 3 septembre",
       "heure": "19:00",
       "affiche": "Cagliari - Hellas Verona Coupe d'Italie"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Al Shabab - Al-Hilal Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Ahli Saudi - Al Riyadh Saudi Pro League"
     }
   ]
 }
