@@ -1,26 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 30 août",
-      "heure": "11:30",
-      "affiche": "St. Pauli - Kaiserslautern Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "13:00",
-      "affiche": "Paris FC - Nice Ligue 1"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "15:15",
-      "affiche": "Rennes - Le Mans Ligue 1"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "18:45",
-      "affiche": "Monaco - Marseille Ligue 1"
-    },
-    {
       "date": "Lundi 31 août",
       "heure": "18:45",
       "affiche": "Dijon - Saint-Étienne Ligue 2"
@@ -69,54 +49,44 @@
       "date": "Vendredi 4 septembre",
       "heure": "19:05",
       "affiche": "PSG - Monaco Ligue 1"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:00",
+      "affiche": "Reims - Guingamp Ligue 2"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:00",
+      "affiche": "Metz - Rodez Ligue 2"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Paris 13 Atletico - Aubagne Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "15:15",
+      "affiche": "Lens - Lorient Ligue 1"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:00",
+      "affiche": "Saint-Étienne - Montpellier Ligue 2"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:45",
+      "affiche": "Nice - Le Mans Ligue 1"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:45",
+      "affiche": "Le Havre - Brest Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "DC United - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "Toronto FC - New York City FC MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "Atlanta United FC - Charlotte FC MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "00:30",
-      "affiche": "Minnesota United FC - Orlando City SC MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "00:30",
-      "affiche": "Sporting Kansas City - Vancouver Whitecaps MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "13:00",
-      "affiche": "Chelsea - Brighton Premier League"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "13:00",
-      "affiche": "Leeds - Brentford Premier League"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "13:00",
-      "affiche": "Sunderland - Fulham Premier League"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "15:30",
-      "affiche": "Manchester United - Ipswich Premier League"
-    },
     {
       "date": "Lundi 31 août",
       "heure": "23:00",
@@ -141,34 +111,19 @@
       "date": "Vendredi 4 septembre",
       "heure": "19:00",
       "affiche": "Ipswich - Liverpool Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "23:30",
+      "affiche": "New York City FC - Nashville SC MLS"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "19:00",
+      "affiche": "Villarreal - Deportivo La Corogne Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 30 août",
-      "heure": "13:30",
-      "affiche": "Fribourg - Werder Brême Bundesliga"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "15:00",
-      "affiche": "Real Madrid - Malaga Liga"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "15:30",
-      "affiche": "Augsbourg - Schalke 04 Bundesliga"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "17:30",
-      "affiche": "Deportivo La Corogne - Valence Liga"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "19:30",
-      "affiche": "Celta Vigo - Athletic Bilbao Liga"
-    },
     {
       "date": "Lundi 31 août",
       "heure": "16:00",
@@ -208,29 +163,19 @@
       "date": "Vendredi 4 septembre",
       "heure": "19:00",
       "affiche": "Betis Séville - Real Madrid Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:15",
+      "affiche": "Athletic Bilbao - Atlético Madrid Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "16:30",
+      "affiche": "Rayo Vallecano - Racing Santander Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "Inter Miami - CF Montreal MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "16:30",
-      "affiche": "Naples - Côme Serie A"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "18:45",
-      "affiche": "Lazio Rome - Genoa Serie A"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "18:45",
-      "affiche": "Cagliari - Inter Milan Serie A"
-    },
     {
       "date": "Lundi 31 août",
       "heure": "16:30",
@@ -250,6 +195,21 @@
       "date": "Vendredi 4 septembre",
       "heure": "18:45",
       "affiche": "Genoa - Côme Serie A"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:00",
+      "affiche": "Fiorentina - Torino Serie A"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "16:00",
+      "affiche": "Inter Milan - Naples Serie A"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:45",
+      "affiche": "AS Roma - Atalanta Serie A"
     }
   ],
   "Allemagne": [
@@ -266,71 +226,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Dimanche 30 août",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - Philadelphia Union MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "00:30",
-      "affiche": "Houston Dynamo - San Jose Earthquakes MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "00:30",
-      "affiche": "Nashville SC - FC Cincinnati MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "01:30",
-      "affiche": "Colorado Rapids - Real Salt Lake MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "02:30",
-      "affiche": "San Diego - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "02:30",
-      "affiche": "Portland Timbers - Austin FC MLS"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "10:15",
-      "affiche": "Utrecht - PSV Eindhoven Eredivisie"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "12:30",
-      "affiche": "Feyenoord - ADO Den Haag Eredivisie"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "14:45",
-      "affiche": "Telstar - Ajax Amsterdam Eredivisie"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "16:30",
-      "affiche": "Union Saint-Gilloise - Anderlecht Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "18:00",
-      "affiche": "Al-Qadisiyah FC - Al-Faisaly FC Saudi Pro League"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "18:30",
-      "affiche": "Samsunspor - Fenerbahçe Süper Lig"
-    },
-    {
-      "date": "Dimanche 30 août",
-      "heure": "20:30",
-      "affiche": "Columbus Crew - New England Revolution MLS"
-    },
     {
       "date": "Lundi 31 août",
       "heure": "18:30",
@@ -390,6 +285,51 @@
       "date": "Vendredi 4 septembre",
       "heure": "18:00",
       "affiche": "Al-Ahli Saudi - Al Riyadh Saudi Pro League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "La Roche VF - Quevilly Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Fleury 91 - Villefranche Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Versailles - Cannes Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Le Puy - Orléans Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Bastia - Amiens Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Concarneau - Thionville Lusitanos Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "12:45",
+      "affiche": "Bourg-Péronnas - Caen Ligue 3"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:30",
+      "affiche": "NEC Nimègue - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:00",
+      "affiche": "Ajax Amsterdam - PSV Eindhoven Eredivisie"
     }
   ]
 }
