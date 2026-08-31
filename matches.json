@@ -119,6 +119,46 @@
     },
     {
       "date": "Samedi 5 septembre",
+      "heure": "11:30",
+      "affiche": "Newcastle - Bournemouth Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Manchester City - Coventry Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Brentford - Sunderland Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Brighton - Leeds Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Fulham - Crystal Palace Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Nottingham Forest - Tottenham Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "16:30",
+      "affiche": "Hull City - Aston Villa Premier League"
+    },
+    {
+      "date": "Samedi 5 septembre",
       "heure": "19:00",
       "affiche": "Villarreal - Deportivo La Corogne Liga"
     }
@@ -137,12 +177,12 @@
     {
       "date": "Lundi 31 août",
       "heure": "19:15",
-      "affiche": "Benfica - Estoril Primeira Liga"
+      "affiche": "Braga - Vitória SC Primeira Liga"
     },
     {
       "date": "Lundi 31 août",
       "heure": "19:15",
-      "affiche": "Braga - Vitória SC Primeira Liga"
+      "affiche": "Benfica - Estoril Primeira Liga"
     },
     {
       "date": "Lundi 31 août",
@@ -216,7 +256,7 @@
     {
       "date": "Mardi 1 septembre",
       "heure": "18:45",
-      "affiche": "Hambourg - Borussia Dortmund Coupe d'Allemagne"
+      "affiche": "HEBC - Borussia Dortmund Coupe d'Allemagne"
     },
     {
       "date": "Mercredi 2 septembre",
@@ -226,6 +266,11 @@
   ],
   "Europe": [],
   "Autres": [
+    {
+      "date": "Lundi 31 août",
+      "heure": "18:30",
+      "affiche": "Amed - Trabzonspor Süper Lig"
+    },
     {
       "date": "Lundi 31 août",
       "heure": "18:30",
