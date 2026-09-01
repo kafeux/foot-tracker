@@ -216,8 +216,38 @@
     },
     {
       "date": "Vendredi 4 septembre",
+      "heure": "18:30",
+      "affiche": "Stuttgart - Cologne Bundesliga"
+    },
+    {
+      "date": "Vendredi 4 septembre",
       "heure": "19:00",
       "affiche": "Betis Séville - Real Madrid Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:30",
+      "affiche": "Bayer Leverkusen - Union Berlin Bundesliga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:30",
+      "affiche": "Werder Brême - RB Leipzig Bundesliga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:30",
+      "affiche": "Hoffenheim - Borussia Dortmund Bundesliga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:30",
+      "affiche": "Paderborn - Fribourg Bundesliga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "13:30",
+      "affiche": "Monchengladbach - SV Elversberg Bundesliga"
     },
     {
       "date": "Samedi 5 septembre",
@@ -230,9 +260,24 @@
       "affiche": "Rayo Vallecano - Racing Santander Liga"
     },
     {
+      "date": "Samedi 5 septembre",
+      "heure": "16:30",
+      "affiche": "Schalke 04 - Bayern Munich Bundesliga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:30",
+      "affiche": "Hambourg - Mayence Bundesliga"
+    },
+    {
       "date": "Dimanche 6 septembre",
       "heure": "14:15",
       "affiche": "Valence - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "15:30",
+      "affiche": "Francfort - Augsbourg Bundesliga"
     },
     {
       "date": "Dimanche 6 septembre",
@@ -410,6 +455,11 @@
       "date": "Samedi 5 septembre",
       "heure": "18:00",
       "affiche": "Ajax Amsterdam - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Ittihad - Al-Nassr Saudi Pro League"
     },
     {
       "date": "Dimanche 6 septembre",
