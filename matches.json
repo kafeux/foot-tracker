@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 31 août",
-      "heure": "18:45",
-      "affiche": "Dijon - Saint-Étienne Ligue 2"
-    },
-    {
       "date": "Jeudi 3 septembre",
       "heure": "18:45",
       "affiche": "Toulouse - Lille Ligue 1"
@@ -84,19 +79,24 @@
       "date": "Samedi 5 septembre",
       "heure": "18:45",
       "affiche": "Le Havre - Brest Ligue 1"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:00",
+      "affiche": "Troyes - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "15:15",
+      "affiche": "Angers - Rennes Ligue 1"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "18:45",
+      "affiche": "Marseille - Paris FC Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Lundi 31 août",
-      "heure": "23:00",
-      "affiche": "St. Louis City - FC Dallas MLS"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "19:00",
-      "affiche": "Aston Villa - Arsenal Premier League"
-    },
     {
       "date": "Mardi 1 septembre",
       "heure": "19:00",
@@ -161,34 +161,49 @@
       "date": "Samedi 5 septembre",
       "heure": "19:00",
       "affiche": "Villarreal - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Inter Miami - Atlanta United FC MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "FC Cincinnati - DC United MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Orlando City SC - San Diego MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "02:30",
+      "affiche": "Vancouver Whitecaps - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "02:30",
+      "affiche": "Portland Timbers - Minnesota United FC MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:00",
+      "affiche": "Everton - Manchester United Premier League"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "15:30",
+      "affiche": "Arsenal - Chelsea Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 31 août",
-      "heure": "16:00",
-      "affiche": "Bayern Munich F - Mayence F Bundesliga Féminine"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "17:30",
-      "affiche": "Osasuna - Getafe Liga"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "19:15",
-      "affiche": "Braga - Vitória SC Primeira Liga"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "19:15",
-      "affiche": "Benfica - Estoril Primeira Liga"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "19:30",
-      "affiche": "FC Barcelone - Rayo Vallecano Liga"
-    },
     {
       "date": "Jeudi 3 septembre",
       "heure": "19:00",
@@ -213,19 +228,29 @@
       "date": "Samedi 5 septembre",
       "heure": "16:30",
       "affiche": "Rayo Vallecano - Racing Santander Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "14:15",
+      "affiche": "Valence - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "16:30",
+      "affiche": "Malaga - Levante Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "16:30",
+      "affiche": "Alavés - Osasuna Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "19:00",
+      "affiche": "Espanyol Barcelone - FC Séville Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 31 août",
-      "heure": "16:30",
-      "affiche": "Lecce - AS Roma Serie A"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "18:45",
-      "affiche": "Atalanta - Bologne Serie A"
-    },
     {
       "date": "Mardi 1 septembre",
       "heure": "19:00",
@@ -250,6 +275,26 @@
       "date": "Samedi 5 septembre",
       "heure": "18:45",
       "affiche": "AS Roma - Atalanta Serie A"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:00",
+      "affiche": "Frosinone - Venise Serie A"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:00",
+      "affiche": "Parme - Monza Serie A"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "16:00",
+      "affiche": "Bologne - Sassuolo Serie A"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "18:45",
+      "affiche": "Juventus Turin - AC Milan Serie A"
     }
   ],
   "Allemagne": [
@@ -266,16 +311,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Lundi 31 août",
-      "heure": "18:30",
-      "affiche": "Amed - Trabzonspor Süper Lig"
-    },
-    {
-      "date": "Lundi 31 août",
-      "heure": "18:30",
-      "affiche": "Besiktas - Çorum FK Süper Lig"
-    },
     {
       "date": "Mardi 1 septembre",
       "heure": "16:00",
@@ -375,6 +410,46 @@
       "date": "Samedi 5 septembre",
       "heure": "18:00",
       "affiche": "Ajax Amsterdam - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Philadelphia Union - CF Montreal MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Columbus Crew - Colorado Rapids MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Toronto FC - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "23:30",
+      "affiche": "Charlotte FC - Houston Dynamo MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "00:30",
+      "affiche": "Seattle Sounders - New York Red Bulls MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "00:30",
+      "affiche": "Austin FC - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "01:30",
+      "affiche": "Los Angeles Galaxy - New England Revolution MLS"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "01:30",
+      "affiche": "Real Salt Lake - Los Angeles FC MLS"
     }
   ]
 }
