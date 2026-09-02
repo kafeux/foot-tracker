@@ -37,6 +37,11 @@
     },
     {
       "date": "Vendredi 4 septembre",
+      "heure": "18:00",
+      "affiche": "Multiplex - Multiplex Ligue 2"
+    },
+    {
+      "date": "Vendredi 4 septembre",
       "heure": "19:00",
       "affiche": "Fleury F - Lyon F D1 Féminine"
     },
@@ -48,12 +53,12 @@
     {
       "date": "Samedi 5 septembre",
       "heure": "12:00",
-      "affiche": "Reims - Guingamp Ligue 2"
+      "affiche": "Metz - Rodez Ligue 2"
     },
     {
       "date": "Samedi 5 septembre",
       "heure": "12:00",
-      "affiche": "Metz - Rodez Ligue 2"
+      "affiche": "Reims - Guingamp Ligue 2"
     },
     {
       "date": "Samedi 5 septembre",
@@ -67,8 +72,23 @@
     },
     {
       "date": "Samedi 5 septembre",
+      "heure": "16:00",
+      "affiche": "Montpellier F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "16:00",
+      "affiche": "Strasbourg F - Saint-Malo F D1 Féminine"
+    },
+    {
+      "date": "Samedi 5 septembre",
       "heure": "18:00",
       "affiche": "Saint-Étienne - Montpellier Ligue 2"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "18:00",
+      "affiche": "Lens F - PSG F D1 Féminine"
     },
     {
       "date": "Samedi 5 septembre",
@@ -81,9 +101,19 @@
       "affiche": "Le Havre - Brest Ligue 1"
     },
     {
+      "date": "Samedi 5 septembre",
+      "heure": "19:00",
+      "affiche": "Marseille F - Le Havre F D1 Féminine"
+    },
+    {
       "date": "Dimanche 6 septembre",
       "heure": "13:00",
       "affiche": "Troyes - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "13:00",
+      "affiche": "Paris FC F - Nantes F D1 Féminine"
     },
     {
       "date": "Dimanche 6 septembre",
@@ -124,6 +154,11 @@
     },
     {
       "date": "Samedi 5 septembre",
+      "heure": "11:30",
+      "affiche": "Preston - Blackburn Championship"
+    },
+    {
+      "date": "Samedi 5 septembre",
       "heure": "14:00",
       "affiche": "Manchester City - Coventry Premier League"
     },
@@ -154,6 +189,11 @@
     },
     {
       "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Burnley - Bristol City Championship"
+    },
+    {
+      "date": "Samedi 5 septembre",
       "heure": "16:30",
       "affiche": "Hull City - Aston Villa Premier League"
     },
@@ -161,6 +201,11 @@
       "date": "Samedi 5 septembre",
       "heure": "19:00",
       "affiche": "Villarreal - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "19:00",
+      "affiche": "Swansea - Wrexham Championship"
     },
     {
       "date": "Dimanche 6 septembre",
@@ -194,6 +239,11 @@
     },
     {
       "date": "Dimanche 6 septembre",
+      "heure": "11:00",
+      "affiche": "Birmingham - Wolverhampton Championship"
+    },
+    {
+      "date": "Dimanche 6 septembre",
       "heure": "13:00",
       "affiche": "Everton - Manchester United Premier League"
     },
@@ -223,6 +273,16 @@
       "date": "Vendredi 4 septembre",
       "heure": "19:00",
       "affiche": "Betis Séville - Real Madrid Liga"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "19:15",
+      "affiche": "FC Porto - Moreirense Primeira Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "11:00",
+      "affiche": "Kaiserslautern - Darmstadt Bundesliga 2"
     },
     {
       "date": "Samedi 5 septembre",
@@ -263,6 +323,26 @@
       "date": "Samedi 5 septembre",
       "heure": "16:30",
       "affiche": "Schalke 04 - Bayern Munich Bundesliga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "17:00",
+      "affiche": "Maritimo - Benfica Primeira Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "17:00",
+      "affiche": "Alverca - Braga Primeira Liga"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "19:30",
+      "affiche": "Sporting CP - Nacional Primeira Liga"
+    },
+    {
+      "date": "Dimanche 6 septembre",
+      "heure": "11:30",
+      "affiche": "Hertha BSC - FC Magdebourg Bundesliga 2"
     },
     {
       "date": "Dimanche 6 septembre",
@@ -368,6 +448,16 @@
   "Autres": [
     {
       "date": "Mercredi 2 septembre",
+      "heure": "10:00",
+      "affiche": "Machida Zelvia - Kawasaki Frontale J-League"
+    },
+    {
+      "date": "Mercredi 2 septembre",
+      "heure": "10:00",
+      "affiche": "Mito Hollyhock - Kashima Antlers J-League"
+    },
+    {
+      "date": "Mercredi 2 septembre",
       "heure": "13:00",
       "affiche": "Sassuolo - Frosinone Coupe d'Italie"
     },
@@ -380,6 +470,16 @@
       "date": "Mercredi 2 septembre",
       "heure": "18:30",
       "affiche": "Saint-Trond - Union Saint-Gilloise Jupiler Pro League"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "01:00",
+      "affiche": "Toluca - Leon Leagues Cup"
+    },
+    {
+      "date": "Jeudi 3 septembre",
+      "heure": "03:30",
+      "affiche": "Club America - Monterrey Leagues Cup"
     },
     {
       "date": "Jeudi 3 septembre",
@@ -410,6 +510,11 @@
       "date": "Vendredi 4 septembre",
       "heure": "18:00",
       "affiche": "Al-Ahli Saudi - Al Riyadh Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 4 septembre",
+      "heure": "18:45",
+      "affiche": "Lommel - Club Bruges Jupiler Pro League"
     },
     {
       "date": "Samedi 5 septembre",
@@ -448,8 +553,23 @@
     },
     {
       "date": "Samedi 5 septembre",
+      "heure": "14:00",
+      "affiche": "Charleroi - Union Saint-Gilloise Jupiler Pro League"
+    },
+    {
+      "date": "Samedi 5 septembre",
       "heure": "14:30",
       "affiche": "NEC Nimègue - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "15:55",
+      "affiche": "Al-Taawoun - Al-Fateh Saudi Pro League"
+    },
+    {
+      "date": "Samedi 5 septembre",
+      "heure": "17:00",
+      "affiche": "Fenerbahçe - Besiktas Süper Lig"
     },
     {
       "date": "Samedi 5 septembre",
@@ -500,6 +620,11 @@
       "date": "Dimanche 6 septembre",
       "heure": "01:30",
       "affiche": "Real Salt Lake - Los Angeles FC MLS"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Hilal - NEOM Saudi Pro League"
     }
   ]
 }
