@@ -94,14 +94,14 @@
       "date": "Dimanche 6 septembre",
       "heure": "18:45",
       "affiche": "Marseille - Paris FC Ligue 1"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "18:45",
+      "affiche": "Nantes - Nancy Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 1 septembre",
-      "heure": "19:00",
-      "affiche": "Stoke City - Norwich Championship"
-    },
     {
       "date": "Mercredi 2 septembre",
       "heure": "19:00",
@@ -293,14 +293,19 @@
       "date": "Dimanche 6 septembre",
       "heure": "19:00",
       "affiche": "Espanyol Barcelone - FC Séville Liga"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "17:00",
+      "affiche": "Getafe - Celta Vigo Liga"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "19:30",
+      "affiche": "Elche - Real Sociedad Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Mardi 1 septembre",
-      "heure": "19:00",
-      "affiche": "Torino - Monza Coupe d'Italie"
-    },
     {
       "date": "Vendredi 4 septembre",
       "heure": "18:45",
@@ -340,14 +345,19 @@
       "date": "Dimanche 6 septembre",
       "heure": "18:45",
       "affiche": "Juventus Turin - AC Milan Serie A"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "16:30",
+      "affiche": "Cagliari - Lecce Serie A"
+    },
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "18:45",
+      "affiche": "Udinese - Lazio Rome Serie A"
     }
   ],
   "Allemagne": [
-    {
-      "date": "Mardi 1 septembre",
-      "heure": "18:45",
-      "affiche": "HEBC - Borussia Dortmund Coupe d'Allemagne"
-    },
     {
       "date": "Mercredi 2 septembre",
       "heure": "18:45",
@@ -356,16 +366,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Mardi 1 septembre",
-      "heure": "16:00",
-      "affiche": "Parme - Cremonese Coupe d'Italie"
-    },
-    {
-      "date": "Mardi 1 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Hilal - Al-Ahli Saudi Saudi Pro League"
-    },
     {
       "date": "Mercredi 2 septembre",
       "heure": "13:00",
