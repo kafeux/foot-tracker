@@ -129,14 +129,14 @@
       "date": "Lundi 7 septembre",
       "heure": "18:45",
       "affiche": "Nantes - Nancy Ligue 2"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "Lille - Betis Séville Ligue des Champions"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "19:00",
-      "affiche": "Burnley - Middlesbrough Championship"
-    },
     {
       "date": "Vendredi 4 septembre",
       "heure": "19:00",
@@ -251,6 +251,26 @@
       "date": "Dimanche 6 septembre",
       "heure": "15:30",
       "affiche": "Arsenal - Chelsea Premier League"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "16:45",
+      "affiche": "Club Bruges - Aston Villa Ligue des Champions"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "Bolton - West Ham Championship"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "FC Porto - Manchester City Ligue des Champions"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "Borussia Dortmund - Villarreal Ligue des Champions"
     }
   ],
   "Espagne": [
@@ -383,6 +403,11 @@
       "date": "Lundi 7 septembre",
       "heure": "19:30",
       "affiche": "Elche - Real Sociedad Liga"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "Real Madrid - Inter Milan Ligue des Champions"
     }
   ],
   "Italie": [
@@ -437,40 +462,15 @@
       "affiche": "Udinese - Lazio Rome Serie A"
     }
   ],
-  "Allemagne": [
+  "Allemagne": [],
+  "Europe": [
     {
-      "date": "Mercredi 2 septembre",
-      "heure": "18:45",
-      "affiche": "VfL Osnabruck - Bayern Munich Coupe d'Allemagne"
+      "date": "Mardi 8 septembre",
+      "heure": "16:45",
+      "affiche": "AEK Athènes - Lask Linz Ligue des Champions"
     }
   ],
-  "Europe": [],
   "Autres": [
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "10:00",
-      "affiche": "Machida Zelvia - Kawasaki Frontale J-League"
-    },
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "10:00",
-      "affiche": "Mito Hollyhock - Kashima Antlers J-League"
-    },
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "13:00",
-      "affiche": "Sassuolo - Frosinone Coupe d'Italie"
-    },
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "16:00",
-      "affiche": "Udinese - Venise Coupe d'Italie"
-    },
-    {
-      "date": "Mercredi 2 septembre",
-      "heure": "18:30",
-      "affiche": "Saint-Trond - Union Saint-Gilloise Jupiler Pro League"
-    },
     {
       "date": "Jeudi 3 septembre",
       "heure": "01:00",
@@ -625,6 +625,21 @@
       "date": "Lundi 7 septembre",
       "heure": "18:00",
       "affiche": "Al-Hilal - NEOM Saudi Pro League"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "15:30",
+      "affiche": "Al-Ettifaq - Al-Faisaly FC Saudi Pro League"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Ittihad - Al-Fayha Saudi Pro League"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Qadisiyah FC - Al-Ahli Saudi Saudi Pro League"
     }
   ]
 }
