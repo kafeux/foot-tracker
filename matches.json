@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 3 septembre",
-      "heure": "18:45",
-      "affiche": "Toulouse - Lille Ligue 1"
-    },
-    {
       "date": "Vendredi 4 septembre",
       "heure": "17:00",
       "affiche": "Lyon - Auxerre Ligue 1"
@@ -271,14 +266,24 @@
       "date": "Mardi 8 septembre",
       "heure": "19:00",
       "affiche": "Borussia Dortmund - Villarreal Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Charlton - QPR Championship"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Liverpool - Atlético Madrid Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Naples - Arsenal Ligue des Champions"
     }
   ],
   "Espagne": [
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "19:00",
-      "affiche": "Real Sociedad - Celta Vigo Liga"
-    },
     {
       "date": "Vendredi 4 septembre",
       "heure": "16:30",
@@ -408,6 +413,16 @@
       "date": "Mardi 8 septembre",
       "heure": "19:00",
       "affiche": "Real Madrid - Inter Milan Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "16:45",
+      "affiche": "FC Barcelone - Feyenoord Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:45",
+      "affiche": "Moreirense - Benfica Primeira Liga"
     }
   ],
   "Italie": [
@@ -462,45 +477,41 @@
       "affiche": "Udinese - Lazio Rome Serie A"
     }
   ],
-  "Allemagne": [],
+  "Allemagne": [
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "16:45",
+      "affiche": "Stuttgart - Viking Ligue des Champions"
+    }
+  ],
   "Europe": [
     {
       "date": "Mardi 8 septembre",
       "heure": "16:45",
       "affiche": "AEK Athènes - Lask Linz Ligue des Champions"
+    },
+    {
+      "date": "Mardi 8 septembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "PSG - Slovan Bratislava Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Sporting CP - Galatasaray Ligue des Champions"
     }
   ],
   "Autres": [
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "01:00",
-      "affiche": "Toluca - Leon Leagues Cup"
-    },
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "03:30",
-      "affiche": "Club America - Monterrey Leagues Cup"
-    },
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "16:00",
-      "affiche": "Palerme - Mantova Coupe d'Italie"
-    },
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "18:00",
-      "affiche": "Al Diriyah - Al-Qadisiyah FC Saudi Pro League"
-    },
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "18:45",
-      "affiche": "Rouen - Valenciennes Ligue 3"
-    },
-    {
-      "date": "Jeudi 3 septembre",
-      "heure": "19:00",
-      "affiche": "Cagliari - Hellas Verona Coupe d'Italie"
-    },
     {
       "date": "Vendredi 4 septembre",
       "heure": "18:00",
@@ -640,6 +651,11 @@
       "date": "Mardi 8 septembre",
       "heure": "18:00",
       "affiche": "Al-Qadisiyah FC - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "18:00",
+      "affiche": "Al-Nassr - Abha Saudi Pro League"
     }
   ]
 }
