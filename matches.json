@@ -1,51 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 4 septembre",
-      "heure": "17:00",
-      "affiche": "Lyon - Auxerre Ligue 1"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Grenoble - Annecy Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Laval - Red Star Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Pau FC - Sochaux Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Dunkerque - Clermont Foot Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Boulogne - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "19:00",
-      "affiche": "Fleury F - Lyon F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "19:05",
-      "affiche": "PSG - Monaco Ligue 1"
-    },
-    {
       "date": "Samedi 5 septembre",
       "heure": "12:00",
       "affiche": "Metz - Rodez Ligue 2"
@@ -132,11 +87,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "19:00",
-      "affiche": "Ipswich - Liverpool Premier League"
-    },
     {
       "date": "Samedi 5 septembre",
       "heure": "23:30",
@@ -281,29 +231,34 @@
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
       "affiche": "Naples - Arsenal Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:30",
+      "affiche": "Atlanta United FC - Orlando City SC MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:30",
+      "affiche": "DC United - Columbus Crew MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "00:00",
+      "affiche": "New York City FC - New England Revolution MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "00:30",
+      "affiche": "Minnesota United FC - FC Dallas MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "02:30",
+      "affiche": "Portland Timbers - St. Louis City MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "16:30",
-      "affiche": "Hoffenheim F - Bayer Leverkusen F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:30",
-      "affiche": "Stuttgart - Cologne Bundesliga"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "19:00",
-      "affiche": "Betis Séville - Real Madrid Liga"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "19:15",
-      "affiche": "FC Porto - Moreirense Primeira Liga"
-    },
     {
       "date": "Samedi 5 septembre",
       "heure": "11:00",
@@ -423,14 +378,14 @@
       "date": "Mercredi 9 septembre",
       "heure": "19:45",
       "affiche": "Moreirense - Benfica Primeira Liga"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:15",
+      "affiche": "Estrela - Braga Primeira Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:45",
-      "affiche": "Genoa - Côme Serie A"
-    },
     {
       "date": "Samedi 5 septembre",
       "heure": "13:00",
@@ -475,6 +430,11 @@
       "date": "Lundi 7 septembre",
       "heure": "18:45",
       "affiche": "Udinese - Lazio Rome Serie A"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "00:30",
+      "affiche": "Chicago Fire - Inter Miami MLS"
     }
   ],
   "Allemagne": [
@@ -512,21 +472,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Al Shabab - Al-Hilal Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Ahli Saudi - Al Riyadh Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 4 septembre",
-      "heure": "18:45",
-      "affiche": "Lommel - Club Bruges Jupiler Pro League"
-    },
     {
       "date": "Samedi 5 septembre",
       "heure": "12:45",
@@ -666,6 +611,51 @@
       "date": "Mercredi 9 septembre",
       "heure": "18:00",
       "affiche": "Al-Nassr - Abha Saudi Pro League"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:30",
+      "affiche": "Philadelphia Union - FC Cincinnati MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:30",
+      "affiche": "Toronto FC - Nashville SC MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:30",
+      "affiche": "CF Montreal - Charlotte FC MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "00:30",
+      "affiche": "Austin FC - Colorado Rapids MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "00:30",
+      "affiche": "Houston Dynamo - Real Salt Lake MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "02:30",
+      "affiche": "Los Angeles FC - New York Red Bulls MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "02:30",
+      "affiche": "Vancouver Whitecaps - Los Angeles Galaxy MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "02:30",
+      "affiche": "San Diego - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "18:45",
+      "affiche": "Cannes - Amiens Ligue 3"
     }
   ]
 }
