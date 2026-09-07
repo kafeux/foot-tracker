@@ -1,26 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:00",
-      "affiche": "Troyes - Strasbourg Ligue 1"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:00",
-      "affiche": "Paris FC F - Nantes F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "15:15",
-      "affiche": "Angers - Rennes Ligue 1"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "18:45",
-      "affiche": "Marseille - Paris FC Ligue 1"
-    },
-    {
       "date": "Lundi 7 septembre",
       "heure": "18:45",
       "affiche": "Nantes - Nancy Ligue 2"
@@ -64,54 +44,54 @@
       "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "PSG F - Strasbourg F D1 Féminine"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:00",
+      "affiche": "Guingamp - Annecy Ligue 2"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:00",
+      "affiche": "Sochaux - Nantes Ligue 2"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Caen - Paris 13 Atletico Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "15:15",
+      "affiche": "Strasbourg - Monaco Ligue 1"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:00",
+      "affiche": "Dunkerque - Saint-Étienne Ligue 2"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:45",
+      "affiche": "Lorient - Toulouse Ligue 1"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:45",
+      "affiche": "Auxerre - Nice Ligue 1"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:45",
+      "affiche": "Le Havre - Angers Ligue 1"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:45",
+      "affiche": "Paris FC - Lyon Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Inter Miami - Atlanta United FC MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "FC Cincinnati - DC United MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Orlando City SC - San Diego MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "00:30",
-      "affiche": "FC Dallas - Sporting Kansas City MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "02:30",
-      "affiche": "Vancouver Whitecaps - St. Louis City MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "02:30",
-      "affiche": "Portland Timbers - Minnesota United FC MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "11:00",
-      "affiche": "Birmingham - Wolverhampton Championship"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:00",
-      "affiche": "Everton - Manchester United Premier League"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "15:30",
-      "affiche": "Arsenal - Chelsea Premier League"
-    },
     {
       "date": "Mardi 8 septembre",
       "heure": "16:45",
@@ -180,41 +160,6 @@
   ],
   "Espagne": [
     {
-      "date": "Dimanche 6 septembre",
-      "heure": "11:30",
-      "affiche": "Hertha BSC - FC Magdebourg Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:30",
-      "affiche": "Hambourg - Mayence Bundesliga"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "14:15",
-      "affiche": "Valence - FC Barcelone Liga"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "15:30",
-      "affiche": "Francfort - Augsbourg Bundesliga"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "16:30",
-      "affiche": "Malaga - Levante Liga"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "16:30",
-      "affiche": "Alavés - Osasuna Liga"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "19:00",
-      "affiche": "Espanyol Barcelone - FC Séville Liga"
-    },
-    {
       "date": "Lundi 7 septembre",
       "heure": "17:00",
       "affiche": "Getafe - Celta Vigo Liga"
@@ -253,29 +198,29 @@
       "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "FC Séville - Valence Liga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:00",
+      "affiche": "Racing Santander - Alavés Liga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "14:15",
+      "affiche": "Osasuna - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "16:30",
+      "affiche": "Athletic Bilbao - Elche Liga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "19:00",
+      "affiche": "Real Madrid - Rayo Vallecano Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:00",
-      "affiche": "Frosinone - Venise Serie A"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "13:00",
-      "affiche": "Parme - Monza Serie A"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "16:00",
-      "affiche": "Bologne - Sassuolo Serie A"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "18:45",
-      "affiche": "Juventus Turin - AC Milan Serie A"
-    },
     {
       "date": "Lundi 7 septembre",
       "heure": "16:30",
@@ -295,6 +240,21 @@
       "date": "Vendredi 11 septembre",
       "heure": "18:45",
       "affiche": "Venise - Fiorentina Serie A"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:00",
+      "affiche": "Genoa - Frosinone Serie A"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "16:00",
+      "affiche": "Lazio Rome - AC Milan Serie A"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:45",
+      "affiche": "Atalanta - Cagliari Serie A"
     }
   ],
   "Allemagne": [
@@ -332,56 +292,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Philadelphia Union - CF Montreal MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Columbus Crew - Colorado Rapids MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Toronto FC - Chicago Fire MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "23:30",
-      "affiche": "Charlotte FC - Houston Dynamo MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "00:30",
-      "affiche": "Seattle Sounders - New York Red Bulls MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "00:30",
-      "affiche": "Austin FC - San Jose Earthquakes MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "01:30",
-      "affiche": "Los Angeles Galaxy - New England Revolution MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "01:30",
-      "affiche": "Real Salt Lake - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "09:00",
-      "affiche": "Kashima Antlers - Urawa Reds J-League"
-    },
-    {
-      "date": "Dimanche 6 septembre",
-      "heure": "10:00",
-      "affiche": "Kashiwa Reysol - Yokohama FM J-League"
-    },
     {
       "date": "Lundi 7 septembre",
       "heure": "18:00",
@@ -451,6 +361,46 @@
       "date": "Jeudi 10 septembre",
       "heure": "18:45",
       "affiche": "Cannes - Amiens Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Thionville Lusitanos - Rouen Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Aubagne - Concarneau Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Villefranche - La Roche VF Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Quevilly - Le Puy Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Bourg-Péronnas - Bastia Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Valenciennes - Fleury 91 Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "12:45",
+      "affiche": "Orléans - Versailles Ligue 3"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "18:00",
+      "affiche": "Fortuna Sittard - Ajax Amsterdam Eredivisie"
     }
   ]
 }
