@@ -161,6 +161,11 @@
   "Espagne": [
     {
       "date": "Lundi 7 septembre",
+      "heure": "16:00",
+      "affiche": "Union Berlin F - Francfort F Bundesliga Féminine"
+    },
+    {
+      "date": "Lundi 7 septembre",
       "heure": "17:00",
       "affiche": "Getafe - Celta Vigo Liga"
     },
@@ -292,6 +297,11 @@
     }
   ],
   "Autres": [
+    {
+      "date": "Lundi 7 septembre",
+      "heure": "01:15",
+      "affiche": "Toluca - Monterrey Leagues Cup"
+    },
     {
       "date": "Lundi 7 septembre",
       "heure": "18:00",
