@@ -6,6 +6,11 @@
       "affiche": "Lille - Betis Séville Ligue des Champions"
     },
     {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:00",
+      "affiche": "Slavia Prague - Lens Ligue des Champions"
+    },
+    {
       "date": "Vendredi 11 septembre",
       "heure": "18:00",
       "affiche": "Montpellier - Pau FC Ligue 2"
@@ -163,6 +168,11 @@
       "affiche": "Portland Timbers - St. Louis City MLS"
     },
     {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:00",
+      "affiche": "Manchester United - Sabah FA Ligue des Champions"
+    },
+    {
       "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "West Ham - Wrexham Championship"
@@ -272,6 +282,11 @@
       "affiche": "Chicago Fire - Inter Miami MLS"
     },
     {
+      "date": "Jeudi 10 septembre",
+      "heure": "16:45",
+      "affiche": "Fenerbahçe - AS Roma Ligue des Champions"
+    },
+    {
       "date": "Vendredi 11 septembre",
       "heure": "18:45",
       "affiche": "Venise - Fiorentina Serie A"
@@ -317,6 +332,16 @@
       "date": "Mercredi 9 septembre",
       "heure": "16:45",
       "affiche": "Stuttgart - Viking Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:00",
+      "affiche": "Bayern Munich - Bodo Glimt Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:00",
+      "affiche": "Côme - RB Leipzig Ligue des Champions"
     }
   ],
   "Europe": [
@@ -344,6 +369,16 @@
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
       "affiche": "Sporting CP - Galatasaray Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "16:45",
+      "affiche": "PSV Eindhoven - Shakhtar Donetsk Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
     }
   ],
   "Autres": [
