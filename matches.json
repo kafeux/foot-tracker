@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 7 septembre",
-      "heure": "18:45",
-      "affiche": "Nantes - Nancy Ligue 2"
-    },
-    {
       "date": "Mardi 8 septembre",
       "heure": "19:00",
       "affiche": "Lille - Betis Séville Ligue des Champions"
@@ -89,6 +84,21 @@
       "date": "Samedi 12 septembre",
       "heure": "18:45",
       "affiche": "Paris FC - Lyon Ligue 1"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "13:00",
+      "affiche": "Lille - Troyes Ligue 1"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "15:15",
+      "affiche": "Le Mans - Lens Ligue 1"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "18:45",
+      "affiche": "Brest - PSG Ligue 1"
     }
   ],
   "Angleterre": [
@@ -156,24 +166,34 @@
       "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "West Ham - Wrexham Championship"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "23:30",
+      "affiche": "Orlando City SC - Toronto FC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "23:30",
+      "affiche": "DC United - Atlanta United FC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "00:30",
+      "affiche": "Sporting Kansas City - Los Angeles FC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "00:30",
+      "affiche": "St. Louis City - Minnesota United FC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "01:30",
+      "affiche": "Real Salt Lake - New York City FC MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "16:00",
-      "affiche": "Union Berlin F - Francfort F Bundesliga Féminine"
-    },
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "17:00",
-      "affiche": "Getafe - Celta Vigo Liga"
-    },
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "19:30",
-      "affiche": "Elche - Real Sociedad Liga"
-    },
     {
       "date": "Mardi 8 septembre",
       "heure": "19:00",
@@ -223,19 +243,29 @@
       "date": "Samedi 12 septembre",
       "heure": "19:00",
       "affiche": "Real Madrid - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "12:00",
+      "affiche": "Celta Vigo - Malaga Liga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "14:15",
+      "affiche": "Levante - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "16:30",
+      "affiche": "Getafe - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "19:00",
+      "affiche": "Real Sociedad - Atlético Madrid Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "16:30",
-      "affiche": "Cagliari - Lecce Serie A"
-    },
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "18:45",
-      "affiche": "Udinese - Lazio Rome Serie A"
-    },
     {
       "date": "Jeudi 10 septembre",
       "heure": "00:30",
@@ -260,6 +290,26 @@
       "date": "Samedi 12 septembre",
       "heure": "18:45",
       "affiche": "Atalanta - Cagliari Serie A"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "23:30",
+      "affiche": "Inter Miami - Nashville SC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "13:00",
+      "affiche": "Lecce - Monza Serie A"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "16:00",
+      "affiche": "Naples - Bologne Serie A"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "18:45",
+      "affiche": "Sassuolo - Juventus Turin Serie A"
     }
   ],
   "Allemagne": [
@@ -297,16 +347,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "01:15",
-      "affiche": "Toluca - Monterrey Leagues Cup"
-    },
-    {
-      "date": "Lundi 7 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Hilal - NEOM Saudi Pro League"
-    },
     {
       "date": "Mardi 8 septembre",
       "heure": "15:30",
@@ -411,6 +451,51 @@
       "date": "Samedi 12 septembre",
       "heure": "18:00",
       "affiche": "Fortuna Sittard - Ajax Amsterdam Eredivisie"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "23:30",
+      "affiche": "Columbus Crew - New York Red Bulls MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "23:30",
+      "affiche": "FC Cincinnati - Charlotte FC MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - Portland Timbers MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - CF Montreal MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "02:30",
+      "affiche": "Los Angeles Galaxy - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "02:30",
+      "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "14:45",
+      "affiche": "PEC Zwolle - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "18:00",
+      "affiche": "PSV Eindhoven - Sparta Rotterdam Eredivisie"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "21:30",
+      "affiche": "Chicago Fire - New England Revolution MLS"
     }
   ]
 }
