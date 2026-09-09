@@ -1,6 +1,11 @@
 {
   "France": [
     {
+      "date": "Mercredi 9 septembre",
+      "heure": "16:00",
+      "affiche": "France U20 F - Equateur U20 F Coupe du Monde U20 Féminine"
+    },
+    {
       "date": "Jeudi 10 septembre",
       "heure": "19:00",
       "affiche": "Slavia Prague - Lens Ligue des Champions"
@@ -79,6 +84,11 @@
       "date": "Samedi 12 septembre",
       "heure": "16:00",
       "affiche": "Marseille F - Lens F D1 Féminine"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "16:00",
+      "affiche": "Ghana U20 F - France U20 F Coupe du Monde U20 Féminine"
     },
     {
       "date": "Samedi 12 septembre",
