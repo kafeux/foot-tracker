@@ -8,12 +8,12 @@
     {
       "date": "Vendredi 11 septembre",
       "heure": "18:00",
-      "affiche": "Montpellier - Pau FC Ligue 2"
+      "affiche": "Dijon - Laval Ligue 2"
     },
     {
       "date": "Vendredi 11 septembre",
       "heure": "18:00",
-      "affiche": "Dijon - Laval Ligue 2"
+      "affiche": "Montpellier - Pau FC Ligue 2"
     },
     {
       "date": "Vendredi 11 septembre",
@@ -43,12 +43,12 @@
     {
       "date": "Samedi 12 septembre",
       "heure": "12:00",
-      "affiche": "Guingamp - Annecy Ligue 2"
+      "affiche": "Sochaux - Nantes Ligue 2"
     },
     {
       "date": "Samedi 12 septembre",
       "heure": "12:00",
-      "affiche": "Sochaux - Nantes Ligue 2"
+      "affiche": "Guingamp - Annecy Ligue 2"
     },
     {
       "date": "Samedi 12 septembre",
@@ -110,11 +110,6 @@
     {
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
-      "affiche": "Charlton - QPR Championship"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
       "affiche": "Liverpool - Atlético Madrid Ligue des Champions"
     },
     {
@@ -126,6 +121,11 @@
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
       "affiche": "Chelsea - Leeds League Cup"
+    },
+    {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Charlton - QPR Championship"
     },
     {
       "date": "Jeudi 10 septembre",
@@ -216,6 +216,11 @@
     },
     {
       "date": "Vendredi 11 septembre",
+      "heure": "18:30",
+      "affiche": "Union Berlin - Schalke 04 Bundesliga"
+    },
+    {
+      "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "FC Séville - Valence Liga"
     },
@@ -223,6 +228,31 @@
       "date": "Samedi 12 septembre",
       "heure": "12:00",
       "affiche": "Racing Santander - Alavés Liga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:30",
+      "affiche": "Fribourg - Monchengladbach Bundesliga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:30",
+      "affiche": "Borussia Dortmund - Paderborn Bundesliga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:30",
+      "affiche": "Mayence - Francfort Bundesliga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:30",
+      "affiche": "Hoffenheim - Stuttgart Bundesliga"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "13:30",
+      "affiche": "Augsbourg - Bayer Leverkusen Bundesliga"
     },
     {
       "date": "Samedi 12 septembre",
@@ -236,6 +266,11 @@
     },
     {
       "date": "Samedi 12 septembre",
+      "heure": "16:30",
+      "affiche": "Cologne - Werder Brême Bundesliga"
+    },
+    {
+      "date": "Samedi 12 septembre",
       "heure": "19:00",
       "affiche": "Real Madrid - Rayo Vallecano Liga"
     },
@@ -246,8 +281,18 @@
     },
     {
       "date": "Dimanche 13 septembre",
+      "heure": "13:30",
+      "affiche": "RB Leipzig - Hambourg Bundesliga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
       "heure": "14:15",
       "affiche": "Levante - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "15:30",
+      "affiche": "SV Elversberg - Bayern Munich Bundesliga"
     },
     {
       "date": "Dimanche 13 septembre",
