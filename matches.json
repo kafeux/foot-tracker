@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "Lille - Betis Séville Ligue des Champions"
-    },
-    {
       "date": "Jeudi 10 septembre",
       "heure": "19:00",
       "affiche": "Slavia Prague - Lens Ligue des Champions"
@@ -104,29 +99,14 @@
       "date": "Dimanche 13 septembre",
       "heure": "18:45",
       "affiche": "Brest - PSG Ligue 1"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "18:45",
+      "affiche": "Red Star - Metz Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "16:45",
-      "affiche": "Club Bruges - Aston Villa Ligue des Champions"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "Bolton - West Ham Championship"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "FC Porto - Manchester City Ligue des Champions"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "Borussia Dortmund - Villarreal Ligue des Champions"
-    },
     {
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
@@ -201,14 +181,14 @@
       "date": "Dimanche 13 septembre",
       "heure": "01:30",
       "affiche": "Real Salt Lake - New York City FC MLS"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "19:00",
+      "affiche": "Villarreal - Betis Séville Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "Real Madrid - Inter Milan Ligue des Champions"
-    },
     {
       "date": "Mercredi 9 septembre",
       "heure": "16:45",
@@ -325,6 +305,21 @@
       "date": "Dimanche 13 septembre",
       "heure": "18:45",
       "affiche": "Sassuolo - Juventus Turin Serie A"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "16:30",
+      "affiche": "Côme - Parme Serie A"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "16:30",
+      "affiche": "Torino - AS Roma Serie A"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "18:45",
+      "affiche": "Inter Milan - Udinese Serie A"
     }
   ],
   "Allemagne": [
@@ -345,16 +340,6 @@
     }
   ],
   "Europe": [
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "16:45",
-      "affiche": "AEK Athènes - Lask Linz Ligue des Champions"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    },
     {
       "date": "Mercredi 9 septembre",
       "heure": "19:00",
@@ -382,21 +367,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "15:30",
-      "affiche": "Al-Ettifaq - Al-Faisaly FC Saudi Pro League"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Ittihad - Al-Fayha Saudi Pro League"
-    },
-    {
-      "date": "Mardi 8 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Qadisiyah FC - Al-Ahli Saudi Saudi Pro League"
-    },
     {
       "date": "Mercredi 9 septembre",
       "heure": "18:00",
@@ -531,6 +501,16 @@
       "date": "Dimanche 13 septembre",
       "heure": "21:30",
       "affiche": "Chicago Fire - New England Revolution MLS"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "22:30",
+      "affiche": "Vancouver Whitecaps - Austin FC MLS"
+    },
+    {
+      "date": "Lundi 14 septembre",
+      "heure": "01:00",
+      "affiche": "San Diego - Philadelphia Union MLS"
     }
   ]
 }
