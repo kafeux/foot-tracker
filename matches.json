@@ -123,6 +123,11 @@
       "affiche": "Naples - Arsenal Ligue des Champions"
     },
     {
+      "date": "Mercredi 9 septembre",
+      "heure": "19:00",
+      "affiche": "Chelsea - Leeds League Cup"
+    },
+    {
       "date": "Jeudi 10 septembre",
       "heure": "23:30",
       "affiche": "Atlanta United FC - Orlando City SC MLS"
@@ -375,17 +380,17 @@
     {
       "date": "Jeudi 10 septembre",
       "heure": "23:30",
-      "affiche": "Philadelphia Union - FC Cincinnati MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:30",
       "affiche": "Toronto FC - Nashville SC MLS"
     },
     {
       "date": "Jeudi 10 septembre",
       "heure": "23:30",
       "affiche": "CF Montreal - Charlotte FC MLS"
+    },
+    {
+      "date": "Jeudi 10 septembre",
+      "heure": "23:45",
+      "affiche": "Philadelphia Union - FC Cincinnati MLS"
     },
     {
       "date": "Jeudi 10 septembre",
