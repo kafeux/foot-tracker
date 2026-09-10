@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 9 septembre",
-      "heure": "16:00",
-      "affiche": "France U20 F - Equateur U20 F Coupe du Monde U20 Féminine"
-    },
-    {
       "date": "Jeudi 10 septembre",
       "heure": "19:00",
       "affiche": "Slavia Prague - Lens Ligue des Champions"
@@ -143,26 +138,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Liverpool - Atlético Madrid Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Naples - Arsenal Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Chelsea - Leeds League Cup"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Charlton - QPR Championship"
-    },
-    {
       "date": "Jeudi 10 septembre",
       "heure": "23:30",
       "affiche": "Atlanta United FC - Orlando City SC MLS"
@@ -285,16 +260,6 @@
   ],
   "Espagne": [
     {
-      "date": "Mercredi 9 septembre",
-      "heure": "16:45",
-      "affiche": "FC Barcelone - Feyenoord Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:45",
-      "affiche": "Moreirense - Benfica Primeira Liga"
-    },
-    {
       "date": "Jeudi 10 septembre",
       "heure": "19:15",
       "affiche": "Estrela - Braga Primeira Liga"
@@ -413,6 +378,21 @@
       "date": "Dimanche 13 septembre",
       "heure": "19:30",
       "affiche": "Famalicao - Sporting CP Primeira Liga"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "17:00",
+      "affiche": "Rayo Vallecano - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "18:00",
+      "affiche": "Alavés - Valence Liga"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "19:30",
+      "affiche": "Elche - Real Madrid Liga"
     }
   ],
   "Italie": [
@@ -480,14 +460,14 @@
       "date": "Lundi 14 septembre",
       "heure": "18:45",
       "affiche": "Inter Milan - Udinese Serie A"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "19:00",
+      "affiche": "Fiorentina - Pise Coupe d'Italie"
     }
   ],
   "Allemagne": [
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "16:45",
-      "affiche": "Stuttgart - Viking Ligue des Champions"
-    },
     {
       "date": "Jeudi 10 septembre",
       "heure": "19:00",
@@ -501,21 +481,6 @@
   ],
   "Europe": [
     {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "PSG - Slovan Bratislava Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "19:00",
-      "affiche": "Sporting CP - Galatasaray Ligue des Champions"
-    },
-    {
       "date": "Jeudi 10 septembre",
       "heure": "16:45",
       "affiche": "PSV Eindhoven - Shakhtar Donetsk Ligue des Champions"
@@ -527,11 +492,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mercredi 9 septembre",
-      "heure": "18:00",
-      "affiche": "Al-Nassr - Abha Saudi Pro League"
-    },
     {
       "date": "Jeudi 10 septembre",
       "heure": "23:30",
@@ -706,6 +666,16 @@
       "date": "Lundi 14 septembre",
       "heure": "17:00",
       "affiche": "Gaziantep FK - Fenerbahçe Süper Lig"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "16:00",
+      "affiche": "Genoa - Sudtirol Coupe d'Italie"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "18:00",
+      "affiche": "Ajax Amsterdam - Willem II Eredivisie"
     }
   ]
 }
