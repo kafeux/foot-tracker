@@ -129,6 +129,16 @@
       "date": "Lundi 14 septembre",
       "heure": "18:45",
       "affiche": "Red Star - Metz Ligue 2"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Anderlecht - Lyon Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Sturm Graz - Rennes Ligue Europa"
     }
   ],
   "Angleterre": [
@@ -221,6 +231,36 @@
       "date": "Lundi 14 septembre",
       "heure": "19:00",
       "affiche": "Leeds - Newcastle Premier League"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "19:00",
+      "affiche": "Liverpool - Tottenham League Cup"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "19:00",
+      "affiche": "Ipswich - Arsenal League Cup"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "18:45",
+      "affiche": "Fleetwood Town - Sheffield United League Cup"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "18:45",
+      "affiche": "Everton - Wolverhampton League Cup"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Manchester United - Brighton League Cup"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Coventry - Aston Villa League Cup"
     }
   ],
   "Espagne": [
@@ -435,10 +475,52 @@
       "date": "Mardi 15 septembre",
       "heure": "19:00",
       "affiche": "Fiorentina - Pise Coupe d'Italie"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "AC Milan - Benfica Ligue Europa"
     }
   ],
-  "Allemagne": [],
-  "Europe": [],
+  "Allemagne": [
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Bayer Leverkusen - Celje Ligue Europa"
+    }
+  ],
+  "Europe": [
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "16:45",
+      "affiche": "Omonia Nicosie - Celta Vigo Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "16:45",
+      "affiche": "Ararat-Armenia - Sparta Prague Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Sunderland - AZ Alkmaar Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Hapoel Beer Sheva - Dinamo Zagreb Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Olympiakos - Jagiellonia Ligue Europa"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
+    }
+  ],
   "Autres": [
     {
       "date": "Vendredi 11 septembre",
@@ -449,6 +531,16 @@
       "date": "Vendredi 11 septembre",
       "heure": "18:45",
       "affiche": "Malines - Anderlecht Jupiler Pro League"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "10:00",
+      "affiche": "Gamba Osaka - FC Tokyo J-League"
+    },
+    {
+      "date": "Samedi 12 septembre",
+      "heure": "10:00",
+      "affiche": "Machida Zelvia - Yokohama FM J-League"
     },
     {
       "date": "Samedi 12 septembre",
@@ -579,6 +671,21 @@
       "date": "Mardi 15 septembre",
       "heure": "18:00",
       "affiche": "Ajax Amsterdam - Willem II Eredivisie"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "18:45",
+      "affiche": "West Ham - Fulham League Cup"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "18:45",
+      "affiche": "Peterborough - Barnsley League Cup"
+    },
+    {
+      "date": "Mardi 15 septembre",
+      "heure": "19:00",
+      "affiche": "Reading - Brentford League Cup"
     }
   ]
 }
