@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:00",
-      "affiche": "Slavia Prague - Lens Ligue des Champions"
-    },
-    {
       "date": "Vendredi 11 septembre",
       "heure": "18:00",
       "affiche": "Dijon - Laval Ligue 2"
@@ -138,36 +133,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:30",
-      "affiche": "Atlanta United FC - Orlando City SC MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:30",
-      "affiche": "DC United - Columbus Crew MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "00:00",
-      "affiche": "New York City FC - New England Revolution MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "00:30",
-      "affiche": "Minnesota United FC - FC Dallas MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "02:30",
-      "affiche": "Portland Timbers - St. Louis City MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:00",
-      "affiche": "Manchester United - Sabah FA Ligue des Champions"
-    },
-    {
       "date": "Vendredi 11 septembre",
       "heure": "19:00",
       "affiche": "West Ham - Wrexham Championship"
@@ -259,11 +224,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:15",
-      "affiche": "Estrela - Braga Primeira Liga"
-    },
     {
       "date": "Vendredi 11 septembre",
       "heure": "16:30",
@@ -393,19 +353,29 @@
       "date": "Mardi 15 septembre",
       "heure": "19:30",
       "affiche": "Elche - Real Madrid Liga"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "17:00",
+      "affiche": "Atlético Madrid - Osasuna Liga"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "17:00",
+      "affiche": "Deportivo La Corogne - FC Séville Liga"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:30",
+      "affiche": "FC Barcelone - Racing Santander Liga"
+    },
+    {
+      "date": "Mercredi 16 septembre",
+      "heure": "19:30",
+      "affiche": "Levante - Athletic Bilbao Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "00:30",
-      "affiche": "Chicago Fire - Inter Miami MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "16:45",
-      "affiche": "Fenerbahçe - AS Roma Ligue des Champions"
-    },
     {
       "date": "Vendredi 11 septembre",
       "heure": "18:45",
@@ -467,76 +437,9 @@
       "affiche": "Fiorentina - Pise Coupe d'Italie"
     }
   ],
-  "Allemagne": [
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:00",
-      "affiche": "Bayern Munich - Bodo Glimt Ligue des Champions"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:00",
-      "affiche": "Côme - RB Leipzig Ligue des Champions"
-    }
-  ],
-  "Europe": [
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "16:45",
-      "affiche": "PSV Eindhoven - Shakhtar Donetsk Ligue des Champions"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    }
-  ],
+  "Allemagne": [],
+  "Europe": [],
   "Autres": [
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:30",
-      "affiche": "Toronto FC - Nashville SC MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:30",
-      "affiche": "CF Montreal - Charlotte FC MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "23:45",
-      "affiche": "Philadelphia Union - FC Cincinnati MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "00:30",
-      "affiche": "Austin FC - Colorado Rapids MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "00:30",
-      "affiche": "Houston Dynamo - Real Salt Lake MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "02:30",
-      "affiche": "Los Angeles FC - New York Red Bulls MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "02:30",
-      "affiche": "Vancouver Whitecaps - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "02:30",
-      "affiche": "San Diego - San Jose Earthquakes MLS"
-    },
-    {
-      "date": "Jeudi 10 septembre",
-      "heure": "18:45",
-      "affiche": "Cannes - Amiens Ligue 3"
-    },
     {
       "date": "Vendredi 11 septembre",
       "heure": "17:00",
