@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:00",
-      "affiche": "Dijon - Laval Ligue 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:00",
-      "affiche": "Montpellier - Pau FC Ligue 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:00",
-      "affiche": "Clermont Foot - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:00",
-      "affiche": "Nancy - Reims Ligue 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:00",
-      "affiche": "Rodez - Grenoble Ligue 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:45",
-      "affiche": "Rennes - Marseille Ligue 1"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "19:00",
-      "affiche": "PSG F - Strasbourg F D1 Féminine"
-    },
-    {
       "date": "Samedi 12 septembre",
       "heure": "11:30",
       "affiche": "Lyon F - Paris FC F D1 Féminine"
@@ -139,14 +104,19 @@
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "Sturm Graz - Rennes Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Besiktas - Marseille Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Lillestrom - Torreense Ligue Europa"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "19:00",
-      "affiche": "West Ham - Wrexham Championship"
-    },
     {
       "date": "Samedi 12 septembre",
       "heure": "14:00",
@@ -261,24 +231,14 @@
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "Coventry - Aston Villa League Cup"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:30",
+      "affiche": "Malaga - Villarreal Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "16:30",
-      "affiche": "Nuremberg - Hannover 96 Bundesliga 2"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:30",
-      "affiche": "Union Berlin - Schalke 04 Bundesliga"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "19:00",
-      "affiche": "FC Séville - Valence Liga"
-    },
     {
       "date": "Samedi 12 septembre",
       "heure": "12:00",
@@ -413,14 +373,14 @@
       "date": "Mercredi 16 septembre",
       "heure": "19:30",
       "affiche": "Levante - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "17:00",
+      "affiche": "Betis Séville - Getafe Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:45",
-      "affiche": "Venise - Fiorentina Serie A"
-    },
     {
       "date": "Samedi 12 septembre",
       "heure": "13:00",
@@ -480,6 +440,11 @@
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "AC Milan - Benfica Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Juventus Turin - NEC Nimègue Ligue Europa"
     }
   ],
   "Allemagne": [
@@ -519,19 +484,44 @@
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "Multiplex - Multiplex Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "16:45",
+      "affiche": "Levski Sofia - RB Salzbourg Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "16:45",
+      "affiche": "OFI Crète - Hoffenheim Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Crystal Palace - Lech Poznan Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Celtic Glasgow - Ferencvaros Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Real Sociedad - Bournemouth Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Pilsen - Union Saint-Gilloise Ligue Europa"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "17:00",
-      "affiche": "Besiktas - Erzurumspor FK Süper Lig"
-    },
-    {
-      "date": "Vendredi 11 septembre",
-      "heure": "18:45",
-      "affiche": "Malines - Anderlecht Jupiler Pro League"
-    },
     {
       "date": "Samedi 12 septembre",
       "heure": "10:00",
@@ -686,6 +676,11 @@
       "date": "Mardi 15 septembre",
       "heure": "19:00",
       "affiche": "Reading - Brentford League Cup"
+    },
+    {
+      "date": "Jeudi 17 septembre",
+      "heure": "18:45",
+      "affiche": "Bastia - Cannes Ligue 3"
     }
   ]
 }
