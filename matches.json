@@ -119,6 +119,11 @@
     },
     {
       "date": "Dimanche 13 septembre",
+      "heure": "11:00",
+      "affiche": "Sheffield United - Wolverhampton Championship"
+    },
+    {
+      "date": "Dimanche 13 septembre",
       "heure": "13:00",
       "affiche": "Coventry - Brighton Premier League"
     },
@@ -436,6 +441,11 @@
       "date": "Dimanche 13 septembre",
       "heure": "02:30",
       "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
+    },
+    {
+      "date": "Dimanche 13 septembre",
+      "heure": "11:30",
+      "affiche": "Club Bruges - Anvers Jupiler Pro League"
     },
     {
       "date": "Dimanche 13 septembre",
