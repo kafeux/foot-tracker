@@ -1,81 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 12 septembre",
-      "heure": "11:30",
-      "affiche": "Lyon F - Paris FC F D1 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:00",
-      "affiche": "Sochaux - Nantes Ligue 2"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:00",
-      "affiche": "Guingamp - Annecy Ligue 2"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Caen - Paris 13 Atletico Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "15:15",
-      "affiche": "Strasbourg - Monaco Ligue 1"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Nantes F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Toulouse F - Le Havre F D1 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Marseille F - Lens F D1 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Ghana U20 F - France U20 F Coupe du Monde U20 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:00",
-      "affiche": "Dunkerque - Saint-Étienne Ligue 2"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:30",
-      "affiche": "St. Pauli - Wolfsbourg Bundesliga 2"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:45",
-      "affiche": "Lorient - Toulouse Ligue 1"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:45",
-      "affiche": "Auxerre - Nice Ligue 1"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:45",
-      "affiche": "Le Havre - Angers Ligue 1"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:45",
-      "affiche": "Paris FC - Lyon Ligue 1"
-    },
-    {
       "date": "Dimanche 13 septembre",
       "heure": "13:00",
       "affiche": "Lille - Troyes Ligue 1"
@@ -114,49 +39,59 @@
       "date": "Jeudi 17 septembre",
       "heure": "19:00",
       "affiche": "Lillestrom - Torreense Ligue Europa"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "17:00",
+      "affiche": "Le Havre F - Lyon F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "17:00",
+      "affiche": "Strasbourg F - Paris FC F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Pau FC - Dunkerque Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Reims - Montpellier Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Grenoble - Clermont Foot Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Laval - Sochaux Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Rodez - Nancy Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:00",
+      "affiche": "Annecy - Dijon Ligue 2"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:45",
+      "affiche": "Monaco - Lens Ligue 1"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "19:00",
+      "affiche": "PSG F - Nantes F D1 Féminine"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Liverpool - Fulham Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Chelsea - Hull City Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Aston Villa - Nottingham Forest Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Bournemouth - Brentford Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Crystal Palace - Ipswich Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:30",
-      "affiche": "Tottenham - Everton Premier League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "19:00",
-      "affiche": "Sunderland - Arsenal Premier League"
-    },
     {
       "date": "Dimanche 13 septembre",
       "heure": "23:30",
@@ -236,64 +171,14 @@
       "date": "Jeudi 17 septembre",
       "heure": "19:30",
       "affiche": "Malaga - Villarreal Liga"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "19:00",
+      "affiche": "Brentford - Chelsea Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:00",
-      "affiche": "Racing Santander - Alavés Liga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:30",
-      "affiche": "Fribourg - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:30",
-      "affiche": "Borussia Dortmund - Paderborn Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:30",
-      "affiche": "Mayence - Francfort Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:30",
-      "affiche": "Hoffenheim - Stuttgart Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:30",
-      "affiche": "Augsbourg - Bayer Leverkusen Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "14:15",
-      "affiche": "Osasuna - Espanyol Barcelone Liga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:30",
-      "affiche": "Athletic Bilbao - Elche Liga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:30",
-      "affiche": "Cologne - Werder Brême Bundesliga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "17:00",
-      "affiche": "Casa Pia - FC Porto Primeira Liga"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "19:00",
-      "affiche": "Real Madrid - Rayo Vallecano Liga"
-    },
     {
       "date": "Dimanche 13 septembre",
       "heure": "11:30",
@@ -378,24 +263,19 @@
       "date": "Jeudi 17 septembre",
       "heure": "17:00",
       "affiche": "Betis Séville - Getafe Liga"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:30",
+      "affiche": "Bayern Munich - Union Berlin Bundesliga"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "19:00",
+      "affiche": "Espanyol Barcelone - Elche Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "13:00",
-      "affiche": "Genoa - Frosinone Serie A"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Lazio Rome - AC Milan Serie A"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:45",
-      "affiche": "Atalanta - Cagliari Serie A"
-    },
     {
       "date": "Dimanche 13 septembre",
       "heure": "23:30",
@@ -445,6 +325,11 @@
       "date": "Jeudi 17 septembre",
       "heure": "19:00",
       "affiche": "Juventus Turin - NEC Nimègue Ligue Europa"
+    },
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "18:45",
+      "affiche": "Monza - Sassuolo Serie A"
     }
   ],
   "Allemagne": [
@@ -522,66 +407,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "10:00",
-      "affiche": "Gamba Osaka - FC Tokyo J-League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "10:00",
-      "affiche": "Machida Zelvia - Yokohama FM J-League"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Thionville Lusitanos - Rouen Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Aubagne - Concarneau Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Villefranche - La Roche VF Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Quevilly - Le Puy Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Bourg-Péronnas - Bastia Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Valenciennes - Fleury 91 Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "12:45",
-      "affiche": "Orléans - Versailles Ligue 3"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "16:00",
-      "affiche": "Saint-Malo F - Montpellier F D1 Féminine"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "17:00",
-      "affiche": "Konyaspor - Trabzonspor Süper Lig"
-    },
-    {
-      "date": "Samedi 12 septembre",
-      "heure": "18:00",
-      "affiche": "Fortuna Sittard - Ajax Amsterdam Eredivisie"
-    },
     {
       "date": "Dimanche 13 septembre",
       "heure": "23:30",
