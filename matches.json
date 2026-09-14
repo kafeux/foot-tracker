@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 13 septembre",
-      "heure": "13:00",
-      "affiche": "Lille - Troyes Ligue 1"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "15:15",
-      "affiche": "Le Mans - Lens Ligue 1"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "18:45",
-      "affiche": "Brest - PSG Ligue 1"
-    },
-    {
       "date": "Lundi 14 septembre",
       "heure": "18:45",
       "affiche": "Red Star - Metz Ligue 2"
@@ -89,49 +74,64 @@
       "date": "Vendredi 18 septembre",
       "heure": "19:00",
       "affiche": "PSG F - Nantes F D1 Féminine"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:00",
+      "affiche": "Guingamp - Red Star Ligue 2"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:00",
+      "affiche": "Boulogne - Nantes Ligue 2"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Paris 13 Atletico - Bourg-Péronnas Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "15:15",
+      "affiche": "Paris FC - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:00",
+      "affiche": "Lens F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:00",
+      "affiche": "Metz - Saint-Étienne Ligue 2"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Angers - Troyes Ligue 1"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Lyon - Rennes Ligue 1"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Toulouse - Le Havre Ligue 1"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Le Mans - Lorient Ligue 1"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "19:00",
+      "affiche": "Montpellier F - Marseille F D1 Féminine"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "23:30",
-      "affiche": "Orlando City SC - Toronto FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "23:30",
-      "affiche": "DC United - Atlanta United FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "00:30",
-      "affiche": "Sporting Kansas City - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "00:30",
-      "affiche": "St. Louis City - Minnesota United FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "01:30",
-      "affiche": "Real Salt Lake - New York City FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "11:00",
-      "affiche": "Sheffield United - Wolverhampton Championship"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "13:00",
-      "affiche": "Coventry - Brighton Premier League"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "15:30",
-      "affiche": "Manchester United - Manchester City Premier League"
-    },
     {
       "date": "Lundi 14 septembre",
       "heure": "19:00",
@@ -181,54 +181,14 @@
       "date": "Vendredi 18 septembre",
       "heure": "19:00",
       "affiche": "Brentford - Chelsea Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "23:30",
+      "affiche": "New York City FC - New York Red Bulls MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "11:30",
-      "affiche": "FC Heidenheim - Holstein Kiel Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "12:00",
-      "affiche": "Celta Vigo - Malaga Liga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "13:30",
-      "affiche": "RB Leipzig - Hambourg Bundesliga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "14:15",
-      "affiche": "Levante - FC Barcelone Liga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "15:30",
-      "affiche": "SV Elversberg - Bayern Munich Bundesliga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "16:30",
-      "affiche": "Getafe - Deportivo La Corogne Liga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "17:00",
-      "affiche": "Benfica - Gil Vicente Primeira Liga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "19:00",
-      "affiche": "Real Sociedad - Atlético Madrid Liga"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "19:30",
-      "affiche": "Famalicao - Sporting CP Primeira Liga"
-    },
     {
       "date": "Mardi 15 septembre",
       "heure": "17:00",
@@ -278,29 +238,54 @@
       "date": "Vendredi 18 septembre",
       "heure": "19:00",
       "affiche": "Espanyol Barcelone - Elche Liga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:00",
+      "affiche": "Osasuna - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:30",
+      "affiche": "Werder Brême - Augsbourg Bundesliga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:30",
+      "affiche": "Monchengladbach - Mayence Bundesliga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:30",
+      "affiche": "Francfort - Fribourg Bundesliga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:30",
+      "affiche": "Hambourg - Cologne Bundesliga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:15",
+      "affiche": "Athletic Bilbao - Alavés Liga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:30",
+      "affiche": "Celta Vigo - Racing Santander Liga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:30",
+      "affiche": "Stuttgart - Borussia Dortmund Bundesliga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "19:00",
+      "affiche": "FC Séville - FC Barcelone Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "23:30",
-      "affiche": "Inter Miami - Nashville SC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "13:00",
-      "affiche": "Lecce - Monza Serie A"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "16:00",
-      "affiche": "Naples - Bologne Serie A"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "18:45",
-      "affiche": "Sassuolo - Juventus Turin Serie A"
-    },
     {
       "date": "Lundi 14 septembre",
       "heure": "16:30",
@@ -335,6 +320,26 @@
       "date": "Vendredi 18 septembre",
       "heure": "18:45",
       "affiche": "Monza - Sassuolo Serie A"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:00",
+      "affiche": "Bologne - Torino Serie A"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:00",
+      "affiche": "Udinese - Cagliari Serie A"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:00",
+      "affiche": "AS Roma - Inter Milan Serie A"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Venise - Lazio Rome Serie A"
     }
   ],
   "Allemagne": [
@@ -413,66 +418,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 13 septembre",
-      "heure": "23:30",
-      "affiche": "Columbus Crew - New York Red Bulls MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "23:30",
-      "affiche": "FC Cincinnati - Charlotte FC MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "00:30",
-      "affiche": "FC Dallas - Portland Timbers MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "01:30",
-      "affiche": "Colorado Rapids - CF Montreal MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "02:30",
-      "affiche": "Los Angeles Galaxy - Seattle Sounders MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "02:30",
-      "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "11:30",
-      "affiche": "Club Bruges - Anvers Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "14:00",
-      "affiche": "Racing Genk - La Gantoise Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "14:45",
-      "affiche": "PEC Zwolle - Feyenoord Eredivisie"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "17:00",
-      "affiche": "Galatasaray - Kocaelispor Süper Lig"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "18:00",
-      "affiche": "PSV Eindhoven - Sparta Rotterdam Eredivisie"
-    },
-    {
-      "date": "Dimanche 13 septembre",
-      "heure": "21:30",
-      "affiche": "Chicago Fire - New England Revolution MLS"
-    },
-    {
       "date": "Lundi 14 septembre",
       "heure": "22:30",
       "affiche": "Vancouver Whitecaps - Austin FC MLS"
@@ -516,6 +461,51 @@
       "date": "Jeudi 17 septembre",
       "heure": "18:45",
       "affiche": "Bastia - Cannes Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "La Roche VF - Valenciennes Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Rouen - Aubagne Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Fleury 91 - Thionville Lusitanos Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Versailles - Quevilly Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Le Puy - Villefranche Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Concarneau - Caen Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:45",
+      "affiche": "Amiens - Orléans Ligue 3"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:00",
+      "affiche": "Saint-Malo F - Fleury F D1 Féminine"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:00",
+      "affiche": "Ajax Amsterdam - Excelsior Eredivisie"
     }
   ]
 }
