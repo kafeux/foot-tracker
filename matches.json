@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 14 septembre",
-      "heure": "18:45",
-      "affiche": "Red Star - Metz Ligue 2"
-    },
-    {
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "Anderlecht - Lyon Ligue Europa"
@@ -129,19 +124,24 @@
       "date": "Samedi 19 septembre",
       "heure": "19:00",
       "affiche": "Montpellier F - Marseille F D1 Féminine"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Auxerre - Brest Ligue 1"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "15:15",
+      "affiche": "Nice - Lille Ligue 1"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "18:45",
+      "affiche": "Marseille - PSG Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "19:00",
-      "affiche": "Villarreal - Betis Séville Liga"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "19:00",
-      "affiche": "Leeds - Newcastle Premier League"
-    },
     {
       "date": "Mardi 15 septembre",
       "heure": "19:00",
@@ -186,19 +186,44 @@
       "date": "Samedi 19 septembre",
       "heure": "23:30",
       "affiche": "New York City FC - New York Red Bulls MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "23:30",
+      "affiche": "New England Revolution - Orlando City SC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "23:30",
+      "affiche": "DC United - Charlotte FC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "00:30",
+      "affiche": "Minnesota United FC - Los Angeles Galaxy MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "00:30",
+      "affiche": "Sporting Kansas City - Philadelphia Union MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "00:30",
+      "affiche": "St. Louis City - Toronto FC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "02:30",
+      "affiche": "Portland Timbers - Atlanta United FC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "16:30",
+      "affiche": "Villarreal - Levante Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "16:00",
-      "affiche": "Bayer Leverkusen F - Bayern Munich F Bundesliga Féminine"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "19:45",
-      "affiche": "Braga - Estoril Primeira Liga"
-    },
     {
       "date": "Mardi 15 septembre",
       "heure": "17:00",
@@ -298,24 +323,44 @@
       "date": "Samedi 19 septembre",
       "heure": "19:00",
       "affiche": "FC Séville - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "12:00",
+      "affiche": "Getafe - Malaga Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:30",
+      "affiche": "Bayer Leverkusen - RB Leipzig Bundesliga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "14:15",
+      "affiche": "Atlético Madrid - Real Madrid Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "15:30",
+      "affiche": "Schalke 04 - SV Elversberg Bundesliga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "16:30",
+      "affiche": "Deportivo La Corogne - Betis Séville Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "17:30",
+      "affiche": "Paderborn - Hoffenheim Bundesliga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "19:00",
+      "affiche": "Valence - Real Sociedad Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "16:30",
-      "affiche": "Côme - Parme Serie A"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "16:30",
-      "affiche": "Torino - AS Roma Serie A"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "18:45",
-      "affiche": "Inter Milan - Udinese Serie A"
-    },
     {
       "date": "Mardi 15 septembre",
       "heure": "19:00",
@@ -355,6 +400,31 @@
       "date": "Samedi 19 septembre",
       "heure": "18:45",
       "affiche": "Venise - Lazio Rome Serie A"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "10:30",
+      "affiche": "Fiorentina - Naples Serie A"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Parme - Genoa Serie A"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Frosinone - Côme Serie A"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "16:00",
+      "affiche": "Juventus Turin - Atalanta Serie A"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "18:45",
+      "affiche": "AC Milan - Lecce Serie A"
     }
   ],
   "Allemagne": [
@@ -433,21 +503,6 @@
   ],
   "Autres": [
     {
-      "date": "Lundi 14 septembre",
-      "heure": "22:30",
-      "affiche": "Vancouver Whitecaps - Austin FC MLS"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "01:00",
-      "affiche": "San Diego - Philadelphia Union MLS"
-    },
-    {
-      "date": "Lundi 14 septembre",
-      "heure": "17:00",
-      "affiche": "Gaziantep FK - Fenerbahçe Süper Lig"
-    },
-    {
       "date": "Mardi 15 septembre",
       "heure": "16:00",
       "affiche": "Genoa - Sudtirol Coupe d'Italie"
@@ -521,6 +576,51 @@
       "date": "Samedi 19 septembre",
       "heure": "18:00",
       "affiche": "Ajax Amsterdam - Excelsior Eredivisie"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "23:30",
+      "affiche": "San Jose Earthquakes - Los Angeles FC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "23:30",
+      "affiche": "CF Montreal - Columbus Crew MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "00:30",
+      "affiche": "Houston Dynamo - FC Cincinnati MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - Austin FC MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "01:30",
+      "affiche": "Real Salt Lake - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "01:30",
+      "affiche": "Nashville SC - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "10:15",
+      "affiche": "Feyenoord - Utrecht Eredivisie"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "12:30",
+      "affiche": "Twente - PSV Eindhoven Eredivisie"
     }
   ]
 }
