@@ -143,16 +143,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mardi 15 septembre",
-      "heure": "19:00",
-      "affiche": "Liverpool - Tottenham League Cup"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "19:00",
-      "affiche": "Ipswich - Arsenal League Cup"
-    },
-    {
       "date": "Mercredi 16 septembre",
       "heure": "18:45",
       "affiche": "Fleetwood Town - Sheffield United League Cup"
@@ -224,21 +214,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "17:00",
-      "affiche": "Rayo Vallecano - Espanyol Barcelone Liga"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "18:00",
-      "affiche": "Alavés - Valence Liga"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "19:30",
-      "affiche": "Elche - Real Madrid Liga"
-    },
     {
       "date": "Mercredi 16 septembre",
       "heure": "17:00",
@@ -362,11 +337,6 @@
   ],
   "Italie": [
     {
-      "date": "Mardi 15 septembre",
-      "heure": "19:00",
-      "affiche": "Fiorentina - Pise Coupe d'Italie"
-    },
-    {
       "date": "Mercredi 16 septembre",
       "heure": "19:00",
       "affiche": "AC Milan - Benfica Ligue Europa"
@@ -425,6 +395,11 @@
       "date": "Dimanche 20 septembre",
       "heure": "18:45",
       "affiche": "AC Milan - Lecce Serie A"
+    },
+    {
+      "date": "Lundi 21 septembre",
+      "heure": "23:00",
+      "affiche": "Inter Miami - San Diego MLS"
     }
   ],
   "Allemagne": [
@@ -502,31 +477,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "16:00",
-      "affiche": "Genoa - Sudtirol Coupe d'Italie"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "18:00",
-      "affiche": "Ajax Amsterdam - Willem II Eredivisie"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "18:30",
-      "affiche": "Peterborough - Barnsley League Cup"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "18:45",
-      "affiche": "West Ham - Fulham League Cup"
-    },
-    {
-      "date": "Mardi 15 septembre",
-      "heure": "19:00",
-      "affiche": "Reading - Brentford League Cup"
-    },
     {
       "date": "Jeudi 17 septembre",
       "heure": "18:45",
