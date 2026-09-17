@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Anderlecht - Lyon Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Sturm Graz - Rennes Ligue Europa"
-    },
-    {
       "date": "Jeudi 17 septembre",
       "heure": "19:00",
       "affiche": "Besiktas - Marseille Ligue Europa"
@@ -143,26 +133,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mercredi 16 septembre",
-      "heure": "18:45",
-      "affiche": "Fleetwood Town - Sheffield United League Cup"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "18:45",
-      "affiche": "Everton - Wolverhampton League Cup"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Manchester United - Brighton League Cup"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Coventry - Aston Villa League Cup"
-    },
-    {
       "date": "Jeudi 17 septembre",
       "heure": "19:30",
       "affiche": "Malaga - Villarreal Liga"
@@ -214,26 +184,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "17:00",
-      "affiche": "Atlético Madrid - Osasuna Liga"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "17:00",
-      "affiche": "Deportivo La Corogne - FC Séville Liga"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:30",
-      "affiche": "FC Barcelone - Racing Santander Liga"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:30",
-      "affiche": "Levante - Athletic Bilbao Liga"
-    },
     {
       "date": "Jeudi 17 septembre",
       "heure": "17:00",
@@ -337,11 +287,6 @@
   ],
   "Italie": [
     {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "AC Milan - Benfica Ligue Europa"
-    },
-    {
       "date": "Jeudi 17 septembre",
       "heure": "19:00",
       "affiche": "Juventus Turin - NEC Nimègue Ligue Europa"
@@ -402,44 +347,8 @@
       "affiche": "Inter Miami - San Diego MLS"
     }
   ],
-  "Allemagne": [
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Bayer Leverkusen - Celje Ligue Europa"
-    }
-  ],
+  "Allemagne": [],
   "Europe": [
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "16:45",
-      "affiche": "Omonia Nicosie - Celta Vigo Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "16:45",
-      "affiche": "Ararat-Armenia - Sparta Prague Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Sunderland - AZ Alkmaar Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Hapoel Beer Sheva - Dinamo Zagreb Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Olympiakos - Jagiellonia Ligue Europa"
-    },
-    {
-      "date": "Mercredi 16 septembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue Europa"
-    },
     {
       "date": "Jeudi 17 septembre",
       "heure": "16:45",
