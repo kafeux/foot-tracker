@@ -119,6 +119,16 @@
       "date": "Dimanche 20 septembre",
       "heure": "18:45",
       "affiche": "Marseille - PSG Ligue 1"
+    },
+    {
+      "date": "Mercredi 23 septembre",
+      "heure": "16:45",
+      "affiche": "Servette Chênois F - Lyon F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 23 septembre",
+      "heure": "19:00",
+      "affiche": "FC Barcelone F - Paris FC F Ligue des Champions Féminine"
     }
   ],
   "Angleterre": [
@@ -131,6 +141,46 @@
       "date": "Samedi 19 septembre",
       "heure": "23:30",
       "affiche": "New York City FC - New York Red Bulls MLS"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "11:30",
+      "affiche": "Tottenham - Aston Villa Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "11:30",
+      "affiche": "Millwall - West Ham Championship"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:00",
+      "affiche": "Newcastle - Hull City Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:00",
+      "affiche": "Everton - Ipswich Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:00",
+      "affiche": "Brighton - Arsenal Premier League"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "14:00",
+      "affiche": "Wrexham - Southampton Championship"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "16:30",
+      "affiche": "Nottingham Forest - Coventry Premier League"
     },
     {
       "date": "Dimanche 20 septembre",
@@ -164,11 +214,56 @@
     },
     {
       "date": "Dimanche 20 septembre",
+      "heure": "11:00",
+      "affiche": "Wolverhampton - West Bromwich Championship"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Manchester City - Sunderland Premier League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Bournemouth - Liverpool Premier League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "13:00",
+      "affiche": "Leeds - Crystal Palace Premier League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "15:30",
+      "affiche": "Fulham - Manchester United Premier League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
       "heure": "16:30",
       "affiche": "Villarreal - Levante Liga"
+    },
+    {
+      "date": "Mardi 22 septembre",
+      "heure": "16:45",
+      "affiche": "Bayern Munich F - Manchester City F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mardi 22 septembre",
+      "heure": "19:00",
+      "affiche": "Arsenal F - Køge F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 23 septembre",
+      "heure": "19:00",
+      "affiche": "Chelsea F - Austria Vienne F Ligue des Champions Féminine"
     }
   ],
   "Espagne": [
+    {
+      "date": "Vendredi 18 septembre",
+      "heure": "16:30",
+      "affiche": "Mayence F - Francfort F Bundesliga Féminine"
+    },
     {
       "date": "Vendredi 18 septembre",
       "heure": "18:30",
@@ -183,6 +278,11 @@
       "date": "Samedi 19 septembre",
       "heure": "12:00",
       "affiche": "Osasuna - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "12:00",
+      "affiche": "Bayern Munich F - Cologne F Bundesliga Féminine"
     },
     {
       "date": "Samedi 19 septembre",
@@ -230,6 +330,11 @@
       "affiche": "FC Séville - FC Barcelone Liga"
     },
     {
+      "date": "Samedi 19 septembre",
+      "heure": "19:30",
+      "affiche": "Sporting CP - Arouca Primeira Liga"
+    },
+    {
       "date": "Dimanche 20 septembre",
       "heure": "12:00",
       "affiche": "Getafe - Malaga Liga"
@@ -256,6 +361,11 @@
     },
     {
       "date": "Dimanche 20 septembre",
+      "heure": "17:00",
+      "affiche": "Santa Clara - Braga Primeira Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
       "heure": "17:30",
       "affiche": "Paderborn - Hoffenheim Bundesliga"
     },
@@ -263,6 +373,16 @@
       "date": "Dimanche 20 septembre",
       "heure": "19:00",
       "affiche": "Valence - Real Sociedad Liga"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "19:30",
+      "affiche": "FC Porto - Benfica Primeira Liga"
+    },
+    {
+      "date": "Mardi 22 septembre",
+      "heure": "19:00",
+      "affiche": "Real Madrid F - PSG F Ligue des Champions Féminine"
     }
   ],
   "Italie": [
@@ -280,6 +400,11 @@
       "date": "Samedi 19 septembre",
       "heure": "13:00",
       "affiche": "Udinese - Cagliari Serie A"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "13:00",
+      "affiche": "Mamelodi Sundowns - Al-Ahli Saudi Coupe intercontinentale de la FIFA"
     },
     {
       "date": "Samedi 19 septembre",
@@ -320,11 +445,31 @@
       "date": "Lundi 21 septembre",
       "heure": "23:00",
       "affiche": "Inter Miami - San Diego MLS"
+    },
+    {
+      "date": "Mardi 22 septembre",
+      "heure": "16:45",
+      "affiche": "Inter Milan F - Häcken F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mardi 22 septembre",
+      "heure": "19:00",
+      "affiche": "Juventus F - SL Benfica F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 23 septembre",
+      "heure": "16:45",
+      "affiche": "OH Louvain F - AS Roma F Ligue des Champions Féminine"
     }
   ],
   "Allemagne": [],
   "Europe": [],
   "Autres": [
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "10:00",
+      "affiche": "FC Tokyo - Nagoya Grampus J-League"
+    },
     {
       "date": "Samedi 19 septembre",
       "heure": "12:45",
@@ -367,8 +512,18 @@
     },
     {
       "date": "Samedi 19 septembre",
+      "heure": "17:00",
+      "affiche": "Trabzonspor - Galatasaray Süper Lig"
+    },
+    {
+      "date": "Samedi 19 septembre",
       "heure": "18:00",
       "affiche": "Ajax Amsterdam - Excelsior Eredivisie"
+    },
+    {
+      "date": "Samedi 19 septembre",
+      "heure": "18:45",
+      "affiche": "Anderlecht - Zulte Waregem Jupiler Pro League"
     },
     {
       "date": "Dimanche 20 septembre",
@@ -407,6 +562,11 @@
     },
     {
       "date": "Dimanche 20 septembre",
+      "heure": "08:00",
+      "affiche": "Gamba Osaka - Vissel Kobe J-League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
       "heure": "10:15",
       "affiche": "Feyenoord - Utrecht Eredivisie"
     },
@@ -414,6 +574,26 @@
       "date": "Dimanche 20 septembre",
       "heure": "12:30",
       "affiche": "Twente - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "12:30",
+      "affiche": "AZ Alkmaar - Telstar Eredivisie"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "14:00",
+      "affiche": "Fenerbahçe - Eyüpspor Süper Lig"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "16:30",
+      "affiche": "Club Bruges - Racing Genk Jupiler Pro League"
+    },
+    {
+      "date": "Dimanche 20 septembre",
+      "heure": "17:00",
+      "affiche": "Amed - Besiktas Süper Lig"
     }
   ]
 }
