@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Besiktas - Marseille Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Lillestrom - Torreense Ligue Europa"
-    },
-    {
       "date": "Vendredi 18 septembre",
       "heure": "17:00",
       "affiche": "Le Havre F - Lyon F D1 Féminine"
@@ -133,16 +123,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Jeudi 17 septembre",
-      "heure": "18:30",
-      "affiche": "Manchester City - Norwich League Cup"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:30",
-      "affiche": "Malaga - Villarreal Liga"
-    },
-    {
       "date": "Vendredi 18 septembre",
       "heure": "19:00",
       "affiche": "Brentford - Chelsea Premier League"
@@ -189,11 +169,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "17:00",
-      "affiche": "Betis Séville - Getafe Liga"
-    },
     {
       "date": "Vendredi 18 septembre",
       "heure": "18:30",
@@ -292,11 +267,6 @@
   ],
   "Italie": [
     {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Juventus Turin - NEC Nimègue Ligue Europa"
-    },
-    {
       "date": "Vendredi 18 septembre",
       "heure": "18:45",
       "affiche": "Monza - Sassuolo Serie A"
@@ -353,49 +323,8 @@
     }
   ],
   "Allemagne": [],
-  "Europe": [
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "16:45",
-      "affiche": "Levski Sofia - RB Salzbourg Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "16:45",
-      "affiche": "OFI Crète - Hoffenheim Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Crystal Palace - Lech Poznan Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Celtic Glasgow - Ferencvaros Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Real Sociedad - Bournemouth Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Pilsen - Union Saint-Gilloise Ligue Europa"
-    },
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue Europa"
-    }
-  ],
+  "Europe": [],
   "Autres": [
-    {
-      "date": "Jeudi 17 septembre",
-      "heure": "18:45",
-      "affiche": "Bastia - Cannes Ligue 3"
-    },
     {
       "date": "Samedi 19 septembre",
       "heure": "12:45",
