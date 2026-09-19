@@ -1,56 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 18 septembre",
-      "heure": "17:00",
-      "affiche": "Le Havre F - Lyon F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "17:00",
-      "affiche": "Strasbourg F - Paris FC F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Annecy - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Laval - Sochaux Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Grenoble - Clermont Foot Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Pau FC - Dunkerque Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Rodez - Nancy Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:00",
-      "affiche": "Reims - Montpellier Ligue 2"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:45",
-      "affiche": "Monaco - Lens Ligue 1"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "19:00",
-      "affiche": "PSG F - Nantes F D1 Féminine"
-    },
-    {
       "date": "Samedi 19 septembre",
       "heure": "12:00",
       "affiche": "Boulogne - Nantes Ligue 2"
@@ -132,11 +82,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "19:00",
-      "affiche": "Brentford - Chelsea Premier League"
-    },
     {
       "date": "Samedi 19 septembre",
       "heure": "23:30",
@@ -260,21 +205,6 @@
   ],
   "Espagne": [
     {
-      "date": "Vendredi 18 septembre",
-      "heure": "16:30",
-      "affiche": "Mayence F - Francfort F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:30",
-      "affiche": "Bayern Munich - Union Berlin Bundesliga"
-    },
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "19:00",
-      "affiche": "Espanyol Barcelone - Elche Liga"
-    },
-    {
       "date": "Samedi 19 septembre",
       "heure": "12:00",
       "affiche": "Osasuna - Rayo Vallecano Liga"
@@ -386,11 +316,6 @@
     }
   ],
   "Italie": [
-    {
-      "date": "Vendredi 18 septembre",
-      "heure": "18:45",
-      "affiche": "Monza - Sassuolo Serie A"
-    },
     {
       "date": "Samedi 19 septembre",
       "heure": "13:00",
@@ -594,6 +519,26 @@
       "date": "Dimanche 20 septembre",
       "heure": "17:00",
       "affiche": "Amed - Besiktas Süper Lig"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "01:30",
+      "affiche": "Seattle Sounders - Real Salt Lake MLS"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Caen - Rouen Ligue 3"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Portugal - Pays de Galles Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Pays-Bas - Allemagne Ligue des Nations"
     }
   ]
 }
