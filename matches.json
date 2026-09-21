@@ -82,6 +82,11 @@
     },
     {
       "date": "Jeudi 24 septembre",
+      "heure": "16:00",
+      "affiche": "RD Congo - Guinée équatoriale CAN 2027"
+    },
+    {
+      "date": "Jeudi 24 septembre",
       "heure": "18:45",
       "affiche": "Caen - Rouen Ligue 3"
     },
@@ -96,9 +101,124 @@
       "affiche": "Pays-Bas - Allemagne Ligue des Nations"
     },
     {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Serbie - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Autriche - Israël Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Kosovo - Irlande Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "18:45",
+      "affiche": "Norvège - Danemark Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "19:00",
+      "affiche": "Tunisie - Ouganda CAN 2027"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "19:00",
+      "affiche": "Cameroun - Comores CAN 2027"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "19:00",
+      "affiche": "Côte d'Ivoire - Ghana CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "16:00",
+      "affiche": "Nigeria - Madagascar CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "16:00",
+      "affiche": "Arménie - Lettonie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "16:00",
+      "affiche": "Georgie - Irlande du Nord Ligue des Nations"
+    },
+    {
       "date": "Vendredi 25 septembre",
       "heure": "18:45",
       "affiche": "Italie - Belgique Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "18:45",
+      "affiche": "Hongrie - Ukraine Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "18:45",
+      "affiche": "Pologne - Bosnie-Herzégovine Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "18:45",
+      "affiche": "Suède - Roumanie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Mali - Cap Vert CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Sénégal - Mozambique CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Egypte - Angola CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Algérie - Zambie CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Maroc - Gabon CAN 2027"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "13:00",
+      "affiche": "Slovénie - Ecosse Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "16:00",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "16:00",
+      "affiche": "Bulgarie - Luxembourg Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "16:00",
+      "affiche": "Islande - Estonie Ligue des Nations"
     },
     {
       "date": "Samedi 26 septembre",
@@ -139,6 +259,21 @@
       "date": "Samedi 26 septembre",
       "heure": "18:45",
       "affiche": "Angleterre - Espagne Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "18:45",
+      "affiche": "Macédoine du Nord - Suisse Ligue des Nations"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "18:45",
+      "affiche": "République tchèque - Croatie Ligue des Nations"
     }
   ]
 }
