@@ -19,19 +19,14 @@
       "date": "Samedi 26 septembre",
       "heure": "18:45",
       "affiche": "Paris 13 Atletico - Bastia Ligue 3"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "18:45",
+      "affiche": "Belgique - France Ligue des Nations"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 22 septembre",
-      "heure": "16:45",
-      "affiche": "Bayern Munich F - Manchester City F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mardi 22 septembre",
-      "heure": "19:00",
-      "affiche": "Arsenal F - Køge F Ligue des Champions Féminine"
-    },
     {
       "date": "Mercredi 23 septembre",
       "heure": "19:00",
@@ -68,28 +63,17 @@
       "affiche": "Vancouver Whitecaps - DC United MLS"
     }
   ],
-  "Espagne": [
-    {
-      "date": "Mardi 22 septembre",
-      "heure": "19:00",
-      "affiche": "Real Madrid F - PSG F Ligue des Champions Féminine"
-    }
-  ],
+  "Espagne": [],
   "Italie": [
-    {
-      "date": "Mardi 22 septembre",
-      "heure": "16:45",
-      "affiche": "Inter Milan F - Häcken F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mardi 22 septembre",
-      "heure": "19:00",
-      "affiche": "Juventus F - SL Benfica F Ligue des Champions Féminine"
-    },
     {
       "date": "Mercredi 23 septembre",
       "heure": "16:45",
       "affiche": "OH Louvain F - AS Roma F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "23:00",
+      "affiche": "Columbus Crew - Inter Miami MLS"
     }
   ],
   "Allemagne": [],
@@ -369,6 +353,51 @@
       "date": "Dimanche 27 septembre",
       "heure": "18:45",
       "affiche": "Allemagne - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "16:00",
+      "affiche": "Zimbabwe - RD Congo CAN 2027"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "16:00",
+      "affiche": "Arménie - Monténégro Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "16:00",
+      "affiche": "Georgie - Ukraine Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "18:45",
+      "affiche": "Suède - Pologne Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "18:45",
+      "affiche": "Irlande du Nord - Hongrie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "18:45",
+      "affiche": "Roumanie - Bosnie-Herzégovine Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "18:45",
+      "affiche": "Turquie - Italie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "19:00",
+      "affiche": "Botswana - Tunisie CAN 2027"
     }
   ]
 }
