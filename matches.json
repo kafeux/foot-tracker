@@ -36,14 +36,39 @@
       "date": "Mercredi 23 septembre",
       "heure": "19:00",
       "affiche": "Chelsea F - Austria Vienne F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:30",
+      "affiche": "Philadelphia Union - Orlando City SC MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:30",
+      "affiche": "Atlanta United FC - New York City FC MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:30",
+      "affiche": "New York Red Bulls - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "00:30",
+      "affiche": "Houston Dynamo - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "00:30",
+      "affiche": "Seattle Sounders - Minnesota United FC MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "02:30",
+      "affiche": "Vancouver Whitecaps - DC United MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 21 septembre",
-      "heure": "16:00",
-      "affiche": "Werder Breme F - Stuttgart F Bundesliga Féminine"
-    },
     {
       "date": "Mardi 22 septembre",
       "heure": "19:00",
@@ -51,11 +76,6 @@
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 21 septembre",
-      "heure": "23:00",
-      "affiche": "Inter Miami - San Diego MLS"
-    },
     {
       "date": "Mardi 22 septembre",
       "heure": "16:45",
@@ -274,6 +294,81 @@
       "date": "Samedi 26 septembre",
       "heure": "18:45",
       "affiche": "République tchèque - Croatie Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:30",
+      "affiche": "CF Montreal - FC Cincinnati MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:30",
+      "affiche": "Charlotte FC - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - Los Angeles FC MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "00:30",
+      "affiche": "Austin FC - San Diego MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "00:30",
+      "affiche": "Nashville SC - Toronto FC MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "01:30",
+      "affiche": "Real Salt Lake - New England Revolution MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "02:30",
+      "affiche": "Los Angeles Galaxy - Colorado Rapids MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "02:30",
+      "affiche": "San Jose Earthquakes - Portland Timbers MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "16:00",
+      "affiche": "Autriche - Kosovo Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "16:00",
+      "affiche": "Danemark - Pays de Galles Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "16:00",
+      "affiche": "Serbie - Pays-Bas Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "16:00",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "18:45",
+      "affiche": "Norvège - Portugal Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "18:45",
+      "affiche": "Israël - Irlande Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "18:45",
+      "affiche": "Allemagne - Grèce Ligue des Nations"
     }
   ]
 }
