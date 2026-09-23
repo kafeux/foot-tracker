@@ -7,6 +7,11 @@
     },
     {
       "date": "Mercredi 23 septembre",
+      "heure": "17:00",
+      "affiche": "France U21 - Autriche U18 Match international"
+    },
+    {
+      "date": "Mercredi 23 septembre",
       "heure": "19:00",
       "affiche": "FC Barcelone F - Paris FC F Ligue des Champions Féminine"
     },
@@ -80,6 +85,21 @@
   "Europe": [],
   "Autres": [
     {
+      "date": "Mercredi 23 septembre",
+      "heure": "19:00",
+      "affiche": "Îles Turks et Caïques - Montserrat Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mercredi 23 septembre",
+      "heure": "20:00",
+      "affiche": "Bahamas - Saint-Martin Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 24 septembre",
+      "heure": "23:00",
+      "affiche": "Aruba - Antigua-et-Barbuda Ligue des nations de la CONCACAF"
+    },
+    {
       "date": "Jeudi 24 septembre",
       "heure": "01:30",
       "affiche": "Seattle Sounders - Real Salt Lake MLS"
@@ -145,6 +165,31 @@
       "affiche": "Côte d'Ivoire - Ghana CAN 2027"
     },
     {
+      "date": "Jeudi 24 septembre",
+      "heure": "19:00",
+      "affiche": "Porto Rico - Guyane Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "00:00",
+      "affiche": "République dominicaine - Nicaragua Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "00:10",
+      "affiche": "Iles Caïman - Dominique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "00:20",
+      "affiche": "Haiti - Trinité-et-Tobago Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "02:00",
+      "affiche": "Costa Rica - Curaçao Ligue des nations de la CONCACAF"
+    },
+    {
       "date": "Vendredi 25 septembre",
       "heure": "16:00",
       "affiche": "Nigeria - Madagascar CAN 2027"
@@ -203,6 +248,41 @@
       "date": "Vendredi 25 septembre",
       "heure": "19:00",
       "affiche": "Maroc - Gabon CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "19:00",
+      "affiche": "Bermudes - Guadeloupe Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 25 septembre",
+      "heure": "21:00",
+      "affiche": "Grenade - Cuba Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "00:00",
+      "affiche": "Jamaïque - Guatemala Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "00:00",
+      "affiche": "Bonaire - Saint-Christophe-et-Niévès Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "00:00",
+      "affiche": "Barbade - Sainte-Lucie Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "01:00",
+      "affiche": "Honduras - Suriname Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "03:00",
+      "affiche": "Salvador - Martinique Ligue des nations de la CONCACAF"
     },
     {
       "date": "Samedi 26 septembre",
@@ -280,6 +360,21 @@
       "affiche": "République tchèque - Croatie Ligue des Nations"
     },
     {
+      "date": "Samedi 26 septembre",
+      "heure": "19:00",
+      "affiche": "Montserrat - Îles Vierges britanniques Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 26 septembre",
+      "heure": "20:00",
+      "affiche": "Saint-Martin - Îles Vierges des États-Unis Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "23:00",
+      "affiche": "Antigua-et-Barbuda - Anguilla Ligue des nations de la CONCACAF"
+    },
+    {
       "date": "Dimanche 27 septembre",
       "heure": "23:30",
       "affiche": "CF Montreal - FC Cincinnati MLS"
@@ -308,6 +403,11 @@
       "date": "Dimanche 27 septembre",
       "heure": "01:30",
       "affiche": "Real Salt Lake - New England Revolution MLS"
+    },
+    {
+      "date": "Dimanche 27 septembre",
+      "heure": "02:00",
+      "affiche": "Sint Maarten - Belize Ligue des nations de la CONCACAF"
     },
     {
       "date": "Dimanche 27 septembre",
@@ -360,6 +460,31 @@
       "affiche": "Multiplex - Multiplex Ligue des Nations"
     },
     {
+      "date": "Dimanche 27 septembre",
+      "heure": "19:00",
+      "affiche": "Guyane - Iles Caïman Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "23:00",
+      "affiche": "Haiti - Costa Rica Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "00:00",
+      "affiche": "Curaçao - Nicaragua Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "00:00",
+      "affiche": "Dominique - Porto Rico Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "01:00",
+      "affiche": "Trinité-et-Tobago - République dominicaine Ligue des nations de la CONCACAF"
+    },
+    {
       "date": "Lundi 28 septembre",
       "heure": "16:00",
       "affiche": "Zimbabwe - RD Congo CAN 2027"
@@ -398,6 +523,16 @@
       "date": "Lundi 28 septembre",
       "heure": "19:00",
       "affiche": "Botswana - Tunisie CAN 2027"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "19:00",
+      "affiche": "Guadeloupe - Barbade Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 28 septembre",
+      "heure": "21:00",
+      "affiche": "Cuba - Bonaire Ligue des nations de la CONCACAF"
     }
   ]
 }
