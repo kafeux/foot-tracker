@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 23 septembre",
-      "heure": "16:45",
-      "affiche": "Servette Chênois F - Lyon F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mercredi 23 septembre",
-      "heure": "17:00",
-      "affiche": "France U21 - Autriche U18 Match international"
-    },
-    {
-      "date": "Mercredi 23 septembre",
-      "heure": "19:00",
-      "affiche": "FC Barcelone F - Paris FC F Ligue des Champions Féminine"
-    },
-    {
       "date": "Vendredi 25 septembre",
       "heure": "18:45",
       "affiche": "Turquie - France Ligue des Nations"
@@ -32,11 +17,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mercredi 23 septembre",
-      "heure": "19:00",
-      "affiche": "Chelsea F - Austria Vienne F Ligue des Champions Féminine"
-    },
     {
       "date": "Dimanche 27 septembre",
       "heure": "23:30",
@@ -71,11 +51,6 @@
   "Espagne": [],
   "Italie": [
     {
-      "date": "Mercredi 23 septembre",
-      "heure": "16:45",
-      "affiche": "OH Louvain F - AS Roma F Ligue des Champions Féminine"
-    },
-    {
       "date": "Lundi 28 septembre",
       "heure": "23:00",
       "affiche": "Columbus Crew - Inter Miami MLS"
@@ -84,16 +59,6 @@
   "Allemagne": [],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Mercredi 23 septembre",
-      "heure": "19:00",
-      "affiche": "Îles Turks et Caïques - Montserrat Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mercredi 23 septembre",
-      "heure": "20:00",
-      "affiche": "Bahamas - Saint-Martin Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Jeudi 24 septembre",
       "heure": "23:00",
@@ -533,6 +498,96 @@
       "date": "Lundi 28 septembre",
       "heure": "21:00",
       "affiche": "Cuba - Bonaire Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "22:00",
+      "affiche": "Suriname - Martinique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "00:00",
+      "affiche": "Jamaïque - Honduras Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "00:00",
+      "affiche": "Saint-Christophe-et-Niévès - Grenade Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "00:00",
+      "affiche": "Sainte-Lucie - Bermudes Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "02:00",
+      "affiche": "Guatemala - Salvador Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "13:00",
+      "affiche": "Burundi - Algérie CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "13:00",
+      "affiche": "Lesotho - Maroc CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "16:00",
+      "affiche": "Guinée-Bissau - Nigeria CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "République tchèque - Angleterre Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "Espagne - Croatie Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "Ecosse - Suisse Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "Luxembourg - Islande Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "18:45",
+      "affiche": "Slovaquie - Kazakhstan Ligue des Nations"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "19:00",
+      "affiche": "Congo - Cameroun CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "19:00",
+      "affiche": "Somalie - Côte d'Ivoire CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "20:00",
+      "affiche": "Îles Vierges des États-Unis - Bahamas Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "21:00",
+      "affiche": "Guyane française - Sint Maarten Ligue des nations de la CONCACAF"
     }
   ]
 }
