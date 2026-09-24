@@ -156,6 +156,11 @@
     },
     {
       "date": "Vendredi 25 septembre",
+      "heure": "13:00",
+      "affiche": "Mozambique - Sénégal CAN 2027"
+    },
+    {
+      "date": "Vendredi 25 septembre",
       "heure": "16:00",
       "affiche": "Nigeria - Madagascar CAN 2027"
     },
@@ -168,11 +173,6 @@
       "date": "Vendredi 25 septembre",
       "heure": "16:00",
       "affiche": "Georgie - Irlande du Nord Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Italie - Belgique Ligue des Nations"
     },
     {
       "date": "Vendredi 25 septembre",
@@ -191,13 +191,13 @@
     },
     {
       "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Mali - Cap Vert CAN 2027"
+      "heure": "18:45",
+      "affiche": "Italie - Belgique Ligue des Nations"
     },
     {
       "date": "Vendredi 25 septembre",
       "heure": "19:00",
-      "affiche": "Sénégal - Mozambique CAN 2027"
+      "affiche": "Mali - Cap Vert CAN 2027"
     },
     {
       "date": "Vendredi 25 septembre",
