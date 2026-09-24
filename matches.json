@@ -14,6 +14,16 @@
       "date": "Lundi 28 septembre",
       "heure": "18:45",
       "affiche": "Belgique - France Ligue des Nations"
+    },
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "16:45",
+      "affiche": "Paris FC F - Arsenal F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "19:00",
+      "affiche": "Lyon F - Chelsea F Ligue des Champions Féminine"
     }
   ],
   "Angleterre": [
@@ -48,92 +58,34 @@
       "affiche": "Vancouver Whitecaps - DC United MLS"
     }
   ],
-  "Espagne": [],
+  "Espagne": [
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "16:45",
+      "affiche": "AS Roma F - FC Barcelone F Ligue des Champions Féminine"
+    }
+  ],
   "Italie": [
     {
       "date": "Lundi 28 septembre",
       "heure": "23:00",
       "affiche": "Columbus Crew - Inter Miami MLS"
+    },
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "16:45",
+      "affiche": "Häcken F - Juventus F Ligue des Champions Féminine"
     }
   ],
-  "Allemagne": [],
+  "Allemagne": [
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "19:00",
+      "affiche": "SL Benfica F - Bayern Munich F Ligue des Champions Féminine"
+    }
+  ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "23:00",
-      "affiche": "Aruba - Antigua-et-Barbuda Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "01:30",
-      "affiche": "Seattle Sounders - Real Salt Lake MLS"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "16:00",
-      "affiche": "RD Congo - Guinée équatoriale CAN 2027"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Caen - Rouen Ligue 3"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Portugal - Pays de Galles Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Pays-Bas - Allemagne Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Serbie - Grèce Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Autriche - Israël Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Kosovo - Irlande Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "18:45",
-      "affiche": "Norvège - Danemark Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "19:00",
-      "affiche": "Tunisie - Ouganda CAN 2027"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "19:00",
-      "affiche": "Cameroun - Comores CAN 2027"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "19:00",
-      "affiche": "Côte d'Ivoire - Ghana CAN 2027"
-    },
-    {
-      "date": "Jeudi 24 septembre",
-      "heure": "19:00",
-      "affiche": "Porto Rico - Guyane Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Vendredi 25 septembre",
       "heure": "00:00",
@@ -588,6 +540,16 @@
       "date": "Mardi 29 septembre",
       "heure": "21:00",
       "affiche": "Guyane française - Sint Maarten Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "23:00",
+      "affiche": "Anguilla - Aruba Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mercredi 30 septembre",
+      "heure": "02:00",
+      "affiche": "Belize - Saint-Vincent et les Grenadines Ligue des nations de la CONCACAF"
     }
   ]
 }
