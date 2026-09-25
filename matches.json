@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Turquie - France Ligue des Nations"
-    },
-    {
       "date": "Samedi 26 septembre",
       "heure": "18:45",
       "affiche": "Paris 13 Atletico - Bastia Ligue 3"
@@ -56,6 +51,11 @@
       "date": "Dimanche 27 septembre",
       "heure": "02:30",
       "affiche": "Vancouver Whitecaps - DC United MLS"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "19:00",
+      "affiche": "Manchester City F - Real Madrid F Ligue des Champions Féminine"
     }
   ],
   "Espagne": [
@@ -75,6 +75,11 @@
       "date": "Mercredi 30 septembre",
       "heure": "16:45",
       "affiche": "Häcken F - Juventus F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "16:45",
+      "affiche": "Austria Vienne F - Inter Milan F Ligue des Champions Féminine"
     }
   ],
   "Allemagne": [
@@ -84,98 +89,19 @@
       "affiche": "SL Benfica F - Bayern Munich F Ligue des Champions Féminine"
     }
   ],
-  "Europe": [],
+  "Europe": [
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "16:45",
+      "affiche": "Køge F - Servette Chênois F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "19:00",
+      "affiche": "PSG F - OH Louvain F Ligue des Champions Féminine"
+    }
+  ],
   "Autres": [
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "00:00",
-      "affiche": "République dominicaine - Nicaragua Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "00:10",
-      "affiche": "Iles Caïman - Dominique Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "00:20",
-      "affiche": "Haiti - Trinité-et-Tobago Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "02:00",
-      "affiche": "Costa Rica - Curaçao Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "13:00",
-      "affiche": "Mozambique - Sénégal CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "16:00",
-      "affiche": "Nigeria - Madagascar CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "16:00",
-      "affiche": "Arménie - Lettonie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "16:00",
-      "affiche": "Georgie - Irlande du Nord Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Hongrie - Ukraine Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Pologne - Bosnie-Herzégovine Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Suède - Roumanie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "18:45",
-      "affiche": "Italie - Belgique Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Mali - Cap Vert CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Algérie - Zambie CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Maroc - Gabon CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Egypte - Angola CAN 2027"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "19:00",
-      "affiche": "Bermudes - Guadeloupe Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 25 septembre",
-      "heure": "21:00",
-      "affiche": "Grenade - Cuba Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Samedi 26 septembre",
       "heure": "00:00",
@@ -550,6 +476,61 @@
       "date": "Mercredi 30 septembre",
       "heure": "02:00",
       "affiche": "Belize - Saint-Vincent et les Grenadines Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Bastia - Orléans Ligue 3"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Danemark - Portugal Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Allemagne - Serbie Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Pays de Galles - Norvège Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Irlande - Autriche Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Israël - Kosovo Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Grèce - Pays-Bas Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "19:00",
+      "affiche": "Îles Vierges britanniques - Montserrat Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "20:00",
+      "affiche": "Îles Vierges des États-Unis - Saint-Martin Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 1 octobre",
+      "heure": "21:00",
+      "affiche": "Dominique - Guyane Ligue des nations de la CONCACAF"
     }
   ]
 }
