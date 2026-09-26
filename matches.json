@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Paris 13 Atletico - Bastia Ligue 3"
-    },
-    {
       "date": "Lundi 28 septembre",
       "heure": "18:45",
       "affiche": "Belgique - France Ligue des Nations"
@@ -19,6 +14,11 @@
       "date": "Mercredi 30 septembre",
       "heure": "19:00",
       "affiche": "Lyon F - Chelsea F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "France - Italie Ligue des Nations"
     }
   ],
   "Angleterre": [
@@ -56,6 +56,11 @@
       "date": "Jeudi 1 octobre",
       "heure": "19:00",
       "affiche": "Manchester City F - Real Madrid F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "01:30",
+      "affiche": "Seattle Sounders - Sporting Kansas City MLS"
     }
   ],
   "Espagne": [
@@ -102,116 +107,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "00:00",
-      "affiche": "Jamaïque - Guatemala Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "00:00",
-      "affiche": "Bonaire - Saint-Christophe-et-Niévès Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "00:00",
-      "affiche": "Barbade - Sainte-Lucie Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "01:00",
-      "affiche": "Honduras - Suriname Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "03:00",
-      "affiche": "Salvador - Martinique Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "13:00",
-      "affiche": "Slovénie - Ecosse Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "16:00",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "16:00",
-      "affiche": "Bulgarie - Luxembourg Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "16:00",
-      "affiche": "Islande - Estonie Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Thionville Lusitanos - La Roche VF Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Fleury 91 - Aubagne Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Villefranche - Versailles Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Quevilly - Amiens Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Bourg-Péronnas - Concarneau Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Valenciennes - Le Puy Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Orléans - Cannes Ligue 3"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Angleterre - Espagne Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "Macédoine du Nord - Suisse Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "18:45",
-      "affiche": "République tchèque - Croatie Ligue des Nations"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "19:00",
-      "affiche": "Montserrat - Îles Vierges britanniques Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 26 septembre",
-      "heure": "20:00",
-      "affiche": "Saint-Martin - Îles Vierges des États-Unis Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Dimanche 27 septembre",
       "heure": "23:00",
@@ -531,6 +426,71 @@
       "date": "Jeudi 1 octobre",
       "heure": "21:00",
       "affiche": "Dominique - Guyane Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "22:00",
+      "affiche": "Curaçao - Trinité-et-Tobago Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "23:00",
+      "affiche": "Anguilla - Antigua-et-Barbuda Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "00:00",
+      "affiche": "République dominicaine - Haiti Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "00:00",
+      "affiche": "Iles Caïman - Porto Rico Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "02:00",
+      "affiche": "Nicaragua - Costa Rica Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "16:00",
+      "affiche": "Chypre - Arménie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "Belgique - Turquie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "Bosnie-Herzégovine - Suède Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "Ukraine - Irlande du Nord Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "Hongrie - Georgie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "18:45",
+      "affiche": "Pologne - Roumanie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "19:00",
+      "affiche": "Sainte-Lucie - Guadeloupe Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 2 octobre",
+      "heure": "21:00",
+      "affiche": "Saint-Christophe-et-Niévès - Cuba Ligue des nations de la CONCACAF"
     }
   ]
 }
