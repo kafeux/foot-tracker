@@ -19,39 +19,14 @@
       "date": "Vendredi 2 octobre",
       "heure": "18:45",
       "affiche": "France - Italie Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Concarneau - Paris 13 Atletico Ligue 3"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:30",
-      "affiche": "Philadelphia Union - Orlando City SC MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:30",
-      "affiche": "Atlanta United FC - New York City FC MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - St. Louis City MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "00:30",
-      "affiche": "Houston Dynamo - Sporting Kansas City MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "00:30",
-      "affiche": "Seattle Sounders - Minnesota United FC MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "02:30",
-      "affiche": "Vancouver Whitecaps - DC United MLS"
-    },
     {
       "date": "Jeudi 1 octobre",
       "heure": "19:00",
@@ -107,101 +82,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:00",
-      "affiche": "Antigua-et-Barbuda - Anguilla Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:30",
-      "affiche": "CF Montreal - FC Cincinnati MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "23:30",
-      "affiche": "Charlotte FC - Chicago Fire MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "00:30",
-      "affiche": "FC Dallas - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "00:30",
-      "affiche": "Austin FC - San Diego MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "00:30",
-      "affiche": "Nashville SC - Toronto FC MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "01:30",
-      "affiche": "Real Salt Lake - New England Revolution MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "02:00",
-      "affiche": "Sint Maarten - Belize Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "02:30",
-      "affiche": "Los Angeles Galaxy - Colorado Rapids MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "02:30",
-      "affiche": "San Jose Earthquakes - Portland Timbers MLS"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "16:00",
-      "affiche": "Autriche - Kosovo Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "16:00",
-      "affiche": "Danemark - Pays de Galles Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "16:00",
-      "affiche": "Serbie - Pays-Bas Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "16:00",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "18:45",
-      "affiche": "Norvège - Portugal Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "18:45",
-      "affiche": "Israël - Irlande Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "18:45",
-      "affiche": "Allemagne - Grèce Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "18:45",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 27 septembre",
-      "heure": "19:00",
-      "affiche": "Guyane - Iles Caïman Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Lundi 28 septembre",
       "heure": "23:00",
@@ -491,6 +371,96 @@
       "date": "Vendredi 2 octobre",
       "heure": "21:00",
       "affiche": "Saint-Christophe-et-Niévès - Cuba Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "22:00",
+      "affiche": "Suriname - Guatemala Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "00:00",
+      "affiche": "Barbade - Bermudes Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "00:00",
+      "affiche": "Martinique - Honduras Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "00:00",
+      "affiche": "Bonaire - Grenade Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "02:00",
+      "affiche": "Salvador - Jamaïque Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "16:00",
+      "affiche": "Croatie - Angleterre Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "16:00",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Cannes - Quevilly Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "La Roche VF - Aubagne Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Rouen - Bourg-Péronnas Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Fleury 91 - Caen Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Versailles - Valenciennes Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Le Puy - Thionville Lusitanos Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Amiens - Villefranche Ligue 3"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Espagne - République tchèque Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Suisse - Slovénie Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "21:00",
+      "affiche": "Sint Maarten - Saint-Vincent et les Grenadines Ligue des nations de la CONCACAF"
     }
   ]
 }
