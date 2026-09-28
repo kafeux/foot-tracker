@@ -29,6 +29,11 @@
   "Angleterre": [
     {
       "date": "Jeudi 1 octobre",
+      "heure": "23:30",
+      "affiche": "New York Red Bulls - St. Louis City MLS"
+    },
+    {
+      "date": "Jeudi 1 octobre",
       "heure": "19:00",
       "affiche": "Manchester City F - Real Madrid F Ligue des Champions Féminine"
     },
