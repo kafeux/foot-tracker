@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 28 septembre",
-      "heure": "18:45",
-      "affiche": "Belgique - France Ligue des Nations"
-    },
-    {
       "date": "Mercredi 30 septembre",
       "heure": "16:45",
       "affiche": "Paris FC F - Arsenal F Ligue des Champions Féminine"
@@ -52,11 +47,6 @@
   ],
   "Italie": [
     {
-      "date": "Lundi 28 septembre",
-      "heure": "23:00",
-      "affiche": "Columbus Crew - Inter Miami MLS"
-    },
-    {
       "date": "Mercredi 30 septembre",
       "heure": "16:45",
       "affiche": "Häcken F - Juventus F Ligue des Champions Féminine"
@@ -87,81 +77,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "23:00",
-      "affiche": "Haiti - Costa Rica Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "00:00",
-      "affiche": "Curaçao - Nicaragua Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "00:00",
-      "affiche": "Dominique - Porto Rico Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "01:00",
-      "affiche": "Trinité-et-Tobago - République dominicaine Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "16:00",
-      "affiche": "Zimbabwe - RD Congo CAN 2027"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "16:00",
-      "affiche": "Arménie - Monténégro Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "16:00",
-      "affiche": "Georgie - Ukraine Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "18:45",
-      "affiche": "Suède - Pologne Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "18:45",
-      "affiche": "Irlande du Nord - Hongrie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "18:45",
-      "affiche": "Roumanie - Bosnie-Herzégovine Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "18:45",
-      "affiche": "Turquie - Italie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "19:00",
-      "affiche": "Tunisie - Botswana CAN 2027"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "19:00",
-      "affiche": "Guadeloupe - Barbade Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 28 septembre",
-      "heure": "21:00",
-      "affiche": "Cuba - Bonaire Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 29 septembre",
-      "heure": "22:00",
-      "affiche": "Suriname - Martinique Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Mardi 29 septembre",
       "heure": "00:00",
@@ -466,6 +381,46 @@
       "date": "Samedi 3 octobre",
       "heure": "21:00",
       "affiche": "Sint Maarten - Saint-Vincent et les Grenadines Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "02:00",
+      "affiche": "Belize - Guyane française Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "18:45",
+      "affiche": "Portugal - Norvège Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "18:45",
+      "affiche": "Pays-Bas - Serbie Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "18:45",
+      "affiche": "Grèce - Allemagne Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "18:45",
+      "affiche": "Irlande - Israël Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "18:45",
+      "affiche": "Pays de Galles - Danemark Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "19:00",
+      "affiche": "Guyane - Dominique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "20:00",
+      "affiche": "Bahamas - Îles Vierges des États-Unis Ligue des nations de la CONCACAF"
     }
   ]
 }
