@@ -1,6 +1,11 @@
 {
   "France": [
     {
+      "date": "Mardi 29 septembre",
+      "heure": "16:00",
+      "affiche": "Estonie U21 - France U21 Euro Espoirs 2027"
+    },
+    {
       "date": "Mercredi 30 septembre",
       "heure": "16:45",
       "affiche": "Paris FC F - Arsenal F Ligue des Champions Féminine"
@@ -109,6 +114,16 @@
     },
     {
       "date": "Mardi 29 septembre",
+      "heure": "13:00",
+      "affiche": "Ethiopie - Sénégal CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "13:00",
+      "affiche": "Soudan du Sud - Egypte CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
       "heure": "16:00",
       "affiche": "Guinée-Bissau - Nigeria CAN 2027"
     },
@@ -145,12 +160,17 @@
     {
       "date": "Mardi 29 septembre",
       "heure": "19:00",
-      "affiche": "Congo - Cameroun CAN 2027"
+      "affiche": "Somalie - Côte d'Ivoire CAN 2027"
     },
     {
       "date": "Mardi 29 septembre",
       "heure": "19:00",
-      "affiche": "Somalie - Côte d'Ivoire CAN 2027"
+      "affiche": "Liberia - Mali CAN 2027"
+    },
+    {
+      "date": "Mardi 29 septembre",
+      "heure": "19:00",
+      "affiche": "Congo - Cameroun CAN 2027"
     },
     {
       "date": "Mardi 29 septembre",
@@ -329,6 +349,11 @@
     },
     {
       "date": "Samedi 3 octobre",
+      "heure": "16:00",
+      "affiche": "Islande - Bulgarie Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
       "heure": "18:45",
       "affiche": "Cannes - Quevilly Ligue 3"
     },
@@ -379,6 +404,11 @@
     },
     {
       "date": "Samedi 3 octobre",
+      "heure": "18:45",
+      "affiche": "Macédoine du Nord - Ecosse Ligue des Nations"
+    },
+    {
+      "date": "Samedi 3 octobre",
       "heure": "21:00",
       "affiche": "Sint Maarten - Saint-Vincent et les Grenadines Ligue des nations de la CONCACAF"
     },
@@ -386,6 +416,11 @@
       "date": "Dimanche 4 octobre",
       "heure": "02:00",
       "affiche": "Belize - Guyane française Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "16:00",
+      "affiche": "Kosovo - Autriche Ligue des Nations"
     },
     {
       "date": "Dimanche 4 octobre",
