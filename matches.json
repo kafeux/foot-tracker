@@ -58,8 +58,18 @@
     },
     {
       "date": "Jeudi 1 octobre",
+      "heure": "00:00",
+      "affiche": "Argentine - Bolivie Match international"
+    },
+    {
+      "date": "Jeudi 1 octobre",
       "heure": "16:45",
       "affiche": "Austria Vienne F - Inter Milan F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "00:00",
+      "affiche": "Argentine - Burkina Faso Match international"
     }
   ],
   "Allemagne": [
