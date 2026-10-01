@@ -18,16 +18,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Jeudi 1 octobre",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - St. Louis City MLS"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "19:00",
-      "affiche": "Manchester City F - Real Madrid F Ligue des Champions Féminine"
-    },
-    {
       "date": "Vendredi 2 octobre",
       "heure": "01:30",
       "affiche": "Seattle Sounders - Sporting Kansas City MLS"
@@ -36,95 +26,19 @@
   "Espagne": [],
   "Italie": [
     {
-      "date": "Jeudi 1 octobre",
-      "heure": "00:00",
-      "affiche": "Argentine - Bolivie Match international"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "16:45",
-      "affiche": "Austria Vienne F - Inter Milan F Ligue des Champions Féminine"
-    },
-    {
       "date": "Dimanche 4 octobre",
       "heure": "00:00",
       "affiche": "Argentine - Burkina Faso Match international"
+    },
+    {
+      "date": "Mercredi 7 octobre",
+      "heure": "23:00",
+      "affiche": "Argentine - Bénin Match international"
     }
   ],
   "Allemagne": [],
-  "Europe": [
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "16:45",
-      "affiche": "Køge F - Servette Chênois F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "19:00",
-      "affiche": "PSG F - OH Louvain F Ligue des Champions Féminine"
-    }
-  ],
+  "Europe": [],
   "Autres": [
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Bastia - Orléans Ligue 3"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Danemark - Portugal Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Allemagne - Serbie Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Pays de Galles - Norvège Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Irlande - Autriche Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Israël - Kosovo Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Grèce - Pays-Bas Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "18:45",
-      "affiche": "Multiplex - Multiplex Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "19:00",
-      "affiche": "Îles Vierges britanniques - Montserrat Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "20:00",
-      "affiche": "Îles Vierges des États-Unis - Saint-Martin Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Jeudi 1 octobre",
-      "heure": "21:00",
-      "affiche": "Dominique - Guyane Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "22:00",
-      "affiche": "Curaçao - Trinité-et-Tobago Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Vendredi 2 octobre",
       "heure": "23:00",
@@ -464,6 +378,16 @@
       "date": "Mardi 6 octobre",
       "heure": "21:00",
       "affiche": "Saint-Vincent et les Grenadines - Sint Maarten Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mercredi 7 octobre",
+      "heure": "23:00",
+      "affiche": "Antigua-et-Barbuda - Aruba Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mercredi 7 octobre",
+      "heure": "02:00",
+      "affiche": "Guyane française - Belize Ligue des nations de la CONCACAF"
     }
   ]
 }
