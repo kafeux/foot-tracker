@@ -21,6 +21,36 @@
       "date": "Vendredi 2 octobre",
       "heure": "01:30",
       "affiche": "Seattle Sounders - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Samedi 3 octobre",
+      "heure": "12:30",
+      "affiche": "Manchester United F - Liverpool F Women's Super League"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "13:00",
+      "affiche": "Tottenham F - London City Lionesses Women's Super League"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "13:00",
+      "affiche": "Everton F - Birmingham City F Women's Super League"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "13:00",
+      "affiche": "West Ham F - Chelsea F Women's Super League"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "13:00",
+      "affiche": "Aston Villa F - Crystal Palace F Women's Super League"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "15:30",
+      "affiche": "Manchester City F - Arsenal F Women's Super League"
     }
   ],
   "Espagne": [
@@ -38,6 +68,11 @@
       "date": "Dimanche 4 octobre",
       "heure": "11:45",
       "affiche": "Wolfsbourg F - Hambourg F Bundesliga Féminine"
+    },
+    {
+      "date": "Dimanche 4 octobre",
+      "heure": "13:00",
+      "affiche": "Brighton F - Charlton Athletic F Women's Super League"
     },
     {
       "date": "Dimanche 4 octobre",
@@ -319,6 +354,11 @@
       "date": "Lundi 5 octobre",
       "heure": "18:45",
       "affiche": "Italie - Turquie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 5 octobre",
+      "heure": "18:45",
+      "affiche": "Irlande du Nord - Georgie Ligue des Nations"
     },
     {
       "date": "Lundi 5 octobre",
