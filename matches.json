@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "France - Italie Ligue des Nations"
-    },
-    {
       "date": "Samedi 3 octobre",
       "heure": "18:45",
       "affiche": "Concarneau - Paris 13 Atletico Ligue 3"
@@ -17,11 +12,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "01:30",
-      "affiche": "Seattle Sounders - Sporting Kansas City MLS"
-    },
     {
       "date": "Samedi 3 octobre",
       "heure": "12:30",
@@ -55,11 +45,6 @@
   ],
   "Espagne": [
     {
-      "date": "Vendredi 2 octobre",
-      "heure": "16:30",
-      "affiche": "Bayer Leverkusen F - Werder Breme F Bundesliga Féminine"
-    },
-    {
       "date": "Samedi 3 octobre",
       "heure": "15:55",
       "affiche": "Francfort F - Bayern Munich F Bundesliga Féminine"
@@ -82,11 +67,6 @@
   ],
   "Italie": [
     {
-      "date": "Vendredi 2 octobre",
-      "heure": "16:15",
-      "affiche": "Portugal U18 - Roumanie U18 Match international"
-    },
-    {
       "date": "Dimanche 4 octobre",
       "heure": "00:00",
       "affiche": "Argentine - Burkina Faso Match international"
@@ -100,71 +80,6 @@
   "Allemagne": [],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "23:00",
-      "affiche": "Anguilla - Antigua-et-Barbuda Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "00:00",
-      "affiche": "République dominicaine - Haiti Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "00:00",
-      "affiche": "Iles Caïman - Porto Rico Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "02:00",
-      "affiche": "Nicaragua - Costa Rica Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "16:00",
-      "affiche": "Chypre - Arménie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "Belgique - Turquie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "Bosnie-Herzégovine - Suède Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "Ukraine - Irlande du Nord Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "Hongrie - Georgie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "18:45",
-      "affiche": "Pologne - Roumanie Ligue des Nations"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "19:00",
-      "affiche": "Sainte-Lucie - Guadeloupe Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 2 octobre",
-      "heure": "21:00",
-      "affiche": "Saint-Christophe-et-Niévès - Cuba Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Samedi 3 octobre",
-      "heure": "22:00",
-      "affiche": "Suriname - Guatemala Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Samedi 3 octobre",
       "heure": "00:00",
