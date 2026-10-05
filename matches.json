@@ -6,6 +6,16 @@
       "affiche": "France - Belgique Ligue des Nations"
     },
     {
+      "date": "Mardi 6 octobre",
+      "heure": "11:30",
+      "affiche": "France U17 - Pays-Bas U17 Match international"
+    },
+    {
+      "date": "Mardi 6 octobre",
+      "heure": "17:00",
+      "affiche": "France U21 - Suisse U21 Euro Espoirs 2027"
+    },
+    {
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
       "affiche": "Dunkerque - Annecy Ligue 2"
@@ -254,6 +264,11 @@
       "date": "Mardi 6 octobre",
       "heure": "02:00",
       "affiche": "Honduras - Jamaïque Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 6 octobre",
+      "heure": "18:00",
+      "affiche": "FC Metz Légendes - Pirès All-Stars Match amical"
     },
     {
       "date": "Mardi 6 octobre",
