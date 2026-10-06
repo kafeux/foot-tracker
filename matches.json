@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "France - Belgique Ligue des Nations"
-    },
-    {
       "date": "Mardi 6 octobre",
       "heure": "11:30",
       "affiche": "France U17 - Pays-Bas U17 Match international"
@@ -84,6 +79,21 @@
       "date": "Samedi 10 octobre",
       "heure": "18:45",
       "affiche": "Brest - Angers Ligue 1"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:00",
+      "affiche": "Nice - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "15:15",
+      "affiche": "Rennes - Auxerre Ligue 1"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "18:45",
+      "affiche": "Troyes - Marseille Ligue 1"
     }
   ],
   "Angleterre": [
@@ -96,6 +106,31 @@
       "date": "Samedi 10 octobre",
       "heure": "19:00",
       "affiche": "Real Madrid - Villarreal Liga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "Atlanta United FC - FC Cincinnati MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "Inter Miami - DC United MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "Orlando City SC - Columbus Crew MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "00:30",
+      "affiche": "Minnesota United FC - Houston Dynamo MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "00:30",
+      "affiche": "Sporting Kansas City - Portland Timbers MLS"
     }
   ],
   "Espagne": [
@@ -153,6 +188,36 @@
       "date": "Samedi 10 octobre",
       "heure": "16:30",
       "affiche": "RB Leipzig - Francfort Bundesliga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "12:00",
+      "affiche": "Elche - Celta Vigo Liga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:30",
+      "affiche": "Cologne - Monchengladbach Bundesliga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "14:15",
+      "affiche": "Real Sociedad - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "15:30",
+      "affiche": "Fribourg - Schalke 04 Bundesliga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "16:30",
+      "affiche": "Betis Séville - Osasuna Liga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "19:00",
+      "affiche": "Racing Santander - Valence Liga"
     }
   ],
   "Italie": [
@@ -175,71 +240,36 @@
       "date": "Samedi 10 octobre",
       "heure": "18:45",
       "affiche": "Naples - Frosinone Serie A"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "10:30",
+      "affiche": "Côme - AS Roma Serie A"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:00",
+      "affiche": "Lazio Rome - Monza Serie A"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:00",
+      "affiche": "Lecce - Bologne Serie A"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "16:00",
+      "affiche": "Sassuolo - AC Milan Serie A"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "18:45",
+      "affiche": "Cagliari - Juventus Turin Serie A"
     }
   ],
   "Allemagne": [],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "23:00",
-      "affiche": "Aruba - Anguilla Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "00:00",
-      "affiche": "Costa Rica - Haiti Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "02:00",
-      "affiche": "Nicaragua - République dominicaine Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Monténégro - Arménie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Bosnie-Herzégovine - Pologne Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Roumanie - Suède Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Ukraine - Hongrie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Italie - Turquie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "18:45",
-      "affiche": "Irlande du Nord - Georgie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "19:00",
-      "affiche": "Guadeloupe - Sainte-Lucie Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 5 octobre",
-      "heure": "21:00",
-      "affiche": "Cuba - Saint-Christophe-et-Niévès Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "22:00",
-      "affiche": "Martinique - Salvador Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Mardi 6 octobre",
       "heure": "00:00",
@@ -344,6 +374,41 @@
       "date": "Samedi 10 octobre",
       "heure": "19:00",
       "affiche": "Ajax Amsterdam - NEC Nimègue Eredivisie"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "New England Revolution - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "Philadelphia Union - Real Salt Lake MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "New York Red Bulls - San Diego MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "23:30",
+      "affiche": "Charlotte FC - FC Dallas MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "00:30",
+      "affiche": "Austin FC - Nashville SC MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "02:30",
+      "affiche": "Los Angeles FC - Vancouver Whitecaps MLS"
     }
   ]
 }
