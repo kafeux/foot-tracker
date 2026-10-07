@@ -8,7 +8,12 @@
     {
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
-      "affiche": "Montpellier - Grenoble Ligue 2"
+      "affiche": "Sochaux - Boulogne Ligue 2"
+    },
+    {
+      "date": "Vendredi 9 octobre",
+      "heure": "18:00",
+      "affiche": "Pau FC - Laval Ligue 2"
     },
     {
       "date": "Vendredi 9 octobre",
@@ -18,12 +23,12 @@
     {
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
-      "affiche": "Sochaux - Boulogne Ligue 2"
+      "affiche": "Montpellier - Grenoble Ligue 2"
     },
     {
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
-      "affiche": "Pau FC - Laval Ligue 2"
+      "affiche": "Multiplex - Multiplex Ligue 2"
     },
     {
       "date": "Vendredi 9 octobre",
@@ -93,6 +98,46 @@
   ],
   "Angleterre": [
     {
+      "date": "Vendredi 9 octobre",
+      "heure": "19:00",
+      "affiche": "West Ham - QPR Championship"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "11:30",
+      "affiche": "Arsenal - Leeds Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "14:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "14:00",
+      "affiche": "Chelsea - Bournemouth Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "14:00",
+      "affiche": "Aston Villa - Brentford Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "14:00",
+      "affiche": "Ipswich - Fulham Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "14:00",
+      "affiche": "Sunderland - Brighton Premier League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "16:30",
+      "affiche": "Manchester United - Tottenham Premier League"
+    },
+    {
       "date": "Samedi 10 octobre",
       "heure": "18:30",
       "affiche": "Chicago Fire - New York City FC MLS"
@@ -128,12 +173,42 @@
       "affiche": "Sporting Kansas City - Portland Timbers MLS"
     },
     {
+      "date": "Dimanche 11 octobre",
+      "heure": "11:00",
+      "affiche": "Southampton - Portsmouth Championship"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:00",
+      "affiche": "Crystal Palace - Nottingham Forest Premier League"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "13:00",
+      "affiche": "Hull City - Everton Premier League"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "15:30",
+      "affiche": "Liverpool - Manchester City Premier League"
+    },
+    {
       "date": "Lundi 12 octobre",
       "heure": "23:00",
       "affiche": "St. Louis City - Los Angeles Galaxy MLS"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "19:00",
+      "affiche": "Coventry - Newcastle Premier League"
     }
   ],
   "Espagne": [
+    {
+      "date": "Vendredi 9 octobre",
+      "heure": "16:30",
+      "affiche": "FC Heidenheim - Kaiserslautern Bundesliga 2"
+    },
     {
       "date": "Vendredi 9 octobre",
       "heure": "18:30",
@@ -143,6 +218,11 @@
       "date": "Vendredi 9 octobre",
       "heure": "19:00",
       "affiche": "Malaga - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Vendredi 9 octobre",
+      "heure": "19:15",
+      "affiche": "Braga - Sporting CP Primeira Liga"
     },
     {
       "date": "Samedi 10 octobre",
@@ -190,6 +270,21 @@
       "affiche": "RB Leipzig - Francfort Bundesliga"
     },
     {
+      "date": "Samedi 10 octobre",
+      "heure": "17:00",
+      "affiche": "Maritimo - FC Porto Primeira Liga"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "18:30",
+      "affiche": "Nuremberg - Wolfsbourg Bundesliga 2"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "11:30",
+      "affiche": "Hertha BSC - Greuther Furth Bundesliga 2"
+    },
+    {
       "date": "Dimanche 11 octobre",
       "heure": "12:00",
       "affiche": "Elche - Celta Vigo Liga"
@@ -213,6 +308,11 @@
       "date": "Dimanche 11 octobre",
       "heure": "16:30",
       "affiche": "Betis Séville - Osasuna Liga"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "17:00",
+      "affiche": "Benfica - Vitória SC Primeira Liga"
     },
     {
       "date": "Dimanche 11 octobre",
@@ -297,8 +397,33 @@
     },
     {
       "date": "Vendredi 9 octobre",
+      "heure": "13:50",
+      "affiche": "Al Kholood - Al-Qadisiyah FC Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 9 octobre",
+      "heure": "14:55",
+      "affiche": "Al-Fateh - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 9 octobre",
       "heure": "18:00",
       "affiche": "PSV Eindhoven - Heerenveen Eredivisie"
+    },
+    {
+      "date": "Vendredi 9 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Nassr - Al Diriyah Saudi Pro League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "13:00",
+      "affiche": "Samsunspor - Trabzonspor Süper Lig"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "16:00",
+      "affiche": "Rizespor - Fenerbahçe Süper Lig"
     },
     {
       "date": "Samedi 10 octobre",
@@ -309,6 +434,11 @@
       "date": "Samedi 10 octobre",
       "heure": "17:00",
       "affiche": "Toronto FC - CF Montreal MLS"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Hilal - Al-Ittihad Saudi Pro League"
     },
     {
       "date": "Samedi 10 octobre",
@@ -349,6 +479,11 @@
       "date": "Dimanche 11 octobre",
       "heure": "02:30",
       "affiche": "Los Angeles FC - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Dimanche 11 octobre",
+      "heure": "16:00",
+      "affiche": "Besiktas - Kocaelispor Süper Lig"
     }
   ]
 }
