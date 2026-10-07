@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Mardi 6 octobre",
-      "heure": "11:30",
-      "affiche": "France U17 - Pays-Bas U17 Match international"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "17:00",
-      "affiche": "France U21 - Suisse U21 Euro Espoirs 2027"
-    },
-    {
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
       "affiche": "Dunkerque - Annecy Ligue 2"
@@ -94,6 +84,11 @@
       "date": "Dimanche 11 octobre",
       "heure": "18:45",
       "affiche": "Troyes - Marseille Ligue 1"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "18:45",
+      "affiche": "Dijon - Metz Ligue 2"
     }
   ],
   "Angleterre": [
@@ -131,6 +126,11 @@
       "date": "Dimanche 11 octobre",
       "heure": "00:30",
       "affiche": "Sporting Kansas City - Portland Timbers MLS"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "23:00",
+      "affiche": "St. Louis City - Los Angeles Galaxy MLS"
     }
   ],
   "Espagne": [
@@ -218,6 +218,11 @@
       "date": "Dimanche 11 octobre",
       "heure": "19:00",
       "affiche": "Racing Santander - Valence Liga"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "19:00",
+      "affiche": "Levante - FC Séville Liga"
     }
   ],
   "Italie": [
@@ -265,86 +270,21 @@
       "date": "Dimanche 11 octobre",
       "heure": "18:45",
       "affiche": "Cagliari - Juventus Turin Serie A"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "16:30",
+      "affiche": "Atalanta - Venise Serie A"
+    },
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "18:45",
+      "affiche": "Torino - Udinese Serie A"
     }
   ],
   "Allemagne": [],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "00:00",
-      "affiche": "Bermudes - Barbade Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "00:00",
-      "affiche": "Guatemala - Suriname Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "00:00",
-      "affiche": "Grenade - Bonaire Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "00:30",
-      "affiche": "Chicago Fire - Vancouver Whitecaps MLS"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "02:00",
-      "affiche": "Honduras - Jamaïque Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:00",
-      "affiche": "FC Metz Légendes - Pirès All-Stars Match amical"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Croatie - Espagne Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Angleterre - République tchèque Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Ecosse - Slovénie Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Suisse - Macédoine du Nord Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Luxembourg - Bulgarie Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "18:45",
-      "affiche": "Estonie - Islande Ligue des Nations"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "20:00",
-      "affiche": "Montserrat - Îles Turks et Caïques Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "20:00",
-      "affiche": "Saint-Martin - Bahamas Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 6 octobre",
-      "heure": "21:00",
-      "affiche": "Saint-Vincent et les Grenadines - Sint Maarten Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Mercredi 7 octobre",
       "heure": "23:00",
