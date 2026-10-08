@@ -94,6 +94,16 @@
       "date": "Lundi 12 octobre",
       "heure": "18:45",
       "affiche": "Dijon - Metz Ligue 2"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "16:45",
+      "affiche": "Lens - Sporting CP Ligue des Champions"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Arsenal - Lille Ligue des Champions"
     }
   ],
   "Angleterre": [
@@ -201,6 +211,21 @@
       "date": "Lundi 12 octobre",
       "heure": "19:00",
       "affiche": "Coventry - Newcastle Premier League"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Atlético Madrid - Manchester United Ligue des Champions"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Villarreal - Naples Ligue des Champions"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Stoke City - Middlesbrough Championship"
     }
   ],
   "Espagne": [
@@ -323,14 +348,14 @@
       "date": "Lundi 12 octobre",
       "heure": "19:00",
       "affiche": "Levante - FC Séville Liga"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Galatasaray - FC Barcelone Ligue des Champions"
     }
   ],
   "Italie": [
-    {
-      "date": "Mercredi 7 octobre",
-      "heure": "23:00",
-      "affiche": "Argentine - Bénin Match international"
-    },
     {
       "date": "Samedi 10 octobre",
       "heure": "13:00",
@@ -380,21 +405,38 @@
       "date": "Lundi 12 octobre",
       "heure": "18:45",
       "affiche": "Torino - Udinese Serie A"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Inter Milan - Club Bruges Ligue des Champions"
     }
   ],
-  "Allemagne": [],
-  "Europe": [],
+  "Allemagne": [
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "RB Leipzig - PSV Eindhoven Ligue des Champions"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Viking - Bayern Munich Ligue des Champions"
+    }
+  ],
+  "Europe": [
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "16:45",
+      "affiche": "Sabah FA - Slavia Prague Ligue des Champions"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
+    }
+  ],
   "Autres": [
-    {
-      "date": "Mercredi 7 octobre",
-      "heure": "23:00",
-      "affiche": "Antigua-et-Barbuda - Aruba Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mercredi 7 octobre",
-      "heure": "02:00",
-      "affiche": "Guyane française - Belize Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Vendredi 9 octobre",
       "heure": "13:50",
