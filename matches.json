@@ -76,6 +76,11 @@
       "affiche": "Brest - Angers Ligue 1"
     },
     {
+      "date": "Samedi 10 octobre",
+      "heure": "19:00",
+      "affiche": "France F - Lettonie F Match amical féminin"
+    },
+    {
       "date": "Dimanche 11 octobre",
       "heure": "13:00",
       "affiche": "Nice - Strasbourg Ligue 1"
@@ -494,6 +499,11 @@
   "Autres": [
     {
       "date": "Vendredi 9 octobre",
+      "heure": "10:00",
+      "affiche": "Kashima Antlers - Gamba Osaka J-League"
+    },
+    {
+      "date": "Vendredi 9 octobre",
       "heure": "13:50",
       "affiche": "Al Kholood - Al-Qadisiyah FC Saudi Pro League"
     },
@@ -511,6 +521,11 @@
       "date": "Vendredi 9 octobre",
       "heure": "18:00",
       "affiche": "Al-Nassr - Al Diriyah Saudi Pro League"
+    },
+    {
+      "date": "Samedi 10 octobre",
+      "heure": "05:00",
+      "affiche": "Cerezo Osaka - Yokohama FM J-League"
     },
     {
       "date": "Samedi 10 octobre",
