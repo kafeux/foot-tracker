@@ -226,6 +226,26 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Stoke City - Middlesbrough Championship"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "16:45",
+      "affiche": "Lask Linz - Liverpool Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Manchester City - PSG Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Aston Villa - Fenerbahçe Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Lincoln - West Ham Championship"
     }
   ],
   "Espagne": [
@@ -353,6 +373,16 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Galatasaray - FC Barcelone Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "AS Roma - Real Madrid Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Betis Séville - FC Porto Ligue des Champions"
     }
   ],
   "Italie": [
@@ -422,6 +452,16 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Viking - Bayern Munich Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Bodo Glimt - Borussia Dortmund Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Slovan Bratislava - Stuttgart Ligue des Champions"
     }
   ],
   "Europe": [
@@ -432,6 +472,21 @@
     },
     {
       "date": "Mardi 13 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "16:45",
+      "affiche": "Feyenoord - Côme Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "19:00",
+      "affiche": "Shakhtar Donetsk - AEK Athènes Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
       "heure": "19:00",
       "affiche": "Multiplex - Multiplex Ligue des Champions"
     }
