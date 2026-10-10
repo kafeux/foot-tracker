@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Dunkerque - Annecy Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Sochaux - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Pau FC - Laval Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Nancy - Guingamp Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Montpellier - Grenoble Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:45",
-      "affiche": "Lens - Lyon Ligue 1"
-    },
-    {
       "date": "Samedi 10 octobre",
       "heure": "12:00",
       "affiche": "Nantes - Reims Ligue 2"
@@ -109,14 +74,34 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Arsenal - Lille Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Lyon - Crystal Palace Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Sparta Prague - Lillestrom Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "CSKA Sofia - Monaco Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Marseille - Olympiakos Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Rennes - OFI Crète Ligue Europa"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "19:00",
-      "affiche": "West Ham - QPR Championship"
-    },
     {
       "date": "Samedi 10 octobre",
       "heure": "11:30",
@@ -251,29 +236,44 @@
       "date": "Mercredi 14 octobre",
       "heure": "19:00",
       "affiche": "Lincoln - West Ham Championship"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "Inter Miami - New York City FC MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "Toronto FC - Orlando City SC MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "CF Montreal - Atlanta United FC MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "DC United - New York Red Bulls MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "00:30",
+      "affiche": "St. Louis City - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "00:30",
+      "affiche": "Nashville SC - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - Minnesota United FC MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "16:30",
-      "affiche": "FC Heidenheim - Kaiserslautern Bundesliga 2"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:30",
-      "affiche": "Borussia Dortmund - Werder Brême Bundesliga"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "19:00",
-      "affiche": "Malaga - Espanyol Barcelone Liga"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "19:15",
-      "affiche": "Braga - Sporting CP Primeira Liga"
-    },
     {
       "date": "Samedi 10 octobre",
       "heure": "12:00",
@@ -445,6 +445,26 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Inter Milan - Club Bruges Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "RB Salzbourg - AC Milan Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Mjallby AIF - Inter Club d'Escaldes Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Celta Vigo - Juventus Turin Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Atalanta - Pafos Ligue Europa Conférence"
     }
   ],
   "Allemagne": [
@@ -467,6 +487,11 @@
       "date": "Mercredi 14 octobre",
       "heure": "19:00",
       "affiche": "Slovan Bratislava - Stuttgart Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Lech Poznan - Bayer Leverkusen Ligue Europa"
     }
   ],
   "Europe": [
@@ -494,34 +519,144 @@
       "date": "Mercredi 14 octobre",
       "heure": "19:00",
       "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Torreense - Sunderland Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Union Saint-Gilloise - Real Sociedad Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "AZ Alkmaar - Hapoel Beer Sheva Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Celje - Omonia Nicosie Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "La Gantoise - Aarhus Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Panathinaikos - Borac Banja Luka Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Universitatea Craiova - Getafe Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Hajduk Split - Ajax Amsterdam Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "KuPS - Trabzonspor Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "FC Lugano - Étoile Rouge Belgrade Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Egnatia Rrogozhinë - Midtjylland Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "16:45",
+      "affiche": "Riga - Kairat Almaty Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Dinamo Zagreb - Anderlecht Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Hoffenheim - Besiktas Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Bournemouth - Sturm Graz Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "NEC Nimègue - Levski Sofia Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Benfica - Celtic Glasgow Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Jagiellonia - Ararat-Armenia Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Ferencvaros - Pilsen Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Fribourg - FK Jablonec Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Copenhague - Braga Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Heart of Midlothian - FC Nordsjaelland Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Brann - Lincoln Red Imps FC Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Saint-Trond - FC Iberia 1999 Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "19:00",
+      "affiche": "Twente - FC Thun Ligue Europa Conférence"
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "10:00",
-      "affiche": "Kashima Antlers - Gamba Osaka J-League"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "13:50",
-      "affiche": "Al Kholood - Al-Qadisiyah FC Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "14:55",
-      "affiche": "Al-Fateh - Al-Ahli Saudi Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "PSV Eindhoven - Heerenveen Eredivisie"
-    },
-    {
-      "date": "Vendredi 9 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Nassr - Al Diriyah Saudi Pro League"
-    },
     {
       "date": "Samedi 10 octobre",
       "heure": "05:00",
@@ -596,6 +731,51 @@
       "date": "Dimanche 11 octobre",
       "heure": "16:00",
       "affiche": "Besiktas - Kocaelispor Süper Lig"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "Columbus Crew - Charlotte FC MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "23:30",
+      "affiche": "FC Cincinnati - New England Revolution MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - Seattle Sounders MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "00:30",
+      "affiche": "Chicago Fire - Philadelphia Union MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "01:30",
+      "affiche": "Real Salt Lake - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "02:30",
+      "affiche": "San Diego - Houston Dynamo MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "02:30",
+      "affiche": "Los Angeles FC - Austin FC MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "02:30",
+      "affiche": "Los Angeles Galaxy - Portland Timbers MLS"
+    },
+    {
+      "date": "Jeudi 15 octobre",
+      "heure": "18:45",
+      "affiche": "Caen - La Roche VF Ligue 3"
     }
   ]
 }
