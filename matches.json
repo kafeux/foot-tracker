@@ -1,51 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 10 octobre",
-      "heure": "12:00",
-      "affiche": "Nantes - Reims Ligue 2"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "12:00",
-      "affiche": "Clermont Foot - Red Star Ligue 2"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "15:15",
-      "affiche": "Lille - Le Havre Ligue 1"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:00",
-      "affiche": "Saint-Étienne - Rodez Ligue 2"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:45",
-      "affiche": "PSG - Le Mans Ligue 1"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:45",
-      "affiche": "Monaco - Toulouse Ligue 1"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:45",
-      "affiche": "Lorient - Paris FC Ligue 1"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:45",
-      "affiche": "Brest - Angers Ligue 1"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "19:00",
-      "affiche": "France F - Lettonie F Match amical féminin"
-    },
-    {
       "date": "Dimanche 11 octobre",
       "heure": "13:00",
       "affiche": "Nice - Strasbourg Ligue 1"
@@ -99,54 +54,39 @@
       "date": "Jeudi 15 octobre",
       "heure": "19:00",
       "affiche": "Rennes - OFI Crète Ligue Europa"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Guingamp - Pau FC Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Reims - Dijon Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Grenoble - Boulogne Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Laval - Clermont Foot Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Annecy - Nancy Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:45",
+      "affiche": "Le Mans - Toulouse Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "11:30",
-      "affiche": "Arsenal - Leeds Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:00",
-      "affiche": "Chelsea - Bournemouth Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:00",
-      "affiche": "Aston Villa - Brentford Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:00",
-      "affiche": "Ipswich - Fulham Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:00",
-      "affiche": "Sunderland - Brighton Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:30",
-      "affiche": "Manchester United - Tottenham Premier League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:30",
-      "affiche": "Chicago Fire - New York City FC MLS"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "19:00",
-      "affiche": "Real Madrid - Villarreal Liga"
-    },
     {
       "date": "Dimanche 11 octobre",
       "heure": "23:30",
@@ -275,61 +215,6 @@
   ],
   "Espagne": [
     {
-      "date": "Samedi 10 octobre",
-      "heure": "12:00",
-      "affiche": "Rayo Vallecano - Athletic Bilbao Liga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:30",
-      "affiche": "Mayence - Bayer Leverkusen Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:30",
-      "affiche": "Hoffenheim - Hambourg Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:30",
-      "affiche": "Augsbourg - Bayern Munich Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:30",
-      "affiche": "Union Berlin - SV Elversberg Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:30",
-      "affiche": "Paderborn - Stuttgart Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "14:15",
-      "affiche": "Alavés - Atlético Madrid Liga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:30",
-      "affiche": "FC Barcelone - Getafe Liga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:30",
-      "affiche": "RB Leipzig - Francfort Bundesliga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "17:00",
-      "affiche": "Maritimo - FC Porto Primeira Liga"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:30",
-      "affiche": "Nuremberg - Wolfsbourg Bundesliga 2"
-    },
-    {
       "date": "Dimanche 11 octobre",
       "heure": "11:30",
       "affiche": "Hertha BSC - Greuther Furth Bundesliga 2"
@@ -388,24 +273,19 @@
       "date": "Mercredi 14 octobre",
       "heure": "19:00",
       "affiche": "Betis Séville - FC Porto Ligue des Champions"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:30",
+      "affiche": "Francfort - Cologne Bundesliga"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "19:00",
+      "affiche": "Deportivo La Corogne - Levante Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:00",
-      "affiche": "Genoa - Fiorentina Serie A"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:00",
-      "affiche": "Inter Milan - Parme Serie A"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:45",
-      "affiche": "Naples - Frosinone Serie A"
-    },
     {
       "date": "Dimanche 11 octobre",
       "heure": "10:30",
@@ -465,6 +345,11 @@
       "date": "Jeudi 15 octobre",
       "heure": "19:00",
       "affiche": "Atalanta - Pafos Ligue Europa Conférence"
+    },
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "18:45",
+      "affiche": "Frosinone - Sassuolo Serie A"
     }
   ],
   "Allemagne": [
@@ -657,41 +542,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "05:00",
-      "affiche": "Cerezo Osaka - Yokohama FM J-League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "13:00",
-      "affiche": "Samsunspor - Trabzonspor Süper Lig"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:00",
-      "affiche": "Rizespor - Fenerbahçe Süper Lig"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "16:45",
-      "affiche": "Feyenoord - AZ Alkmaar Eredivisie"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "17:00",
-      "affiche": "Toronto FC - CF Montreal MLS"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Hilal - Al-Ittihad Saudi Pro League"
-    },
-    {
-      "date": "Samedi 10 octobre",
-      "heure": "19:00",
-      "affiche": "Ajax Amsterdam - NEC Nimègue Eredivisie"
-    },
     {
       "date": "Dimanche 11 octobre",
       "heure": "23:30",
