@@ -2,6 +2,11 @@
   "France": [
     {
       "date": "Lundi 12 octobre",
+      "heure": "12:30",
+      "affiche": "Italie U23 F - France U23 F Match amical féminin"
+    },
+    {
+      "date": "Lundi 12 octobre",
       "heure": "18:45",
       "affiche": "Dijon - Metz Ligue 2"
     },
@@ -134,6 +139,11 @@
     },
     {
       "date": "Mercredi 14 octobre",
+      "heure": "14:00",
+      "affiche": "Manchester City U19 - PSG U19 Youth League"
+    },
+    {
+      "date": "Mercredi 14 octobre",
       "heure": "16:45",
       "affiche": "Lask Linz - Liverpool Ligue des Champions"
     },
@@ -208,6 +218,11 @@
       "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Galatasaray - FC Barcelone Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "12:00",
+      "affiche": "AS Roma U19 - Real Madrid U19 Youth League"
     },
     {
       "date": "Mercredi 14 octobre",
@@ -522,6 +537,11 @@
     }
   ],
   "Autres": [
+    {
+      "date": "Lundi 12 octobre",
+      "heure": "16:15",
+      "affiche": "Allemagne U23 F - Suède U23 F Match amical féminin"
+    },
     {
       "date": "Jeudi 15 octobre",
       "heure": "23:30",
