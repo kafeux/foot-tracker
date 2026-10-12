@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:00",
-      "affiche": "Nice - Strasbourg Ligue 1"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "15:15",
-      "affiche": "Rennes - Auxerre Ligue 1"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "18:45",
-      "affiche": "Troyes - Marseille Ligue 1"
-    },
-    {
       "date": "Lundi 12 octobre",
       "heure": "18:45",
       "affiche": "Dijon - Metz Ligue 2"
@@ -84,54 +69,44 @@
       "date": "Vendredi 16 octobre",
       "heure": "18:45",
       "affiche": "Le Mans - Toulouse Ligue 1"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:00",
+      "affiche": "Nantes - Dunkerque Ligue 2"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:00",
+      "affiche": "Metz - Sochaux Ligue 2"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Paris 13 Atletico - Rouen Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "15:15",
+      "affiche": "Strasbourg - PSG Ligue 1"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:00",
+      "affiche": "Red Star - Saint-Étienne Ligue 2"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:45",
+      "affiche": "Lille - Brest Ligue 1"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:45",
+      "affiche": "Troyes - Lens Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "Atlanta United FC - FC Cincinnati MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "Inter Miami - DC United MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "Orlando City SC - Columbus Crew MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "00:30",
-      "affiche": "Minnesota United FC - Houston Dynamo MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "00:30",
-      "affiche": "Sporting Kansas City - Portland Timbers MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "11:00",
-      "affiche": "Southampton - Portsmouth Championship"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:00",
-      "affiche": "Crystal Palace - Nottingham Forest Premier League"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:00",
-      "affiche": "Hull City - Everton Premier League"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "15:30",
-      "affiche": "Liverpool - Manchester City Premier League"
-    },
     {
       "date": "Lundi 12 octobre",
       "heure": "23:00",
@@ -211,49 +186,19 @@
       "date": "Jeudi 15 octobre",
       "heure": "01:30",
       "affiche": "Colorado Rapids - Minnesota United FC MLS"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:15",
+      "affiche": "Villarreal - Elche Liga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "20:30",
+      "affiche": "Minnesota United FC - St. Louis City MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "11:30",
-      "affiche": "Hertha BSC - Greuther Furth Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "12:00",
-      "affiche": "Elche - Celta Vigo Liga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:30",
-      "affiche": "Cologne - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "14:15",
-      "affiche": "Real Sociedad - Deportivo La Corogne Liga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "15:30",
-      "affiche": "Fribourg - Schalke 04 Bundesliga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "16:30",
-      "affiche": "Betis Séville - Osasuna Liga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "17:00",
-      "affiche": "Benfica - Vitória SC Primeira Liga"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "19:00",
-      "affiche": "Racing Santander - Valence Liga"
-    },
     {
       "date": "Lundi 12 octobre",
       "heure": "19:00",
@@ -283,34 +228,54 @@
       "date": "Vendredi 16 octobre",
       "heure": "19:00",
       "affiche": "Deportivo La Corogne - Levante Liga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:00",
+      "affiche": "Espanyol Barcelone - Atlético Madrid Liga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:30",
+      "affiche": "Werder Brême - Paderborn Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:30",
+      "affiche": "Schalke 04 - Mayence Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:30",
+      "affiche": "Hambourg - Stuttgart Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:30",
+      "affiche": "Union Berlin - Borussia Dortmund Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:30",
+      "affiche": "SV Elversberg - Augsbourg Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:30",
+      "affiche": "Betis Séville - FC Barcelone Liga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:30",
+      "affiche": "Bayern Munich - RB Leipzig Bundesliga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "19:00",
+      "affiche": "Valence - Athletic Bilbao Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "10:30",
-      "affiche": "Côme - AS Roma Serie A"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:00",
-      "affiche": "Lazio Rome - Monza Serie A"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "13:00",
-      "affiche": "Lecce - Bologne Serie A"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "16:00",
-      "affiche": "Sassuolo - AC Milan Serie A"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "18:45",
-      "affiche": "Cagliari - Juventus Turin Serie A"
-    },
     {
       "date": "Lundi 12 octobre",
       "heure": "16:30",
@@ -350,6 +315,21 @@
       "date": "Vendredi 16 octobre",
       "heure": "18:45",
       "affiche": "Frosinone - Sassuolo Serie A"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "13:00",
+      "affiche": "Venise - Naples Serie A"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Bologne - Inter Milan Serie A"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:45",
+      "affiche": "AS Roma - Genoa Serie A"
     }
   ],
   "Allemagne": [
@@ -543,46 +523,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "New England Revolution - Seattle Sounders MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "Philadelphia Union - Real Salt Lake MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - San Diego MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "23:30",
-      "affiche": "Charlotte FC - FC Dallas MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "00:30",
-      "affiche": "Austin FC - Nashville SC MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "01:30",
-      "affiche": "Colorado Rapids - San Jose Earthquakes MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "02:30",
-      "affiche": "Los Angeles FC - Vancouver Whitecaps MLS"
-    },
-    {
-      "date": "Dimanche 11 octobre",
-      "heure": "16:00",
-      "affiche": "Besiktas - Kocaelispor Süper Lig"
-    },
-    {
       "date": "Jeudi 15 octobre",
       "heure": "23:30",
       "affiche": "Columbus Crew - Charlotte FC MLS"
@@ -626,6 +566,56 @@
       "date": "Jeudi 15 octobre",
       "heure": "18:45",
       "affiche": "Caen - La Roche VF Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Thionville Lusitanos - Versailles Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Aubagne - Le Puy Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Villefranche - Cannes Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Concarneau - Bastia Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Quevilly - Orléans Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Bourg-Péronnas - Fleury 91 Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Valenciennes - Amiens Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:30",
+      "affiche": "ADO Den Haag - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:00",
+      "affiche": "Telstar - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "18:30",
+      "affiche": "Philadelphia Union - Charlotte FC MLS"
     }
   ]
 }
