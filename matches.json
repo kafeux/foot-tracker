@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 12 octobre",
-      "heure": "12:30",
-      "affiche": "Italie U23 F - France U23 F Match amical féminin"
-    },
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "18:45",
-      "affiche": "Dijon - Metz Ligue 2"
-    },
-    {
       "date": "Mardi 13 octobre",
       "heure": "16:45",
       "affiche": "Lens - Sporting CP Ligue des Champions"
@@ -109,19 +99,34 @@
       "date": "Samedi 17 octobre",
       "heure": "18:45",
       "affiche": "Troyes - Lens Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Angers - Marseille Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "15:15",
+      "affiche": "Lorient - Monaco Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "15:15",
+      "affiche": "Le Havre - Auxerre Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "15:15",
+      "affiche": "Paris FC - Rennes Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "18:45",
+      "affiche": "Lyon - Nice Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "23:00",
-      "affiche": "St. Louis City - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "19:00",
-      "affiche": "Coventry - Newcastle Premier League"
-    },
     {
       "date": "Mardi 13 octobre",
       "heure": "19:00",
@@ -206,14 +211,29 @@
       "date": "Samedi 17 octobre",
       "heure": "20:30",
       "affiche": "Minnesota United FC - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "23:30",
+      "affiche": "Atlanta United FC - Inter Miami MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "23:30",
+      "affiche": "Orlando City SC - DC United MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "23:30",
+      "affiche": "New York City FC - Los Angeles FC MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "00:30",
+      "affiche": "Sporting Kansas City - Real Salt Lake MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "19:00",
-      "affiche": "Levante - FC Séville Liga"
-    },
     {
       "date": "Mardi 13 octobre",
       "heure": "19:00",
@@ -288,19 +308,39 @@
       "date": "Samedi 17 octobre",
       "heure": "19:00",
       "affiche": "Valence - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "12:00",
+      "affiche": "Osasuna - Racing Santander Liga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:30",
+      "affiche": "Bayer Leverkusen - Fribourg Bundesliga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "14:15",
+      "affiche": "Celta Vigo - Alavés Liga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "15:30",
+      "affiche": "Monchengladbach - Hoffenheim Bundesliga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "16:30",
+      "affiche": "Malaga - Real Sociedad Liga"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "19:00",
+      "affiche": "Real Madrid - FC Séville Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "16:30",
-      "affiche": "Atalanta - Venise Serie A"
-    },
-    {
-      "date": "Lundi 12 octobre",
-      "heure": "18:45",
-      "affiche": "Torino - Udinese Serie A"
-    },
     {
       "date": "Mardi 13 octobre",
       "heure": "19:00",
@@ -345,6 +385,26 @@
       "date": "Samedi 17 octobre",
       "heure": "18:45",
       "affiche": "AS Roma - Genoa Serie A"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "10:30",
+      "affiche": "Udinese - Lecce Serie A"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Fiorentina - Côme Serie A"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "16:00",
+      "affiche": "AC Milan - Atalanta Serie A"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "18:45",
+      "affiche": "Juventus Turin - Lazio Rome Serie A"
     }
   ],
   "Allemagne": [
@@ -538,11 +598,6 @@
   ],
   "Autres": [
     {
-      "date": "Lundi 12 octobre",
-      "heure": "16:15",
-      "affiche": "Allemagne U23 F - Suède U23 F Match amical féminin"
-    },
-    {
       "date": "Jeudi 15 octobre",
       "heure": "23:30",
       "affiche": "Columbus Crew - Charlotte FC MLS"
@@ -636,6 +691,51 @@
       "date": "Samedi 17 octobre",
       "heure": "18:30",
       "affiche": "Philadelphia Union - Charlotte FC MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "23:30",
+      "affiche": "New England Revolution - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "23:30",
+      "affiche": "New York Red Bulls - Toronto FC MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "00:30",
+      "affiche": "Houston Dynamo - FC Dallas MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "00:30",
+      "affiche": "Austin FC - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "02:30",
+      "affiche": "Seattle Sounders - CF Montreal MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "02:30",
+      "affiche": "Los Angeles Galaxy - San Diego MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "02:30",
+      "affiche": "San Jose Earthquakes - Nashville SC MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "02:30",
+      "affiche": "Portland Timbers - Colorado Rapids MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "14:45",
+      "affiche": "Groningen - Ajax Amsterdam Eredivisie"
     }
   ]
 }
