@@ -129,6 +129,16 @@
   "Angleterre": [
     {
       "date": "Mardi 13 octobre",
+      "heure": "07:45",
+      "affiche": "Newcastle Jets - Gamba Osaka Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "12:15",
+      "affiche": "Buriram United - Beijing Guoan Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Atlético Madrid - Manchester United Ligue des Champions"
     },
@@ -437,13 +447,53 @@
   "Europe": [
     {
       "date": "Mardi 13 octobre",
+      "heure": "10:00",
+      "affiche": "Kyoto Sanga - Ratchaburi Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "10:00",
+      "affiche": "SHANGHAI SIPG - Daejeon Citizen Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "10:00",
+      "affiche": "Pohang Steelers - Johor Darul Takzim FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "12:15",
+      "affiche": "Công An Nhân Dân - Kashima Antlers Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
+      "heure": "16:00",
+      "affiche": "Al Sadd - Al-Hilal Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
       "heure": "16:45",
       "affiche": "Sabah FA - Slavia Prague Ligue des Champions"
     },
     {
       "date": "Mardi 13 octobre",
+      "heure": "18:15",
+      "affiche": "Al-Ittihad - Shabab AlAhli Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 13 octobre",
       "heure": "19:00",
       "affiche": "Multiplex - Multi-Live Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "10:00",
+      "affiche": "Kashiwa Reysol - Port FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 14 octobre",
+      "heure": "10:00",
+      "affiche": "Vissel Kobe - Jeonbuk Motors Ligue des champions d'Asie"
     },
     {
       "date": "Mercredi 14 octobre",
