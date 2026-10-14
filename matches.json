@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Mardi 13 octobre",
-      "heure": "16:45",
-      "affiche": "Lens - Sporting CP Ligue des Champions"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Arsenal - Lille Ligue des Champions"
-    },
-    {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
       "affiche": "Lyon - Crystal Palace Ligue Europa"
@@ -124,34 +114,14 @@
       "date": "Dimanche 18 octobre",
       "heure": "18:45",
       "affiche": "Lyon - Nice Ligue 1"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "18:45",
+      "affiche": "Rodez - Montpellier Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "07:45",
-      "affiche": "Newcastle Jets - Gamba Osaka Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "12:15",
-      "affiche": "Buriram United - Beijing Guoan Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Atlético Madrid - Manchester United Ligue des Champions"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Villarreal - Naples Ligue des Champions"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Stoke City - Middlesbrough Championship"
-    },
     {
       "date": "Mercredi 14 octobre",
       "heure": "14:00",
@@ -244,11 +214,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Galatasaray - FC Barcelone Ligue des Champions"
-    },
     {
       "date": "Mercredi 14 octobre",
       "heure": "12:00",
@@ -348,14 +313,14 @@
       "date": "Dimanche 18 octobre",
       "heure": "19:00",
       "affiche": "Real Madrid - FC Séville Liga"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "19:00",
+      "affiche": "Getafe - Rayo Vallecano Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Inter Milan - Club Bruges Ligue des Champions"
-    },
     {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
@@ -415,19 +380,19 @@
       "date": "Dimanche 18 octobre",
       "heure": "18:45",
       "affiche": "Juventus Turin - Lazio Rome Serie A"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "16:30",
+      "affiche": "Monza - Cagliari Serie A"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "18:45",
+      "affiche": "Parme - Torino Serie A"
     }
   ],
   "Allemagne": [
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "RB Leipzig - PSV Eindhoven Ligue des Champions"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Viking - Bayern Munich Ligue des Champions"
-    },
     {
       "date": "Mercredi 14 octobre",
       "heure": "19:00",
@@ -445,46 +410,6 @@
     }
   ],
   "Europe": [
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "10:00",
-      "affiche": "Kyoto Sanga - Ratchaburi Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "10:00",
-      "affiche": "SHANGHAI SIPG - Daejeon Citizen Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "10:00",
-      "affiche": "Pohang Steelers - Johor Darul Takzim FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "12:15",
-      "affiche": "Công An Nhân Dân - Kashima Antlers Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "16:00",
-      "affiche": "Al Sadd - Al-Hilal Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "16:45",
-      "affiche": "Sabah FA - Slavia Prague Ligue des Champions"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "18:15",
-      "affiche": "Al-Ittihad - Shabab AlAhli Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 13 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multi-Live Ligue des Champions"
-    },
     {
       "date": "Mercredi 14 octobre",
       "heure": "10:00",
@@ -786,6 +711,11 @@
       "date": "Dimanche 18 octobre",
       "heure": "14:45",
       "affiche": "Groningen - Ajax Amsterdam Eredivisie"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "23:00",
+      "affiche": "FC Cincinnati - Columbus Crew MLS"
     }
   ]
 }
