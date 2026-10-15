@@ -28,12 +28,12 @@
     {
       "date": "Vendredi 16 octobre",
       "heure": "18:00",
-      "affiche": "Guingamp - Pau FC Ligue 2"
+      "affiche": "Laval - Clermont Foot Ligue 2"
     },
     {
       "date": "Vendredi 16 octobre",
       "heure": "18:00",
-      "affiche": "Reims - Dijon Ligue 2"
+      "affiche": "Guingamp - Pau FC Ligue 2"
     },
     {
       "date": "Vendredi 16 octobre",
@@ -43,7 +43,7 @@
     {
       "date": "Vendredi 16 octobre",
       "heure": "18:00",
-      "affiche": "Laval - Clermont Foot Ligue 2"
+      "affiche": "Reims - Dijon Ligue 2"
     },
     {
       "date": "Vendredi 16 octobre",
@@ -58,12 +58,12 @@
     {
       "date": "Samedi 17 octobre",
       "heure": "12:00",
-      "affiche": "Nantes - Dunkerque Ligue 2"
+      "affiche": "Metz - Sochaux Ligue 2"
     },
     {
       "date": "Samedi 17 octobre",
       "heure": "12:00",
-      "affiche": "Metz - Sochaux Ligue 2"
+      "affiche": "Nantes - Dunkerque Ligue 2"
     },
     {
       "date": "Samedi 17 octobre",
@@ -74,6 +74,21 @@
       "date": "Samedi 17 octobre",
       "heure": "15:15",
       "affiche": "Strasbourg - PSG Ligue 1"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Saint-Malo F - Nantes F D1 Féminine"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Toulouse F - Paris FC F D1 Féminine"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Lens F - Strasbourg F D1 Féminine"
     },
     {
       "date": "Samedi 17 octobre",
@@ -89,6 +104,16 @@
       "date": "Samedi 17 octobre",
       "heure": "18:45",
       "affiche": "Troyes - Lens Ligue 1"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "19:00",
+      "affiche": "PSG F - Lyon F D1 Féminine"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "11:00",
+      "affiche": "Marseille F - Fleury F D1 Féminine"
     },
     {
       "date": "Dimanche 18 octobre",
@@ -159,8 +184,38 @@
     },
     {
       "date": "Samedi 17 octobre",
+      "heure": "11:30",
+      "affiche": "Everton - Chelsea Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:00",
+      "affiche": "Brentford - Liverpool Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:00",
+      "affiche": "Fulham - Hull City Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:00",
+      "affiche": "Manchester City - Ipswich Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "14:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
       "heure": "14:15",
       "affiche": "Villarreal - Elche Liga"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:30",
+      "affiche": "Newcastle - Aston Villa Premier League"
     },
     {
       "date": "Samedi 17 octobre",
@@ -186,9 +241,54 @@
       "date": "Dimanche 18 octobre",
       "heure": "00:30",
       "affiche": "Sporting Kansas City - Real Salt Lake MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Bournemouth - Sunderland Premier League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Brighton - Crystal Palace Premier League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Leeds - Manchester United Premier League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "15:30",
+      "affiche": "Nottingham Forest - Arsenal Premier League"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "19:00",
+      "affiche": "Tottenham - Coventry Premier League"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "Liverpool - Villarreal Ligue des Champions"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "Manchester City - AEK Athènes Ligue des Champions"
     }
   ],
   "Espagne": [
+    {
+      "date": "Vendredi 16 octobre",
+      "heure": "16:30",
+      "affiche": "Fribourg F - RB Leipzig F Bundesliga Féminine"
+    },
     {
       "date": "Vendredi 16 octobre",
       "heure": "18:30",
@@ -206,13 +306,8 @@
     },
     {
       "date": "Samedi 17 octobre",
-      "heure": "13:30",
-      "affiche": "Werder Brême - Paderborn Bundesliga"
-    },
-    {
-      "date": "Samedi 17 octobre",
-      "heure": "13:30",
-      "affiche": "Schalke 04 - Mayence Bundesliga"
+      "heure": "12:00",
+      "affiche": "Bayer Leverkusen F - Francfort F Bundesliga Féminine"
     },
     {
       "date": "Samedi 17 octobre",
@@ -227,7 +322,7 @@
     {
       "date": "Samedi 17 octobre",
       "heure": "13:30",
-      "affiche": "SV Elversberg - Augsbourg Bundesliga"
+      "affiche": "Multiplex - Multiplex Bundesliga"
     },
     {
       "date": "Samedi 17 octobre",
@@ -271,8 +366,18 @@
     },
     {
       "date": "Dimanche 18 octobre",
+      "heure": "16:30",
+      "affiche": "Mayence F - Wolfsbourg F Bundesliga Féminine"
+    },
+    {
+      "date": "Dimanche 18 octobre",
       "heure": "19:00",
       "affiche": "Real Madrid - FC Séville Liga"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "16:00",
+      "affiche": "Bayern Munich F - Stuttgart F Bundesliga Féminine"
     },
     {
       "date": "Lundi 19 octobre",
@@ -283,18 +388,28 @@
       "date": "Mardi 20 octobre",
       "heure": "12:00",
       "affiche": "PSG U19 - FC Barcelone U19 Youth League"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "PSG - FC Barcelone Ligue des Champions"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "Stuttgart - Atlético Madrid Ligue des Champions"
     }
   ],
   "Italie": [
     {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
-      "affiche": "RB Salzbourg - AC Milan Ligue Europa"
+      "affiche": "Mjallby AIF - Inter Club d'Escaldes Ligue Europa Conférence"
     },
     {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
-      "affiche": "Mjallby AIF - Inter Club d'Escaldes Ligue Europa Conférence"
+      "affiche": "RB Salzbourg - AC Milan Ligue Europa"
     },
     {
       "date": "Jeudi 15 octobre",
@@ -310,6 +425,11 @@
       "date": "Vendredi 16 octobre",
       "heure": "18:45",
       "affiche": "Frosinone - Sassuolo Serie A"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "10:30",
+      "affiche": "Sassuolo F - Naples F Serie A Féminine"
     },
     {
       "date": "Samedi 17 octobre",
@@ -333,6 +453,11 @@
     },
     {
       "date": "Dimanche 18 octobre",
+      "heure": "10:30",
+      "affiche": "Juventus F - Como 1907 F Serie A Féminine"
+    },
+    {
+      "date": "Dimanche 18 octobre",
       "heure": "13:00",
       "affiche": "Fiorentina - Côme Serie A"
     },
@@ -340,6 +465,11 @@
       "date": "Dimanche 18 octobre",
       "heure": "16:00",
       "affiche": "AC Milan - Atalanta Serie A"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "16:00",
+      "affiche": "Inter Milan F - Parme F Serie A Féminine"
     },
     {
       "date": "Dimanche 18 octobre",
@@ -355,6 +485,16 @@
       "date": "Lundi 19 octobre",
       "heure": "18:45",
       "affiche": "Parme - Torino Serie A"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "Naples - Bodo Glimt Ligue des Champions"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "AS Roma - Slovan Bratislava Ligue des Champions"
     }
   ],
   "Allemagne": [
@@ -362,6 +502,11 @@
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
       "affiche": "Lech Poznan - Bayer Leverkusen Ligue Europa"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "16:45",
+      "affiche": "Sabah FA - Borussia Dortmund Ligue des Champions"
     }
   ],
   "Europe": [
@@ -499,6 +644,16 @@
       "date": "Jeudi 15 octobre",
       "heure": "19:00",
       "affiche": "Twente - FC Thun Ligue Europa Conférence"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "16:45",
+      "affiche": "Fenerbahçe - Slavia Prague Ligue des Champions"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "FC Porto - PSV Eindhoven Ligue des Champions"
     }
   ],
   "Autres": [
@@ -548,6 +703,11 @@
       "affiche": "Caen - La Roche VF Ligue 3"
     },
     {
+      "date": "Vendredi 16 octobre",
+      "heure": "13:15",
+      "affiche": "Al-Qadisiyah FC - Abha Saudi Pro League"
+    },
+    {
       "date": "Samedi 17 octobre",
       "heure": "12:45",
       "affiche": "Thionville Lusitanos - Versailles Ligue 3"
@@ -586,6 +746,16 @@
       "date": "Samedi 17 octobre",
       "heure": "14:30",
       "affiche": "ADO Den Haag - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Fenerbahçe - Alanyaspor Süper Lig"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "16:00",
+      "affiche": "Montpellier F - Le Havre F D1 Féminine"
     },
     {
       "date": "Samedi 17 octobre",
@@ -643,9 +813,34 @@
       "affiche": "Groningen - Ajax Amsterdam Eredivisie"
     },
     {
-      "date": "Lundi 19 octobre",
-      "heure": "23:00",
+      "date": "Dimanche 18 octobre",
+      "heure": "21:00",
       "affiche": "FC Cincinnati - Columbus Crew MLS"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "15:05",
+      "affiche": "Al-Fayha - Al-Ahli Saudi Saudi Pro League"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "17:00",
+      "affiche": "Trabzonspor - Besiktas Süper Lig"
+    },
+    {
+      "date": "Lundi 19 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Hilal - Al-Hazem Saudi Pro League"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Ettifaq - Al-Ittihad Saudi Pro League"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Nassr - NEOM Saudi Pro League"
     }
   ]
 }
