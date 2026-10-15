@@ -123,31 +123,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mercredi 14 octobre",
-      "heure": "14:00",
-      "affiche": "Manchester City U19 - PSG U19 Youth League"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "16:45",
-      "affiche": "Lask Linz - Liverpool Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Manchester City - PSG Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Aston Villa - Fenerbahçe Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Lincoln - West Ham Championship"
-    },
-    {
       "date": "Jeudi 15 octobre",
       "heure": "23:30",
       "affiche": "Inter Miami - New York City FC MLS"
@@ -214,21 +189,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "12:00",
-      "affiche": "AS Roma U19 - Real Madrid U19 Youth League"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "AS Roma - Real Madrid Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Betis Séville - FC Porto Ligue des Champions"
-    },
     {
       "date": "Vendredi 16 octobre",
       "heure": "18:30",
@@ -318,6 +278,11 @@
       "date": "Lundi 19 octobre",
       "heure": "19:00",
       "affiche": "Getafe - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "12:00",
+      "affiche": "PSG U19 - FC Barcelone U19 Youth League"
     }
   ],
   "Italie": [
@@ -394,47 +359,12 @@
   ],
   "Allemagne": [
     {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Bodo Glimt - Borussia Dortmund Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Slovan Bratislava - Stuttgart Ligue des Champions"
-    },
-    {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
       "affiche": "Lech Poznan - Bayer Leverkusen Ligue Europa"
     }
   ],
   "Europe": [
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "10:00",
-      "affiche": "Kashiwa Reysol - Port FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "10:00",
-      "affiche": "Vissel Kobe - Jeonbuk Motors Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "16:45",
-      "affiche": "Feyenoord - Côme Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multi-Live Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 14 octobre",
-      "heure": "19:00",
-      "affiche": "Shakhtar Donetsk - AEK Athènes Ligue des Champions"
-    },
     {
       "date": "Jeudi 15 octobre",
       "heure": "16:45",
