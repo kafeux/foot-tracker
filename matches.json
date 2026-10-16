@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Laval - Clermont Foot Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Guingamp - Pau FC Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Grenoble - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Reims - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Annecy - Nancy Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:45",
-      "affiche": "Le Mans - Toulouse Ligue 1"
-    },
-    {
       "date": "Samedi 17 octobre",
       "heure": "12:00",
       "affiche": "Metz - Sochaux Ligue 2"
@@ -144,6 +109,21 @@
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
       "affiche": "Club Bruges - Lens Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Sturm Graz - Marseille Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Juventus Turin - Rennes Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Hoffenheim - Lyon Ligue Europa"
     }
   ],
   "Angleterre": [
@@ -296,24 +276,14 @@
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
       "affiche": "Aston Villa - Viking Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "23:00",
+      "affiche": "FC Cincinnati - DC United MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "16:30",
-      "affiche": "Fribourg F - RB Leipzig F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:30",
-      "affiche": "Francfort - Cologne Bundesliga"
-    },
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "19:00",
-      "affiche": "Deportivo La Corogne - Levante Liga"
-    },
     {
       "date": "Samedi 17 octobre",
       "heure": "12:00",
@@ -437,11 +407,6 @@
   ],
   "Italie": [
     {
-      "date": "Vendredi 16 octobre",
-      "heure": "18:45",
-      "affiche": "Frosinone - Sassuolo Serie A"
-    },
-    {
       "date": "Samedi 17 octobre",
       "heure": "10:30",
       "affiche": "Sassuolo F - Naples F Serie A Féminine"
@@ -542,11 +507,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 16 octobre",
-      "heure": "13:15",
-      "affiche": "Al-Qadisiyah FC - Abha Saudi Pro League"
-    },
     {
       "date": "Samedi 17 octobre",
       "heure": "05:00",
