@@ -27,6 +27,11 @@
     },
     {
       "date": "Vendredi 16 octobre",
+      "heure": "18:00",
+      "affiche": "Multiplex - Multiplex Ligue 2"
+    },
+    {
+      "date": "Vendredi 16 octobre",
       "heure": "18:45",
       "affiche": "Le Mans - Toulouse Ligue 1"
     },
@@ -112,6 +117,11 @@
     },
     {
       "date": "Dimanche 18 octobre",
+      "heure": "15:15",
+      "affiche": "Multiplex - Multiplex Ligue 1"
+    },
+    {
+      "date": "Dimanche 18 octobre",
       "heure": "18:45",
       "affiche": "Lyon - Nice Ligue 1"
     },
@@ -141,6 +151,16 @@
       "date": "Samedi 17 octobre",
       "heure": "11:30",
       "affiche": "Everton - Chelsea Premier League"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "11:30",
+      "affiche": "Watford - Charlton Championship"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "11:45",
+      "affiche": "Arsenal F - Birmingham City F Women's Super League"
     },
     {
       "date": "Samedi 17 octobre",
@@ -199,6 +219,11 @@
     },
     {
       "date": "Dimanche 18 octobre",
+      "heure": "11:00",
+      "affiche": "Chelsea F - Tottenham F Women's Super League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
       "heure": "13:00",
       "affiche": "Multiplex - Multiplex Premier League"
     },
@@ -216,6 +241,26 @@
       "date": "Dimanche 18 octobre",
       "heure": "13:00",
       "affiche": "Leeds - Manchester United Premier League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "London City Lionesses - Everton F Women's Super League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Charlton Athletic F - Manchester United F Women's Super League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:00",
+      "affiche": "Aston Villa F - Liverpool F Women's Super League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "13:30",
+      "affiche": "Manchester City F - Brighton F Women's Super League"
     },
     {
       "date": "Dimanche 18 octobre",
@@ -499,6 +544,11 @@
     },
     {
       "date": "Samedi 17 octobre",
+      "heure": "05:00",
+      "affiche": "Tokyo Verdy - FC Tokyo J-League"
+    },
+    {
+      "date": "Samedi 17 octobre",
       "heure": "12:45",
       "affiche": "Thionville Lusitanos - Versailles Ligue 3"
     },
@@ -531,6 +581,11 @@
       "date": "Samedi 17 octobre",
       "heure": "12:45",
       "affiche": "Valenciennes - Amiens Ligue 3"
+    },
+    {
+      "date": "Samedi 17 octobre",
+      "heure": "12:45",
+      "affiche": "Multiplex - Multiplex Ligue 3"
     },
     {
       "date": "Samedi 17 octobre",
@@ -596,6 +651,16 @@
       "date": "Dimanche 18 octobre",
       "heure": "02:30",
       "affiche": "Portland Timbers - Colorado Rapids MLS"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "07:00",
+      "affiche": "Machida Zelvia - Avispa Fukuoka J-League"
+    },
+    {
+      "date": "Dimanche 18 octobre",
+      "heure": "11:00",
+      "affiche": "Crystal Palace F - West Ham F Women's Super League"
     },
     {
       "date": "Dimanche 18 octobre",
