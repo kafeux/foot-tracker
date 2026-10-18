@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 18 octobre",
-      "heure": "11:00",
-      "affiche": "Marseille F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Angers - Marseille Ligue 1"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:15",
-      "affiche": "Lorient - Monaco Ligue 1"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:15",
-      "affiche": "Le Havre - Auxerre Ligue 1"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:15",
-      "affiche": "Paris FC - Rennes Ligue 1"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:15",
-      "affiche": "Multiplex - Multiplex Ligue 1"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "18:45",
-      "affiche": "Lyon - Nice Ligue 1"
-    },
-    {
       "date": "Lundi 19 octobre",
       "heure": "18:45",
       "affiche": "Rodez - Montpellier Ligue 2"
@@ -99,79 +64,34 @@
       "date": "Vendredi 23 octobre",
       "heure": "18:45",
       "affiche": "Brest - Nice Ligue 1"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "12:00",
+      "affiche": "Dijon - Rodez Ligue 2"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "12:00",
+      "affiche": "Montpellier - Red Star Ligue 2"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "15:15",
+      "affiche": "Toulouse - Troyes Ligue 1"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "18:00",
+      "affiche": "Saint-Étienne - Nantes Ligue 2"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "18:45",
+      "affiche": "Lens - Paris FC Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "23:30",
-      "affiche": "Atlanta United FC - Inter Miami MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "23:30",
-      "affiche": "Orlando City SC - DC United MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "23:30",
-      "affiche": "New York City FC - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "00:30",
-      "affiche": "Sporting Kansas City - Real Salt Lake MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "11:00",
-      "affiche": "Chelsea F - Tottenham F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Bournemouth - Sunderland Premier League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Brighton - Crystal Palace Premier League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Leeds - Manchester United Premier League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "London City Lionesses - Everton F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Charlton Athletic F - Manchester United F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Aston Villa F - Liverpool F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:30",
-      "affiche": "Manchester City F - Brighton F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:30",
-      "affiche": "Nottingham Forest - Arsenal Premier League"
-    },
     {
       "date": "Lundi 19 octobre",
       "heure": "19:00",
@@ -206,44 +126,14 @@
       "date": "Jeudi 22 octobre",
       "heure": "23:00",
       "affiche": "FC Cincinnati - DC United MLS"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:30",
+      "affiche": "Valence - Villarreal Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "12:00",
-      "affiche": "Osasuna - Racing Santander Liga"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:30",
-      "affiche": "Bayer Leverkusen - Fribourg Bundesliga"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "14:15",
-      "affiche": "Celta Vigo - Alavés Liga"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "15:30",
-      "affiche": "Monchengladbach - Hoffenheim Bundesliga"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "16:30",
-      "affiche": "Malaga - Real Sociedad Liga"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "16:30",
-      "affiche": "Mayence F - Wolfsbourg F Bundesliga Féminine"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "19:00",
-      "affiche": "Real Madrid - FC Séville Liga"
-    },
     {
       "date": "Lundi 19 octobre",
       "heure": "16:00",
@@ -298,39 +188,54 @@
       "date": "Vendredi 23 octobre",
       "heure": "19:00",
       "affiche": "Alavés - Malaga Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "12:00",
+      "affiche": "Rayo Vallecano - Elche Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "Mayence - Werder Brême Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "Augsbourg - Union Berlin Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "RB Leipzig - SV Elversberg Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "Paderborn - Hambourg Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "Cologne - Schalke 04 Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "14:15",
+      "affiche": "Racing Santander - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:30",
+      "affiche": "Borussia Dortmund - Francfort Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "19:00",
+      "affiche": "Atlético Madrid - Deportivo La Corogne Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "10:30",
-      "affiche": "Udinese - Lecce Serie A"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "10:30",
-      "affiche": "Juventus F - Como 1907 F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "13:00",
-      "affiche": "Fiorentina - Côme Serie A"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "16:00",
-      "affiche": "AC Milan - Atalanta Serie A"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "16:00",
-      "affiche": "Inter Milan F - Parme F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "18:45",
-      "affiche": "Juventus Turin - Lazio Rome Serie A"
-    },
     {
       "date": "Lundi 19 octobre",
       "heure": "16:30",
@@ -360,6 +265,31 @@
       "date": "Vendredi 23 octobre",
       "heure": "18:45",
       "affiche": "Torino - Monza Serie A"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:00",
+      "affiche": "Côme - Sassuolo Serie A"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:00",
+      "affiche": "Cagliari - Bologne Serie A"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:00",
+      "affiche": "Naples - AS Roma Serie A"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "18:45",
+      "affiche": "Lazio Rome - Parme Serie A"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "21:30",
+      "affiche": "New York Red Bulls - Inter Miami MLS"
     }
   ],
   "Allemagne": [
@@ -388,71 +318,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 18 octobre",
-      "heure": "23:30",
-      "affiche": "New England Revolution - Chicago Fire MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "23:30",
-      "affiche": "New York Red Bulls - Toronto FC MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "00:30",
-      "affiche": "Houston Dynamo - FC Dallas MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "00:30",
-      "affiche": "Austin FC - Vancouver Whitecaps MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "02:30",
-      "affiche": "Seattle Sounders - CF Montreal MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "02:30",
-      "affiche": "Los Angeles Galaxy - San Diego MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "02:30",
-      "affiche": "San Jose Earthquakes - Nashville SC MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "02:30",
-      "affiche": "Portland Timbers - Colorado Rapids MLS"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "07:00",
-      "affiche": "Machida Zelvia - Avispa Fukuoka J-League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "11:00",
-      "affiche": "Crystal Palace F - West Ham F Women's Super League"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "12:30",
-      "affiche": "Cambuur - AZ Alkmaar Eredivisie"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "14:45",
-      "affiche": "Groningen - Ajax Amsterdam Eredivisie"
-    },
-    {
-      "date": "Dimanche 18 octobre",
-      "heure": "21:00",
-      "affiche": "FC Cincinnati - Columbus Crew MLS"
-    },
-    {
       "date": "Lundi 19 octobre",
       "heure": "15:05",
       "affiche": "Al-Fayha - Al-Ahli Saudi Saudi Pro League"
@@ -476,6 +341,16 @@
       "date": "Mardi 20 octobre",
       "heure": "18:00",
       "affiche": "Al-Nassr - NEOM Saudi Pro League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "17:30",
+      "affiche": "CF Montreal - Nashville SC MLS"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "19:30",
+      "affiche": "Columbus Crew - Toronto FC MLS"
     }
   ]
 }
