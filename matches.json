@@ -319,11 +319,6 @@
   "Autres": [
     {
       "date": "Lundi 19 octobre",
-      "heure": "15:05",
-      "affiche": "Al-Fayha - Al-Ahli Saudi Saudi Pro League"
-    },
-    {
-      "date": "Lundi 19 octobre",
       "heure": "17:00",
       "affiche": "Trabzonspor - Besiktas Süper Lig"
     },
@@ -331,6 +326,11 @@
       "date": "Lundi 19 octobre",
       "heure": "18:00",
       "affiche": "Al-Hilal - Al-Hazem Saudi Pro League"
+    },
+    {
+      "date": "Mardi 20 octobre",
+      "heure": "15:10",
+      "affiche": "Al-Taawoun - Al-Qadisiyah FC Saudi Pro League"
     },
     {
       "date": "Mardi 20 octobre",
