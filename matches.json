@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 19 octobre",
-      "heure": "18:45",
-      "affiche": "Rodez - Montpellier Ligue 2"
-    },
-    {
       "date": "Mercredi 21 octobre",
       "heure": "12:00",
       "affiche": "Lille U19 - Galatasaray U19 Youth League"
@@ -89,14 +84,39 @@
       "date": "Samedi 24 octobre",
       "heure": "18:45",
       "affiche": "Lens - Paris FC Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Monaco - Lille Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Angers - Lorient Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Marseille - Le Havre Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Rennes - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Auxerre - Le Mans Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "18:45",
+      "affiche": "PSG - Lyon Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "19:00",
-      "affiche": "Tottenham - Coventry Premier League"
-    },
     {
       "date": "Mardi 20 octobre",
       "heure": "19:00",
@@ -131,24 +151,39 @@
       "date": "Samedi 24 octobre",
       "heure": "16:30",
       "affiche": "Valence - Villarreal Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "23:30",
+      "affiche": "Atlanta United FC - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "23:30",
+      "affiche": "DC United - FC Cincinnati MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "23:30",
+      "affiche": "Orlando City SC - New York City FC MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "00:30",
+      "affiche": "Sporting Kansas City - Austin FC MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "00:30",
+      "affiche": "Houston Dynamo - Minnesota United FC MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "00:30",
+      "affiche": "Real Salt Lake - St. Louis City MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "16:00",
-      "affiche": "Bayern Munich F - Stuttgart F Bundesliga Féminine"
-    },
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "19:00",
-      "affiche": "Getafe - Rayo Vallecano Liga"
-    },
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "19:15",
-      "affiche": "Braga - Gil Vicente Primeira Liga"
-    },
     {
       "date": "Mardi 20 octobre",
       "heure": "12:00",
@@ -233,19 +268,39 @@
       "date": "Samedi 24 octobre",
       "heure": "19:00",
       "affiche": "Atlético Madrid - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "12:00",
+      "affiche": "Athletic Bilbao - Getafe Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:30",
+      "affiche": "Hoffenheim - Bayer Leverkusen Bundesliga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "14:15",
+      "affiche": "Celta Vigo - Betis Séville Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:30",
+      "affiche": "Fribourg - Bayern Munich Bundesliga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "16:30",
+      "affiche": "Real Sociedad - Levante Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "19:00",
+      "affiche": "FC Barcelone - Real Madrid Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "16:30",
-      "affiche": "Monza - Cagliari Serie A"
-    },
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "18:45",
-      "affiche": "Parme - Torino Serie A"
-    },
     {
       "date": "Mardi 20 octobre",
       "heure": "19:00",
@@ -290,6 +345,31 @@
       "date": "Samedi 24 octobre",
       "heure": "21:30",
       "affiche": "New York Red Bulls - Inter Miami MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "10:30",
+      "affiche": "Inter Milan - Fiorentina Serie A"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Atalanta - Frosinone Serie A"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Genoa - Venise Serie A"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "16:00",
+      "affiche": "Lecce - Juventus Turin Serie A"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "18:45",
+      "affiche": "Udinese - AC Milan Serie A"
     }
   ],
   "Allemagne": [
@@ -318,16 +398,6 @@
   ],
   "Autres": [
     {
-      "date": "Lundi 19 octobre",
-      "heure": "17:00",
-      "affiche": "Trabzonspor - Besiktas Süper Lig"
-    },
-    {
-      "date": "Lundi 19 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Hilal - Al-Hazem Saudi Pro League"
-    },
-    {
       "date": "Mardi 20 octobre",
       "heure": "15:10",
       "affiche": "Al-Taawoun - Al-Qadisiyah FC Saudi Pro League"
@@ -351,6 +421,41 @@
       "date": "Samedi 24 octobre",
       "heure": "19:30",
       "affiche": "Columbus Crew - Toronto FC MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "23:30",
+      "affiche": "Philadelphia Union - New England Revolution MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "00:30",
+      "affiche": "FC Dallas - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "00:30",
+      "affiche": "Colorado Rapids - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "01:30",
+      "affiche": "Portland Timbers - Charlotte FC MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "01:30",
+      "affiche": "San Diego - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "12:30",
+      "affiche": "PSV Eindhoven - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "14:45",
+      "affiche": "Sparta Rotterdam - Ajax Amsterdam Eredivisie"
     }
   ]
 }
