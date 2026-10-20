@@ -31,9 +31,14 @@
       "affiche": "Hoffenheim - Lyon Ligue Europa"
     },
     {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Pau FC - Grenoble Ligue 2"
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Monaco - Fribourg Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Lillestrom - Real Sociedad Ligue Europa"
     },
     {
       "date": "Vendredi 23 octobre",
@@ -48,12 +53,22 @@
     {
       "date": "Vendredi 23 octobre",
       "heure": "18:00",
+      "affiche": "Dunkerque - Metz Ligue 2"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "18:00",
+      "affiche": "Pau FC - Grenoble Ligue 2"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "18:00",
       "affiche": "Sochaux - Annecy Ligue 2"
     },
     {
       "date": "Vendredi 23 octobre",
       "heure": "18:00",
-      "affiche": "Dunkerque - Metz Ligue 2"
+      "affiche": "Multiplex - Multiplex Ligue 2"
     },
     {
       "date": "Vendredi 23 octobre",
@@ -77,6 +92,26 @@
     },
     {
       "date": "Samedi 24 octobre",
+      "heure": "16:00",
+      "affiche": "Fleury F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:00",
+      "affiche": "Nantes F - Strasbourg F D1 Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:00",
+      "affiche": "Saint-Malo F - Paris FC F D1 Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:00",
+      "affiche": "Le Havre F - Lens F D1 Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
       "heure": "18:00",
       "affiche": "Saint-Étienne - Nantes Ligue 2"
     },
@@ -84,6 +119,11 @@
       "date": "Samedi 24 octobre",
       "heure": "18:45",
       "affiche": "Lens - Paris FC Ligue 1"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "19:00",
+      "affiche": "Lyon F - Marseille F D1 Féminine"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -148,9 +188,44 @@
       "affiche": "FC Cincinnati - DC United MLS"
     },
     {
+      "date": "Vendredi 23 octobre",
+      "heure": "19:00",
+      "affiche": "Ipswich - Nottingham Forest Premier League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "11:30",
+      "affiche": "Aston Villa - Manchester City Premier League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "11:30",
+      "affiche": "Charlton - Norwich Championship"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "14:00",
+      "affiche": "Arsenal - Everton Premier League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "14:00",
+      "affiche": "Coventry - Fulham Premier League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "14:00",
+      "affiche": "Preston - West Bromwich Championship"
+    },
+    {
       "date": "Samedi 24 octobre",
       "heure": "16:30",
       "affiche": "Valence - Villarreal Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:30",
+      "affiche": "Chelsea - Tottenham Premier League"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -181,6 +256,31 @@
       "date": "Dimanche 25 octobre",
       "heure": "00:30",
       "affiche": "Real Salt Lake - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Manchester United - Bournemouth Premier League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Liverpool - Brighton Premier League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Crystal Palace - Newcastle Premier League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Hull City - Brentford Premier League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:30",
+      "affiche": "Sunderland - Leeds Premier League"
     }
   ],
   "Espagne": [
@@ -216,6 +316,11 @@
     },
     {
       "date": "Vendredi 23 octobre",
+      "heure": "16:30",
+      "affiche": "RB Leipzig F - Bayern Munich F Bundesliga Féminine"
+    },
+    {
+      "date": "Vendredi 23 octobre",
       "heure": "18:30",
       "affiche": "Stuttgart - Monchengladbach Bundesliga"
     },
@@ -223,6 +328,16 @@
       "date": "Vendredi 23 octobre",
       "heure": "19:00",
       "affiche": "Alavés - Malaga Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "10:00",
+      "affiche": "Wolfsbourg F - Cologne F Bundesliga Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "11:00",
+      "affiche": "Hertha BSC - Arminia Bielefeld Bundesliga 2"
     },
     {
       "date": "Samedi 24 octobre",
@@ -266,8 +381,18 @@
     },
     {
       "date": "Samedi 24 octobre",
+      "heure": "18:30",
+      "affiche": "Nuremberg - Kaiserslautern Bundesliga 2"
+    },
+    {
+      "date": "Samedi 24 octobre",
       "heure": "19:00",
       "affiche": "Atlético Madrid - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "19:30",
+      "affiche": "Gil Vicente - FC Porto Primeira Liga"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -296,25 +421,50 @@
     },
     {
       "date": "Dimanche 25 octobre",
+      "heure": "17:00",
+      "affiche": "Nacional - Braga Primeira Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
       "heure": "19:00",
       "affiche": "FC Barcelone - Real Madrid Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "19:30",
+      "affiche": "Sporting CP - Academico Viseu Primeira Liga"
     }
   ],
   "Italie": [
     {
       "date": "Mardi 20 octobre",
       "heure": "19:00",
-      "affiche": "Naples - Bodo Glimt Ligue des Champions"
+      "affiche": "AS Roma - Slovan Bratislava Ligue des Champions"
     },
     {
       "date": "Mardi 20 octobre",
       "heure": "19:00",
-      "affiche": "AS Roma - Slovan Bratislava Ligue des Champions"
+      "affiche": "Naples - Bodo Glimt Ligue des Champions"
     },
     {
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
       "affiche": "Inter Milan - Shakhtar Donetsk Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Inter Club d'Escaldes - Universitatea Craiova Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Bournemouth - AC Milan Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Ajax Amsterdam - Atalanta Ligue Europa Conférence"
     },
     {
       "date": "Vendredi 23 octobre",
@@ -377,6 +527,11 @@
       "date": "Mardi 20 octobre",
       "heure": "16:45",
       "affiche": "Sabah FA - Borussia Dortmund Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "OFI Crète - Bayer Leverkusen Ligue Europa"
     }
   ],
   "Europe": [
@@ -404,6 +559,146 @@
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
       "affiche": "Multiplex - Multi-Live Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "14:30",
+      "affiche": "Kairat Almaty - Panathinaikos Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Ferencvaros - Torreense Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Lech Poznan - Sunderland Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Union Saint-Gilloise - Hapoel Beer Sheva Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Dinamo Zagreb - NEC Nimègue Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Étoile Rouge Belgrade - Copenhague Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Getafe - FC Lugano Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "FK Jablonec - Brighton Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Trabzonspor - Heart of Midlothian Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Pafos - Riga Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Ararat-Armenia - AZ Alkmaar Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "FC Iberia 1999 - Mjallby AIF Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "FC Nordsjaelland - CSKA Sofia Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "16:45",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multi-Live Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Besiktas - Crystal Palace Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Olympiakos - Sparta Prague Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Celtic Glasgow - Celta Vigo Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Jagiellonia - Anderlecht Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Omonia Nicosie - Benfica Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Braga - La Gantoise Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Celje - RB Salzbourg Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Pilsen - Levski Sofia Ligue Europa"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Aarhus - Egnatia Rrogozhinë Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Borac Banja Luka - KuPS Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Lincoln Red Imps FC - Twente Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "Midtjylland - Saint-Trond Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 22 octobre",
+      "heure": "19:00",
+      "affiche": "FC Thoune - Hajduk Split Ligue Europa Conférence"
     }
   ],
   "Autres": [
@@ -421,6 +716,26 @@
       "date": "Mardi 20 octobre",
       "heure": "18:00",
       "affiche": "Al-Nassr - NEOM Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "13:30",
+      "affiche": "Al-Faisaly FC - Al-Nassr Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "15:30",
+      "affiche": "Al-Ittihad - Al Diriyah Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Qadisiyah FC - Al-Hilal Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 23 octobre",
+      "heure": "19:05",
+      "affiche": "PSG F - Montpellier F D1 Féminine"
     },
     {
       "date": "Samedi 24 octobre",
@@ -466,6 +781,11 @@
       "date": "Dimanche 25 octobre",
       "heure": "14:45",
       "affiche": "Sparta Rotterdam - Ajax Amsterdam Eredivisie"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:00",
+      "affiche": "Goztepe - Çorum FK Süper Lig"
     }
   ]
 }
