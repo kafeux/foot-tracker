@@ -391,9 +391,19 @@
       "affiche": "FC Porto - PSV Eindhoven Ligue des Champions"
     },
     {
+      "date": "Mardi 20 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multi-Live Ligue des Champions"
+    },
+    {
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
       "affiche": "Sporting CP - Lask Linz Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 21 octobre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multi-Live Ligue des Champions"
     }
   ],
   "Autres": [
