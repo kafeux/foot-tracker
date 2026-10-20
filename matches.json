@@ -154,19 +154,14 @@
       "date": "Dimanche 25 octobre",
       "heure": "18:45",
       "affiche": "PSG - Lyon Ligue 1"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "18:45",
+      "affiche": "Boulogne - Reims Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "Liverpool - Villarreal Ligue des Champions"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "Manchester City - AEK Athènes Ligue des Champions"
-    },
     {
       "date": "Mercredi 21 octobre",
       "heure": "16:45",
@@ -284,21 +279,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "12:00",
-      "affiche": "PSG U19 - FC Barcelone U19 Youth League"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "PSG - FC Barcelone Ligue des Champions"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "Stuttgart - Atlético Madrid Ligue des Champions"
-    },
     {
       "date": "Mercredi 21 octobre",
       "heure": "18:00",
@@ -433,19 +413,19 @@
       "date": "Dimanche 25 octobre",
       "heure": "19:30",
       "affiche": "Sporting CP - Academico Viseu Primeira Liga"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "17:45",
+      "affiche": "Santa Clara - Benfica Primeira Liga"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "19:00",
+      "affiche": "FC Séville - Osasuna Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "AS Roma - Slovan Bratislava Ligue des Champions"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "Naples - Bodo Glimt Ligue des Champions"
-    },
     {
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
@@ -524,32 +504,12 @@
   ],
   "Allemagne": [
     {
-      "date": "Mardi 20 octobre",
-      "heure": "16:45",
-      "affiche": "Sabah FA - Borussia Dortmund Ligue des Champions"
-    },
-    {
       "date": "Jeudi 22 octobre",
       "heure": "16:45",
       "affiche": "OFI Crète - Bayer Leverkusen Ligue Europa"
     }
   ],
   "Europe": [
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "16:45",
-      "affiche": "Fenerbahçe - Slavia Prague Ligue des Champions"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "FC Porto - PSV Eindhoven Ligue des Champions"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multi-Live Ligue des Champions"
-    },
     {
       "date": "Mercredi 21 octobre",
       "heure": "19:00",
@@ -703,21 +663,6 @@
   ],
   "Autres": [
     {
-      "date": "Mardi 20 octobre",
-      "heure": "15:10",
-      "affiche": "Al-Taawoun - Al-Qadisiyah FC Saudi Pro League"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Ettifaq - Al-Ittihad Saudi Pro League"
-    },
-    {
-      "date": "Mardi 20 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Nassr - NEOM Saudi Pro League"
-    },
-    {
       "date": "Vendredi 23 octobre",
       "heure": "13:30",
       "affiche": "Al-Faisaly FC - Al-Nassr Saudi Pro League"
@@ -786,6 +731,21 @@
       "date": "Dimanche 25 octobre",
       "heure": "15:00",
       "affiche": "Goztepe - Çorum FK Süper Lig"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "00:00",
+      "affiche": "Los Angeles FC - Los Angeles Galaxy MLS"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "15:00",
+      "affiche": "Rizespor - Trabzonspor Süper Lig"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "17:30",
+      "affiche": "Galatasaray - Fenerbahçe Süper Lig"
     }
   ]
 }
