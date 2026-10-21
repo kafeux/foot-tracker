@@ -87,11 +87,6 @@
     },
     {
       "date": "Samedi 24 octobre",
-      "heure": "15:15",
-      "affiche": "Toulouse - Troyes Ligue 1"
-    },
-    {
-      "date": "Samedi 24 octobre",
       "heure": "16:00",
       "affiche": "Fleury F - Toulouse F D1 Féminine"
     },
@@ -144,6 +139,11 @@
       "date": "Dimanche 25 octobre",
       "heure": "15:15",
       "affiche": "Rennes - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Toulouse - Troyes Ligue 1"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -662,6 +662,16 @@
     }
   ],
   "Autres": [
+    {
+      "date": "Mercredi 21 octobre",
+      "heure": "10:00",
+      "affiche": "V-varen Nagasaki - Sanfrecce Hiroshima J-League"
+    },
+    {
+      "date": "Mercredi 21 octobre",
+      "heure": "10:00",
+      "affiche": "Yokohama FM - Tokyo Verdy J-League"
+    },
     {
       "date": "Vendredi 23 octobre",
       "heure": "13:30",
