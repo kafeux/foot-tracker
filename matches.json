@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 21 octobre",
-      "heure": "12:00",
-      "affiche": "Lille U19 - Galatasaray U19 Youth League"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "16:45",
-      "affiche": "Lille - Galatasaray Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Club Bruges - Lens Ligue des Champions"
-    },
-    {
       "date": "Jeudi 22 octobre",
       "heure": "16:45",
       "affiche": "Sturm Graz - Marseille Ligue Europa"
@@ -87,6 +72,11 @@
     },
     {
       "date": "Samedi 24 octobre",
+      "heure": "13:00",
+      "affiche": "Saint-Malo F - Paris FC F D1 Féminine"
+    },
+    {
+      "date": "Samedi 24 octobre",
       "heure": "16:00",
       "affiche": "Fleury F - Toulouse F D1 Féminine"
     },
@@ -94,11 +84,6 @@
       "date": "Samedi 24 octobre",
       "heure": "16:00",
       "affiche": "Nantes F - Strasbourg F D1 Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:00",
-      "affiche": "Saint-Malo F - Paris FC F D1 Féminine"
     },
     {
       "date": "Samedi 24 octobre",
@@ -162,21 +147,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "16:45",
-      "affiche": "Côme - Manchester United Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Bayern Munich - Arsenal Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Aston Villa - Viking Ligue des Champions"
-    },
     {
       "date": "Jeudi 22 octobre",
       "heure": "23:00",
@@ -276,24 +246,14 @@
       "date": "Dimanche 25 octobre",
       "heure": "15:30",
       "affiche": "Sunderland - Leeds Premier League"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "19:00",
+      "affiche": "Fleetwood Town - Arsenal League Cup"
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "18:00",
-      "affiche": "Levante - Athletic Bilbao Liga"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Real Madrid - RB Leipzig Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Betis Séville - Feyenoord Ligue des Champions"
-    },
     {
       "date": "Vendredi 23 octobre",
       "heure": "16:30",
@@ -427,11 +387,6 @@
   ],
   "Italie": [
     {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Inter Milan - Shakhtar Donetsk Ligue des Champions"
-    },
-    {
       "date": "Jeudi 22 octobre",
       "heure": "16:45",
       "affiche": "Inter Club d'Escaldes - Universitatea Craiova Ligue Europa Conférence"
@@ -500,6 +455,21 @@
       "date": "Dimanche 25 octobre",
       "heure": "18:45",
       "affiche": "Udinese - AC Milan Serie A"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:30",
+      "affiche": "Sassuolo - Lazio Rome Serie A"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "Torino - Côme Serie A"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "AS Roma - Cagliari Serie A"
     }
   ],
   "Allemagne": [
@@ -507,19 +477,24 @@
       "date": "Jeudi 22 octobre",
       "heure": "16:45",
       "affiche": "OFI Crète - Bayer Leverkusen Ligue Europa"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:00",
+      "affiche": "Hambourg - Francfort Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:00",
+      "affiche": "Rot-weiss Essen - RB Leipzig Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "Borussia Dortmund - Werder Brême Coupe d'Allemagne"
     }
   ],
   "Europe": [
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Sporting CP - Lask Linz Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multi-Live Ligue des Champions"
-    },
     {
       "date": "Jeudi 22 octobre",
       "heure": "14:30",
@@ -663,16 +638,6 @@
   ],
   "Autres": [
     {
-      "date": "Mercredi 21 octobre",
-      "heure": "10:00",
-      "affiche": "V-varen Nagasaki - Sanfrecce Hiroshima J-League"
-    },
-    {
-      "date": "Mercredi 21 octobre",
-      "heure": "10:00",
-      "affiche": "Yokohama FM - Tokyo Verdy J-League"
-    },
-    {
       "date": "Vendredi 23 octobre",
       "heure": "13:30",
       "affiche": "Al-Faisaly FC - Al-Nassr Saudi Pro League"
@@ -756,6 +721,36 @@
       "date": "Lundi 26 octobre",
       "heure": "17:30",
       "affiche": "Galatasaray - Fenerbahçe Süper Lig"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:00",
+      "affiche": "Bochum - Mayence Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:00",
+      "affiche": "SG Sonnenhof - Augsbourg Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "Cologne - Union Berlin Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "Monchengladbach - Karlsruhe Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "SV Elversberg - Darmstadt Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "18:45",
+      "affiche": "Bradford - Peterborough League Cup"
     }
   ]
 }
