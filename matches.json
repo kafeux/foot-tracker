@@ -67,11 +67,6 @@
     },
     {
       "date": "Samedi 24 octobre",
-      "heure": "12:00",
-      "affiche": "Montpellier - Red Star Ligue 2"
-    },
-    {
-      "date": "Samedi 24 octobre",
       "heure": "13:00",
       "affiche": "Saint-Malo F - Paris FC F D1 Féminine"
     },
@@ -139,6 +134,11 @@
       "date": "Dimanche 25 octobre",
       "heure": "18:45",
       "affiche": "PSG - Lyon Ligue 1"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "18:45",
+      "affiche": "Montpellier - Red Star Ligue 2"
     },
     {
       "date": "Lundi 26 octobre",
@@ -308,6 +308,11 @@
       "date": "Samedi 24 octobre",
       "heure": "13:30",
       "affiche": "Cologne - Schalke 04 Bundesliga"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "13:30",
+      "affiche": "Multiplex - Multiplex Bundesliga"
     },
     {
       "date": "Samedi 24 octobre",
