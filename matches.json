@@ -1,31 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Sturm Graz - Marseille Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Juventus Turin - Rennes Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Hoffenheim - Lyon Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Monaco - Fribourg Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Lillestrom - Real Sociedad Ligue Europa"
-    },
-    {
       "date": "Vendredi 23 octobre",
       "heure": "18:00",
       "affiche": "Clermont Foot - Guingamp Ligue 2"
@@ -144,14 +119,14 @@
       "date": "Lundi 26 octobre",
       "heure": "18:45",
       "affiche": "Boulogne - Reims Ligue 2"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "19:00",
+      "affiche": "Lyon F - Inter Milan F Ligue des Champions Féminine"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "23:00",
-      "affiche": "FC Cincinnati - DC United MLS"
-    },
     {
       "date": "Vendredi 23 octobre",
       "heure": "19:00",
@@ -251,6 +226,31 @@
       "date": "Mardi 27 octobre",
       "heure": "19:00",
       "affiche": "Fleetwood Town - Arsenal League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:45",
+      "affiche": "Chelsea F - AS Roma F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:30",
+      "affiche": "Manchester City - Brighton League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Bournemouth - Aston Villa League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "19:00",
+      "affiche": "Arsenal F - SL Benfica F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "19:00",
+      "affiche": "Liverpool - Chelsea League Cup"
     }
   ],
   "Espagne": [
@@ -388,24 +388,14 @@
       "date": "Lundi 26 octobre",
       "heure": "19:00",
       "affiche": "FC Séville - Osasuna Liga"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:45",
+      "affiche": "Bayern Munich F - Real Madrid F Ligue des Champions Féminine"
     }
   ],
   "Italie": [
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Inter Club d'Escaldes - Universitatea Craiova Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Bournemouth - AC Milan Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Ajax Amsterdam - Atalanta Ligue Europa Conférence"
-    },
     {
       "date": "Vendredi 23 octobre",
       "heure": "18:45",
@@ -475,14 +465,34 @@
       "date": "Mardi 27 octobre",
       "heure": "18:45",
       "affiche": "AS Roma - Cagliari Serie A"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:30",
+      "affiche": "Venise - Inter Milan Serie A"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:30",
+      "affiche": "Parme - Udinese Serie A"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:30",
+      "affiche": "AC Milan - Bologne Serie A"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Monza - Naples Serie A"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Genoa - Juventus Turin Serie A"
     }
   ],
   "Allemagne": [
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "OFI Crète - Bayer Leverkusen Ligue Europa"
-    },
     {
       "date": "Mardi 27 octobre",
       "heure": "16:00",
@@ -497,148 +507,28 @@
       "date": "Mardi 27 octobre",
       "heure": "18:45",
       "affiche": "Borussia Dortmund - Werder Brême Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:00",
+      "affiche": "Paderborn - Stuttgart Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Bayern Munich - FC Magdebourg Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Bayer Leverkusen - Nuremberg Coupe d'Allemagne"
     }
   ],
   "Europe": [
     {
-      "date": "Jeudi 22 octobre",
-      "heure": "14:30",
-      "affiche": "Kairat Almaty - Panathinaikos Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
+      "date": "Mercredi 28 octobre",
       "heure": "16:45",
-      "affiche": "Ferencvaros - Torreense Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Lech Poznan - Sunderland Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Union Saint-Gilloise - Hapoel Beer Sheva Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Dinamo Zagreb - NEC Nimègue Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Étoile Rouge Belgrade - Copenhague Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Getafe - FC Lugano Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "FK Jablonec - Brighton Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Trabzonspor - Heart of Midlothian Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Pafos - Riga Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Ararat-Armenia - AZ Alkmaar Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "FC Iberia 1999 - Mjallby AIF Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "FC Nordsjaelland - CSKA Sofia Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "16:45",
-      "affiche": "Multiplex - Multiplex Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multi-Live Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Besiktas - Crystal Palace Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Olympiakos - Sparta Prague Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Celtic Glasgow - Celta Vigo Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Jagiellonia - Anderlecht Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Omonia Nicosie - Benfica Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Braga - La Gantoise Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Celje - RB Salzbourg Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Pilsen - Levski Sofia Ligue Europa"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Aarhus - Egnatia Rrogozhinë Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Borac Banja Luka - KuPS Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Lincoln Red Imps FC - Twente Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "Midtjylland - Saint-Trond Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 22 octobre",
-      "heure": "19:00",
-      "affiche": "FC Thoune - Hajduk Split Ligue Europa Conférence"
+      "affiche": "Servette Chênois F - OH Louvain F Ligue des Champions Féminine"
     }
   ],
   "Autres": [
@@ -756,6 +646,36 @@
       "date": "Mardi 27 octobre",
       "heure": "18:45",
       "affiche": "Bradford - Peterborough League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:00",
+      "affiche": "Fribourg - Wolfsbourg Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:00",
+      "affiche": "Dynamo Dresde - Schalke 04 Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "16:00",
+      "affiche": "SSV Jeddeloh - Hertha BSC Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Holstein Kiel - Hoffenheim Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Sunderland - Brentford League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "18:45",
+      "affiche": "Fulham - Crystal Palace League Cup"
     }
   ]
 }
