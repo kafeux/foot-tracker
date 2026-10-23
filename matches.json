@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Clermont Foot - Guingamp Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Nancy - Laval Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Dunkerque - Metz Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Pau FC - Grenoble Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Sochaux - Annecy Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:45",
-      "affiche": "Brest - Nice Ligue 1"
-    },
-    {
       "date": "Samedi 24 octobre",
       "heure": "12:00",
       "affiche": "Dijon - Rodez Ligue 2"
@@ -129,14 +94,14 @@
       "date": "Mercredi 28 octobre",
       "heure": "19:00",
       "affiche": "Lyon F - Inter Milan F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "16:45",
+      "affiche": "Paris FC F - Häcken F Ligue des Champions Féminine"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "19:00",
-      "affiche": "Ipswich - Nottingham Forest Premier League"
-    },
     {
       "date": "Samedi 24 octobre",
       "heure": "11:30",
@@ -286,24 +251,39 @@
       "date": "Mercredi 28 octobre",
       "heure": "19:00",
       "affiche": "Liverpool - Chelsea League Cup"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "22:30",
+      "affiche": "New York City FC - Atlanta United FC MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "22:30",
+      "affiche": "Toronto FC - DC United MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "St. Louis City - Portland Timbers MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "Minnesota United FC - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "Chicago Fire - Orlando City SC MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "19:00",
+      "affiche": "Manchester City F - PSG F Ligue des Champions Féminine"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "16:30",
-      "affiche": "RB Leipzig F - Bayern Munich F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:30",
-      "affiche": "Stuttgart - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "19:00",
-      "affiche": "Alavés - Malaga Liga"
-    },
     {
       "date": "Samedi 24 octobre",
       "heure": "10:00",
@@ -428,14 +408,14 @@
       "date": "Mercredi 28 octobre",
       "heure": "16:45",
       "affiche": "Bayern Munich F - Real Madrid F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "19:00",
+      "affiche": "Køge F - FC Barcelone F Ligue des Champions Féminine"
     }
   ],
   "Italie": [
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:45",
-      "affiche": "Torino - Monza Serie A"
-    },
     {
       "date": "Samedi 24 octobre",
       "heure": "13:00",
@@ -525,6 +505,26 @@
       "date": "Mercredi 28 octobre",
       "heure": "18:45",
       "affiche": "Genoa - Juventus Turin Serie A"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "22:30",
+      "affiche": "Inter Miami - FC Cincinnati MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "16:30",
+      "affiche": "Frosinone - Lecce Serie A"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "16:45",
+      "affiche": "Austria Vienne F - Juventus F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "18:45",
+      "affiche": "Fiorentina - Atalanta Serie A"
     }
   ],
   "Allemagne": [
@@ -567,26 +567,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "13:30",
-      "affiche": "Al-Faisaly FC - Al-Nassr Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "15:30",
-      "affiche": "Al-Ittihad - Al Diriyah Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Qadisiyah FC - Al-Hilal Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 23 octobre",
-      "heure": "19:05",
-      "affiche": "PSG F - Montpellier F D1 Féminine"
-    },
     {
       "date": "Samedi 24 octobre",
       "heure": "06:00",
@@ -726,6 +706,51 @@
       "date": "Mercredi 28 octobre",
       "heure": "18:45",
       "affiche": "Fulham - Crystal Palace League Cup"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "22:30",
+      "affiche": "New England Revolution - New York Red Bulls MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "22:30",
+      "affiche": "Charlotte FC - CF Montreal MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "Austin FC - Real Salt Lake MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "Nashville SC - Philadelphia Union MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "23:30",
+      "affiche": "FC Dallas - Columbus Crew MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "01:30",
+      "affiche": "San Jose Earthquakes - Colorado Rapids MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "01:30",
+      "affiche": "Seattle Sounders - Houston Dynamo MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "01:30",
+      "affiche": "Vancouver Whitecaps - San Diego MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "18:45",
+      "affiche": "Amiens - Thionville Lusitanos Ligue 3"
     }
   ]
 }
