@@ -107,6 +107,11 @@
     },
     {
       "date": "Dimanche 25 octobre",
+      "heure": "15:15",
+      "affiche": "Multiplex - Multiplex Ligue 1"
+    },
+    {
+      "date": "Dimanche 25 octobre",
       "heure": "18:45",
       "affiche": "PSG - Lyon Ligue 1"
     },
@@ -141,6 +146,11 @@
       "date": "Samedi 24 octobre",
       "heure": "11:30",
       "affiche": "Charlton - Norwich Championship"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "11:45",
+      "affiche": "Tottenham F - Arsenal F Women's Super League"
     },
     {
       "date": "Samedi 24 octobre",
@@ -194,8 +204,13 @@
     },
     {
       "date": "Dimanche 25 octobre",
-      "heure": "00:30",
+      "heure": "01:30",
       "affiche": "Real Salt Lake - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "11:00",
+      "affiche": "Crystal Palace F - Chelsea F Women's Super League"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -219,8 +234,28 @@
     },
     {
       "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Liverpool F - London City Lionesses Women's Super League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Everton F - Aston Villa F Women's Super League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Birmingham City F - Charlton Athletic F Women's Super League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
       "heure": "15:30",
       "affiche": "Sunderland - Leeds Premier League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "17:00",
+      "affiche": "Manchester United F - Manchester City F Women's Super League"
     },
     {
       "date": "Mardi 27 octobre",
@@ -554,6 +589,21 @@
     },
     {
       "date": "Samedi 24 octobre",
+      "heure": "06:00",
+      "affiche": "Kashima Antlers - Kashiwa Reysol J-League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "06:00",
+      "affiche": "Vissel Kobe - Machida Zelvia J-League"
+    },
+    {
+      "date": "Samedi 24 octobre",
+      "heure": "16:15",
+      "affiche": "Brighton F - West Ham F Women's Super League"
+    },
+    {
+      "date": "Samedi 24 octobre",
       "heure": "17:30",
       "affiche": "CF Montreal - Nashville SC MLS"
     },
@@ -574,11 +624,6 @@
     },
     {
       "date": "Dimanche 25 octobre",
-      "heure": "00:30",
-      "affiche": "Colorado Rapids - Vancouver Whitecaps MLS"
-    },
-    {
-      "date": "Dimanche 25 octobre",
       "heure": "01:30",
       "affiche": "Portland Timbers - Charlotte FC MLS"
     },
@@ -586,6 +631,11 @@
       "date": "Dimanche 25 octobre",
       "heure": "01:30",
       "affiche": "San Diego - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - Vancouver Whitecaps MLS"
     },
     {
       "date": "Dimanche 25 octobre",
