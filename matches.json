@@ -1,46 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 24 octobre",
-      "heure": "12:00",
-      "affiche": "Dijon - Rodez Ligue 2"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:00",
-      "affiche": "Saint-Malo F - Paris FC F D1 Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:00",
-      "affiche": "Fleury F - Toulouse F D1 Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:00",
-      "affiche": "Nantes F - Strasbourg F D1 Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:00",
-      "affiche": "Le Havre F - Lens F D1 Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "18:45",
-      "affiche": "Saint-Étienne - Nantes Ligue 2"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "18:45",
-      "affiche": "Lens - Paris FC Ligue 1"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "19:00",
-      "affiche": "Lyon F - Marseille F D1 Féminine"
-    },
-    {
       "date": "Dimanche 25 octobre",
       "heure": "13:00",
       "affiche": "Monaco - Lille Ligue 1"
@@ -99,49 +59,44 @@
       "date": "Jeudi 29 octobre",
       "heure": "16:45",
       "affiche": "Paris FC F - Häcken F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "17:00",
+      "affiche": "Le Havre - PSG Ligue 1"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
+      "affiche": "Nantes - Clermont Foot Ligue 2"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
+      "affiche": "Grenoble - Dijon Ligue 2"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
+      "affiche": "Metz - Pau FC Ligue 2"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
+      "affiche": "Laval - Boulogne Ligue 2"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
+      "affiche": "Rodez - Dunkerque Ligue 2"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "19:05",
+      "affiche": "Lille - Lens Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "11:30",
-      "affiche": "Aston Villa - Manchester City Premier League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "11:30",
-      "affiche": "Charlton - Norwich Championship"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "11:45",
-      "affiche": "Tottenham F - Arsenal F Women's Super League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "14:00",
-      "affiche": "Arsenal - Everton Premier League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "14:00",
-      "affiche": "Coventry - Fulham Premier League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "14:00",
-      "affiche": "Preston - West Bromwich Championship"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:30",
-      "affiche": "Valence - Villarreal Liga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:30",
-      "affiche": "Chelsea - Tottenham Premier League"
-    },
     {
       "date": "Dimanche 25 octobre",
       "heure": "23:30",
@@ -281,79 +236,14 @@
       "date": "Jeudi 29 octobre",
       "heure": "19:00",
       "affiche": "Manchester City F - PSG F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "19:00",
+      "affiche": "Villarreal - Espanyol Barcelone Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "10:00",
-      "affiche": "Wolfsbourg F - Cologne F Bundesliga Féminine"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "11:00",
-      "affiche": "Hertha BSC - Arminia Bielefeld Bundesliga 2"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "12:00",
-      "affiche": "Rayo Vallecano - Elche Liga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "Mayence - Werder Brême Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "Augsbourg - Union Berlin Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "RB Leipzig - SV Elversberg Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "Paderborn - Hambourg Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "Cologne - Schalke 04 Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:30",
-      "affiche": "Multiplex - Multiplex Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "14:15",
-      "affiche": "Racing Santander - Espanyol Barcelone Liga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:30",
-      "affiche": "Borussia Dortmund - Francfort Bundesliga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "18:30",
-      "affiche": "Nuremberg - Kaiserslautern Bundesliga 2"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "19:00",
-      "affiche": "Atlético Madrid - Deportivo La Corogne Liga"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "19:30",
-      "affiche": "Gil Vicente - FC Porto Primeira Liga"
-    },
     {
       "date": "Dimanche 25 octobre",
       "heure": "12:00",
@@ -413,34 +303,14 @@
       "date": "Jeudi 29 octobre",
       "heure": "19:00",
       "affiche": "Køge F - FC Barcelone F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:30",
+      "affiche": "SV Elversberg - Mayence Bundesliga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:00",
-      "affiche": "Côme - Sassuolo Serie A"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "13:00",
-      "affiche": "Cagliari - Bologne Serie A"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:00",
-      "affiche": "Naples - AS Roma Serie A"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "18:45",
-      "affiche": "Lazio Rome - Parme Serie A"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "21:30",
-      "affiche": "New York Red Bulls - Inter Miami MLS"
-    },
     {
       "date": "Dimanche 25 octobre",
       "heure": "10:30",
@@ -567,31 +437,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "06:00",
-      "affiche": "Kashima Antlers - Kashiwa Reysol J-League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "06:00",
-      "affiche": "Vissel Kobe - Machida Zelvia J-League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "16:15",
-      "affiche": "Brighton F - West Ham F Women's Super League"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "17:30",
-      "affiche": "CF Montreal - Nashville SC MLS"
-    },
-    {
-      "date": "Samedi 24 octobre",
-      "heure": "19:30",
-      "affiche": "Columbus Crew - Toronto FC MLS"
-    },
     {
       "date": "Dimanche 25 octobre",
       "heure": "23:30",
