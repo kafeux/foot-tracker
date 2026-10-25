@@ -251,6 +251,11 @@
     },
     {
       "date": "Dimanche 25 octobre",
+      "heure": "13:00",
+      "affiche": "Werder Breme F - Fribourg F Bundesliga Féminine"
+    },
+    {
+      "date": "Dimanche 25 octobre",
       "heure": "14:30",
       "affiche": "Hoffenheim - Bayer Leverkusen Bundesliga"
     },
@@ -258,6 +263,11 @@
       "date": "Dimanche 25 octobre",
       "heure": "15:15",
       "affiche": "Celta Vigo - Betis Séville Liga"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "16:00",
+      "affiche": "Hambourg F - Union Berlin F Bundesliga Féminine"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -464,8 +474,18 @@
     },
     {
       "date": "Dimanche 25 octobre",
+      "heure": "12:30",
+      "affiche": "Racing Genk - Standard de Liège Jupiler Pro League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
       "heure": "13:30",
       "affiche": "PSV Eindhoven - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "15:00",
+      "affiche": "Club Bruges - Saint-Trond Jupiler Pro League"
     },
     {
       "date": "Dimanche 25 octobre",
@@ -476,6 +496,16 @@
       "date": "Dimanche 25 octobre",
       "heure": "16:00",
       "affiche": "Goztepe - Çorum FK Süper Lig"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "17:30",
+      "affiche": "La Gantoise - Anderlecht Jupiler Pro League"
+    },
+    {
+      "date": "Dimanche 25 octobre",
+      "heure": "19:00",
+      "affiche": "AZ Alkmaar - Twente Eredivisie"
     },
     {
       "date": "Lundi 26 octobre",
