@@ -129,8 +129,18 @@
   "Angleterre": [
     {
       "date": "Mardi 27 octobre",
+      "heure": "10:00",
+      "affiche": "Kyoto Sanga - Newcastle Jets Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
       "heure": "20:00",
       "affiche": "Fleetwood Town - Arsenal League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "10:00",
+      "affiche": "Gamba Osaka - Buriram United Ligue des champions d'Asie"
     },
     {
       "date": "Mercredi 28 octobre",
@@ -406,6 +416,41 @@
   ],
   "Europe": [
     {
+      "date": "Mardi 27 octobre",
+      "heure": "10:00",
+      "affiche": "SHANGHAI SIPG - Công An Nhân Dân Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "10:00",
+      "affiche": "Johor Darul Takzim FC - Port FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "10:00",
+      "affiche": "Daejeon Citizen - Vissel Kobe Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "12:15",
+      "affiche": "Beijing Guoan - Jeonbuk Motors Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "12:15",
+      "affiche": "Ratchaburi - Kashiwa Reysol Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 27 octobre",
+      "heure": "16:00",
+      "affiche": "Shabab AlAhli - Esteghlal FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "10:00",
+      "affiche": "Kashima Antlers - Pohang Steelers Ligue des champions d'Asie"
+    },
+    {
       "date": "Mercredi 28 octobre",
       "heure": "17:45",
       "affiche": "Servette Chênois F - OH Louvain F Ligue des Champions Féminine"
@@ -486,6 +531,11 @@
       "date": "Mercredi 28 octobre",
       "heure": "19:45",
       "affiche": "Fulham - Crystal Palace League Cup"
+    },
+    {
+      "date": "Mercredi 28 octobre",
+      "heure": "19:45",
+      "affiche": "Hannover 96 - Kaiserslautern Coupe d'Allemagne"
     },
     {
       "date": "Jeudi 29 octobre",
