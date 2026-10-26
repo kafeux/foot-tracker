@@ -57,6 +57,11 @@
     },
     {
       "date": "Vendredi 30 octobre",
+      "heure": "20:00",
+      "affiche": "Marseille F - Nantes F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 30 octobre",
       "heure": "20:05",
       "affiche": "Lille - Lens Ligue 1"
     },
@@ -77,33 +82,28 @@
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:00",
-      "affiche": "Marseille F - Nantes F D1 Féminine"
+      "heure": "16:15",
+      "affiche": "Nice - Rennes Ligue 1"
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:00",
+      "heure": "17:00",
       "affiche": "Montpellier F - Lyon F D1 Féminine"
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:00",
+      "heure": "17:00",
       "affiche": "Strasbourg F - Le Havre F D1 Féminine"
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:00",
+      "heure": "17:00",
       "affiche": "Toulouse F - Saint-Malo F D1 Féminine"
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:00",
+      "heure": "17:00",
       "affiche": "Lens F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "16:15",
-      "affiche": "Nice - Rennes Ligue 1"
     },
     {
       "date": "Samedi 31 octobre",
@@ -415,6 +415,31 @@
     }
   ],
   "Europe": [
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "16:00",
+      "affiche": "Al-Ahli Saudi - Al-Gharafa Ligue des champions d'Asie"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "16:00",
+      "affiche": "Al Ain - Tractor Sazi Ligue des champions d'Asie"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "18:15",
+      "affiche": "Al-Nassr - Al-Wasl FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "18:15",
+      "affiche": "Al Quwa Al Jawiya - Pakhtakor Ligue des champions d'Asie"
+    },
+    {
+      "date": "Lundi 26 octobre",
+      "heure": "18:15",
+      "affiche": "Al-Qadisiyah FC - Al Sadd Ligue des champions d'Asie"
+    },
     {
       "date": "Mardi 27 octobre",
       "heure": "10:00",
