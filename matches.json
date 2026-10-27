@@ -13,6 +13,11 @@
     {
       "date": "Vendredi 30 octobre",
       "heure": "18:00",
+      "affiche": "Nice - Rennes Ligue 1"
+    },
+    {
+      "date": "Vendredi 30 octobre",
+      "heure": "18:00",
       "affiche": "Le Havre - PSG Ligue 1"
     },
     {
@@ -67,11 +72,6 @@
     },
     {
       "date": "Samedi 31 octobre",
-      "heure": "16:15",
-      "affiche": "Nice - Rennes Ligue 1"
-    },
-    {
-      "date": "Samedi 31 octobre",
       "heure": "17:00",
       "affiche": "Montpellier F - Lyon F D1 Féminine"
     },
@@ -99,11 +99,6 @@
       "date": "Samedi 31 octobre",
       "heure": "19:45",
       "affiche": "Lyon - Angers Ligue 1"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:45",
-      "affiche": "Lorient - Brest Ligue 1"
     },
     {
       "date": "Samedi 31 octobre",
