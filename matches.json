@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 26 octobre",
-      "heure": "19:30",
-      "affiche": "PSG - Lyon Ligue 1"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "19:45",
-      "affiche": "Montpellier - Red Star Ligue 2"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "19:45",
-      "affiche": "Boulogne - Reims Ligue 2"
-    },
-    {
       "date": "Mercredi 28 octobre",
       "heure": "20:00",
       "affiche": "Lyon F - Inter Milan F Ligue des Champions Féminine"
@@ -124,6 +109,26 @@
       "date": "Samedi 31 octobre",
       "heure": "19:45",
       "affiche": "Troyes - Le Mans Ligue 1"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "13:30",
+      "affiche": "Paris FC F - PSG F D1 Féminine"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "Strasbourg - Auxerre Ligue 1"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "16:15",
+      "affiche": "Paris FC - Monaco Ligue 1"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "19:45",
+      "affiche": "Marseille - Toulouse Ligue 1"
     }
   ],
   "Angleterre": [
@@ -226,19 +231,14 @@
       "date": "Samedi 31 octobre",
       "heure": "19:00",
       "affiche": "Sporting Kansas City - FC Dallas MLS"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "21:30",
+      "affiche": "Atlanta United FC - Toronto FC MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "18:45",
-      "affiche": "Santa Clara - Benfica Primeira Liga"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "20:00",
-      "affiche": "FC Séville - Osasuna Liga"
-    },
     {
       "date": "Mercredi 28 octobre",
       "heure": "17:45",
@@ -303,6 +303,36 @@
       "date": "Samedi 31 octobre",
       "heure": "20:00",
       "affiche": "FC Barcelone - Alavés Liga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "13:00",
+      "affiche": "Getafe - FC Séville Liga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:30",
+      "affiche": "Union Berlin - Cologne Bundesliga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "15:15",
+      "affiche": "Racing Santander - Real Madrid Liga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "16:30",
+      "affiche": "Francfort - Hambourg Bundesliga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "17:30",
+      "affiche": "Elche - Valence Liga"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "20:00",
+      "affiche": "Athletic Bilbao - Real Sociedad Liga"
     }
   ],
   "Italie": [
@@ -380,6 +410,31 @@
       "date": "Samedi 31 octobre",
       "heure": "19:45",
       "affiche": "AC Milan - Inter Milan Serie A"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "11:30",
+      "affiche": "Côme - Venise Serie A"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "Lazio Rome - Cagliari Serie A"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "Frosinone - Torino Serie A"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "17:00",
+      "affiche": "Lecce - Genoa Serie A"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "19:45",
+      "affiche": "Juventus Turin - Naples Serie A"
     }
   ],
   "Allemagne": [
@@ -415,31 +470,6 @@
     }
   ],
   "Europe": [
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "16:00",
-      "affiche": "Al-Ahli Saudi - Al-Gharafa Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "16:00",
-      "affiche": "Al Ain - Tractor Sazi Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "18:15",
-      "affiche": "Al-Nassr - Al-Wasl FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "18:15",
-      "affiche": "Al Quwa Al Jawiya - Pakhtakor Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "18:15",
-      "affiche": "Al-Qadisiyah FC - Al Sadd Ligue des champions d'Asie"
-    },
     {
       "date": "Mardi 27 octobre",
       "heure": "10:00",
@@ -482,21 +512,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "01:00",
-      "affiche": "Los Angeles FC - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "16:00",
-      "affiche": "Rizespor - Trabzonspor Süper Lig"
-    },
-    {
-      "date": "Lundi 26 octobre",
-      "heure": "18:30",
-      "affiche": "Galatasaray - Fenerbahçe Süper Lig"
-    },
     {
       "date": "Mardi 27 octobre",
       "heure": "17:00",
@@ -671,6 +686,21 @@
       "date": "Samedi 31 octobre",
       "heure": "21:00",
       "affiche": "Los Angeles Galaxy - Austin FC MLS"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "01:30",
+      "affiche": "Colorado Rapids - Chicago Fire MLS"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "21:30",
+      "affiche": "Vancouver Whitecaps - Seattle Sounders MLS"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "21:30",
+      "affiche": "Nashville SC - New York Red Bulls MLS"
     }
   ]
 }
