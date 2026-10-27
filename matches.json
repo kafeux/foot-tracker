@@ -199,6 +199,11 @@
     },
     {
       "date": "Jeudi 29 octobre",
+      "heure": "19:45",
+      "affiche": "Everton - Newcastle League Cup"
+    },
+    {
+      "date": "Jeudi 29 octobre",
       "heure": "20:00",
       "affiche": "Manchester City F - PSG F Ligue des Champions Féminine"
     },
@@ -501,6 +506,11 @@
       "affiche": "Shabab AlAhli - Esteghlal FC Ligue des champions d'Asie"
     },
     {
+      "date": "Mardi 27 octobre",
+      "heure": "18:15",
+      "affiche": "Al Shamal - Al-Hilal Ligue des champions d'Asie"
+    },
+    {
       "date": "Mercredi 28 octobre",
       "heure": "10:00",
       "affiche": "Kashima Antlers - Pohang Steelers Ligue des champions d'Asie"
@@ -616,6 +626,11 @@
       "date": "Jeudi 29 octobre",
       "heure": "02:30",
       "affiche": "Vancouver Whitecaps - San Diego MLS"
+    },
+    {
+      "date": "Jeudi 29 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Nassr - Al Kholood Saudi Pro League"
     },
     {
       "date": "Jeudi 29 octobre",
