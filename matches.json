@@ -124,19 +124,19 @@
       "date": "Dimanche 1 novembre",
       "heure": "19:45",
       "affiche": "Marseille - Toulouse Ligue 1"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "19:45",
+      "affiche": "Lorient - Brest Ligue 1"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "19:45",
+      "affiche": "Red Star - Nancy Ligue 2"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "10:00",
-      "affiche": "Kyoto Sanga - Newcastle Jets Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "20:00",
-      "affiche": "Fleetwood Town - Arsenal League Cup"
-    },
     {
       "date": "Mercredi 28 octobre",
       "heure": "10:00",
@@ -236,6 +236,11 @@
       "date": "Dimanche 1 novembre",
       "heure": "21:30",
       "affiche": "Atlanta United FC - Toronto FC MLS"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "01:30",
+      "affiche": "Los Angeles FC - Minnesota United FC MLS"
     }
   ],
   "Espagne": [
@@ -333,24 +338,14 @@
       "date": "Dimanche 1 novembre",
       "heure": "20:00",
       "affiche": "Athletic Bilbao - Real Sociedad Liga"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "20:00",
+      "affiche": "Deportivo La Corogne - Osasuna Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "17:30",
-      "affiche": "Sassuolo - Lazio Rome Serie A"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "Torino - Côme Serie A"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "AS Roma - Cagliari Serie A"
-    },
     {
       "date": "Mercredi 28 octobre",
       "heure": "17:30",
@@ -435,24 +430,24 @@
       "date": "Dimanche 1 novembre",
       "heure": "19:45",
       "affiche": "Juventus Turin - Naples Serie A"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "00:00",
+      "affiche": "New England Revolution - Inter Miami MLS"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "17:30",
+      "affiche": "Sassuolo - Fiorentina Serie A"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "19:45",
+      "affiche": "Atalanta - Parme Serie A"
     }
   ],
   "Allemagne": [
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "17:00",
-      "affiche": "Hambourg - Francfort Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "17:00",
-      "affiche": "Rot-weiss Essen - RB Leipzig Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "Borussia Dortmund - Werder Brême Coupe d'Allemagne"
-    },
     {
       "date": "Mercredi 28 octobre",
       "heure": "17:00",
@@ -471,41 +466,6 @@
   ],
   "Europe": [
     {
-      "date": "Mardi 27 octobre",
-      "heure": "10:00",
-      "affiche": "SHANGHAI SIPG - Công An Nhân Dân Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "10:00",
-      "affiche": "Johor Darul Takzim FC - Port FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "10:00",
-      "affiche": "Daejeon Citizen - Vissel Kobe Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "12:15",
-      "affiche": "Beijing Guoan - Jeonbuk Motors Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "12:15",
-      "affiche": "Ratchaburi - Kashiwa Reysol Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "16:00",
-      "affiche": "Shabab AlAhli - Esteghlal FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "18:15",
-      "affiche": "Al Shamal - Al-Hilal Ligue des champions d'Asie"
-    },
-    {
       "date": "Mercredi 28 octobre",
       "heure": "10:00",
       "affiche": "Kashima Antlers - Pohang Steelers Ligue des champions d'Asie"
@@ -517,36 +477,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "17:00",
-      "affiche": "Bochum - Mayence Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "17:00",
-      "affiche": "SG Sonnenhof - Augsbourg Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "Cologne - Union Berlin Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "Monchengladbach - Karlsruhe Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "SV Elversberg - Darmstadt Coupe d'Allemagne"
-    },
-    {
-      "date": "Mardi 27 octobre",
-      "heure": "19:45",
-      "affiche": "Bradford - Peterborough League Cup"
-    },
     {
       "date": "Mercredi 28 octobre",
       "heure": "17:00",
@@ -711,6 +641,11 @@
       "date": "Dimanche 1 novembre",
       "heure": "21:30",
       "affiche": "Nashville SC - New York Red Bulls MLS"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "02:30",
+      "affiche": "Portland Timbers - Houston Dynamo MLS"
     }
   ]
 }
