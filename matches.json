@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 28 octobre",
-      "heure": "20:00",
-      "affiche": "Lyon F - Inter Milan F Ligue des Champions Féminine"
-    },
-    {
       "date": "Jeudi 29 octobre",
       "heure": "15:00",
       "affiche": "Chine 17 F - France U17 F Coupe du Monde U17 féminine"
@@ -149,39 +144,14 @@
       "date": "Lundi 2 novembre",
       "heure": "19:45",
       "affiche": "Red Star - Nancy Ligue 2"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Bodo Glimt - Lille Ligue des Champions"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "10:00",
-      "affiche": "Gamba Osaka - Buriram United Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:45",
-      "affiche": "Chelsea F - AS Roma F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:30",
-      "affiche": "Manchester City - Brighton League Cup"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Bournemouth - Aston Villa League Cup"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "20:00",
-      "affiche": "Arsenal F - SL Benfica F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "20:00",
-      "affiche": "Liverpool - Chelsea League Cup"
-    },
     {
       "date": "Jeudi 29 octobre",
       "heure": "23:30",
@@ -321,14 +291,34 @@
       "date": "Lundi 2 novembre",
       "heure": "20:00",
       "affiche": "Newcastle - Everton Premier League"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "07:45",
+      "affiche": "Newcastle Jets - SHANGHAI SIPG Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "13:00",
+      "affiche": "Manchester United U19 - AS Roma U19 Youth League"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Villarreal - PSG Ligue des Champions"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "FC Barcelone - Aston Villa Ligue des Champions"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Manchester United - AS Roma Ligue des Champions"
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:45",
-      "affiche": "Bayern Munich F - Real Madrid F Ligue des Champions Féminine"
-    },
     {
       "date": "Jeudi 29 octobre",
       "heure": "20:00",
@@ -458,34 +448,14 @@
       "date": "Lundi 2 novembre",
       "heure": "20:15",
       "affiche": "Benfica - Alverca Primeira Liga"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Atlético Madrid - Bayern Munich Ligue des Champions"
     }
   ],
   "Italie": [
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:30",
-      "affiche": "Venise - Inter Milan Serie A"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:30",
-      "affiche": "Parme - Udinese Serie A"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:30",
-      "affiche": "AC Milan - Bologne Serie A"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Monza - Naples Serie A"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Genoa - Juventus Turin Serie A"
-    },
     {
       "date": "Jeudi 29 octobre",
       "heure": "23:30",
@@ -570,36 +540,21 @@
       "date": "Lundi 2 novembre",
       "heure": "19:45",
       "affiche": "Atalanta - Parme Serie A"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Feyenoord - Inter Milan Ligue des Champions"
     }
   ],
   "Allemagne": [
     {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:00",
-      "affiche": "Paderborn - Stuttgart Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Bayern Munich - FC Magdebourg Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Bayer Leverkusen - Nuremberg Coupe d'Allemagne"
+      "date": "Mardi 3 novembre",
+      "heure": "17:45",
+      "affiche": "Galatasaray - Stuttgart Ligue des Champions"
     }
   ],
   "Europe": [
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "10:00",
-      "affiche": "Kashima Antlers - Pohang Steelers Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:45",
-      "affiche": "Servette Chênois F - OH Louvain F Ligue des Champions Féminine"
-    },
     {
       "date": "Lundi 2 novembre",
       "heure": "13:45",
@@ -629,44 +584,54 @@
       "date": "Lundi 2 novembre",
       "heure": "18:15",
       "affiche": "Al-Ittihad - Al Ain Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "10:00",
+      "affiche": "Kashiwa Reysol - Daejeon Citizen Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "10:00",
+      "affiche": "Vissel Kobe - Ratchaburi Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "10:00",
+      "affiche": "Jeonbuk Motors - Johor Darul Takzim FC Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "12:15",
+      "affiche": "Port FC - Beijing Guoan Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "12:15",
+      "affiche": "Công An Nhân Dân - Kyoto Sanga Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "16:00",
+      "affiche": "Esteghlal FC - Al Shamal Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "17:45",
+      "affiche": "Shakhtar Donetsk - Sporting CP Ligue des Champions"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "18:15",
+      "affiche": "Al-Hilal - Shabab AlAhli Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Lask Linz - Slovan Bratislava Ligue des Champions"
     }
   ],
   "Autres": [
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:00",
-      "affiche": "Fribourg - Wolfsbourg Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:00",
-      "affiche": "Dynamo Dresde - Schalke 04 Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "17:00",
-      "affiche": "SSV Jeddeloh - Hertha BSC Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Holstein Kiel - Hoffenheim Coupe d'Allemagne"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Sunderland - Brentford League Cup"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Fulham - Crystal Palace League Cup"
-    },
-    {
-      "date": "Mercredi 28 octobre",
-      "heure": "19:45",
-      "affiche": "Hannover 96 - Kaiserslautern Coupe d'Allemagne"
-    },
     {
       "date": "Jeudi 29 octobre",
       "heure": "23:30",
