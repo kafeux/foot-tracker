@@ -103,11 +103,6 @@
     {
       "date": "Samedi 31 octobre",
       "heure": "19:45",
-      "affiche": "Lyon - Angers Ligue 1"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:45",
       "affiche": "Troyes - Le Mans Ligue 1"
     },
     {
@@ -124,6 +119,11 @@
       "date": "Dimanche 1 novembre",
       "heure": "14:00",
       "affiche": "Strasbourg - Auxerre Ligue 1"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "16:15",
+      "affiche": "Lyon - Angers Ligue 1"
     },
     {
       "date": "Dimanche 1 novembre",
@@ -751,6 +751,11 @@
       "date": "Samedi 31 octobre",
       "heure": "18:00",
       "affiche": "FC Cincinnati - Philadelphia Union MLS"
+    },
+    {
+      "date": "Samedi 31 octobre",
+      "heure": "18:00",
+      "affiche": "Al-Hilal - Al-Fateh Saudi Pro League"
     },
     {
       "date": "Samedi 31 octobre",
