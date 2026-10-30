@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 29 octobre",
-      "heure": "15:00",
-      "affiche": "Chine 17 F - France U17 F Coupe du Monde U17 féminine"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "17:45",
-      "affiche": "Paris FC F - Häcken F Ligue des Champions Féminine"
-    },
-    {
       "date": "Vendredi 30 octobre",
       "heure": "18:00",
       "affiche": "Nice - Rennes Ligue 1"
@@ -149,44 +139,19 @@
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Bodo Glimt - Lille Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "13:00",
+      "affiche": "Lens U19 - Como U19 Youth League"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "Lens - Côme Ligue des Champions"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "23:30",
-      "affiche": "New York City FC - Atlanta United FC MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "23:30",
-      "affiche": "Toronto FC - DC United MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "St. Louis City - Portland Timbers MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "Minnesota United FC - Sporting Kansas City MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "Chicago Fire - Orlando City SC MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "19:45",
-      "affiche": "Everton - Newcastle League Cup"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "20:00",
-      "affiche": "Manchester City F - PSG F Ligue des Champions Féminine"
-    },
     {
       "date": "Vendredi 30 octobre",
       "heure": "20:00",
@@ -316,14 +281,29 @@
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Manchester United - AS Roma Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "12:15",
+      "affiche": "Buriram United - Kashima Antlers Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "17:45",
+      "affiche": "Fenerbahçe - Liverpool Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "RB Leipzig - Manchester City Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "Slavia Prague - Arsenal Ligue des Champions"
     }
   ],
   "Espagne": [
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "20:00",
-      "affiche": "Køge F - FC Barcelone F Ligue des Champions Féminine"
-    },
     {
       "date": "Vendredi 30 octobre",
       "heure": "19:30",
@@ -453,29 +433,19 @@
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Atlético Madrid - Bayern Munich Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "17:45",
+      "affiche": "AEK Athènes - Real Madrid Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "Borussia Dortmund - Betis Séville Ligue des Champions"
     }
   ],
   "Italie": [
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "23:30",
-      "affiche": "Inter Miami - FC Cincinnati MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "17:30",
-      "affiche": "Frosinone - Lecce Serie A"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "17:45",
-      "affiche": "Austria Vienne F - Juventus F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "19:45",
-      "affiche": "Fiorentina - Atalanta Serie A"
-    },
     {
       "date": "Samedi 31 octobre",
       "heure": "14:00",
@@ -545,6 +515,11 @@
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Feyenoord - Inter Milan Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "FC Porto - Naples Ligue des Champions"
     }
   ],
   "Allemagne": [
@@ -629,59 +604,29 @@
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Lask Linz - Slovan Bratislava Ligue des Champions"
+    },
+    {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "10:00",
+      "affiche": "Pohang Steelers - Gamba Osaka Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "PSV Eindhoven - Club Bruges Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "Viking - Sabah FA Ligue des Champions"
     }
   ],
   "Autres": [
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "23:30",
-      "affiche": "New England Revolution - New York Red Bulls MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "23:30",
-      "affiche": "Charlotte FC - CF Montreal MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "Austin FC - Real Salt Lake MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "Nashville SC - Philadelphia Union MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "00:30",
-      "affiche": "FC Dallas - Columbus Crew MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "02:30",
-      "affiche": "San Jose Earthquakes - Colorado Rapids MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "02:30",
-      "affiche": "Seattle Sounders - Houston Dynamo MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "02:30",
-      "affiche": "Vancouver Whitecaps - San Diego MLS"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Nassr - Al Kholood Saudi Pro League"
-    },
-    {
-      "date": "Jeudi 29 octobre",
-      "heure": "19:45",
-      "affiche": "Amiens - Thionville Lusitanos Ligue 3"
-    },
     {
       "date": "Vendredi 30 octobre",
       "heure": "17:00",
