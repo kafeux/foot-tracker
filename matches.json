@@ -1,46 +1,6 @@
 {
   "France": [
     {
-      "date": "Samedi 31 octobre",
-      "heure": "13:00",
-      "affiche": "Annecy - Montpellier Ligue 2"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Fleury 91 - Paris 13 Atletico Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Montpellier F - Lyon F D1 Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Strasbourg F - Le Havre F D1 Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Toulouse F - Saint-Malo F D1 Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Lens F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:00",
-      "affiche": "Guingamp - Saint-Étienne Ligue 2"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:45",
-      "affiche": "Troyes - Le Mans Ligue 1"
-    },
-    {
       "date": "Dimanche 1 novembre",
       "heure": "12:30",
       "affiche": "St. Pauli - Nuremberg Bundesliga 2"
@@ -109,94 +69,59 @@
       "date": "Jeudi 5 novembre",
       "heure": "20:00",
       "affiche": "Bayer Leverkusen - Marseille Ligue Europa"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Dijon - Red Star Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Montpellier - Metz Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Saint-Étienne - Laval Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Clermont Foot - Rodez Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Grenoble - Reims Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Nancy - Sochaux Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Dunkerque - Guingamp Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Boulogne - Annecy Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Pau FC - Nantes Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:45",
+      "affiche": "Toulouse - Strasbourg Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "12:30",
-      "affiche": "Chelsea - Manchester United Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "12:30",
-      "affiche": "Stoke City - Preston Championship"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "12:45",
-      "affiche": "Everton F - Manchester United F Women's Super League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Manchester City - Brighton Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Bournemouth - Leeds Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Brentford - Nottingham Forest Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Coventry - Sunderland Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Hull City - Ipswich Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Millwall - Derby Championship"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Charlotte FC - Orlando City SC MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:30",
-      "affiche": "Tottenham - Crystal Palace Premier League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "18:00",
-      "affiche": "New York City FC - CF Montreal MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "18:00",
-      "affiche": "Columbus Crew - DC United MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:00",
-      "affiche": "St. Louis City - San Diego MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:00",
-      "affiche": "Sporting Kansas City - FC Dallas MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "20:00",
-      "affiche": "Aston Villa - Fulham Premier League"
-    },
     {
       "date": "Dimanche 1 novembre",
       "heure": "12:00",
@@ -286,79 +211,14 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Slavia Prague - Arsenal Ligue des Champions"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "20:00",
+      "affiche": "Everton - Coventry Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "12:00",
-      "affiche": "Wolfsbourg - VfL Osnabruck Bundesliga 2"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "12:00",
-      "affiche": "Kaiserslautern - Hertha BSC Bundesliga 2"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:00",
-      "affiche": "Levante - Atlético Madrid Liga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Monchengladbach - Paderborn Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Multiplex - Multiplex Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Werder Brême - Hoffenheim Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Bayer Leverkusen - Stuttgart Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Augsbourg - Fribourg Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:30",
-      "affiche": "Schalke 04 - RB Leipzig Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:15",
-      "affiche": "Rayo Vallecano - Celta Vigo Liga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:30",
-      "affiche": "Betis Séville - Malaga Liga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:30",
-      "affiche": "Bayern Munich - Borussia Dortmund Bundesliga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "20:00",
-      "affiche": "FC Barcelone - Alavés Liga"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "20:30",
-      "affiche": "FC Porto - Estoril Primeira Liga"
-    },
     {
       "date": "Dimanche 1 novembre",
       "heure": "13:00",
@@ -418,29 +278,19 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Borussia Dortmund - Betis Séville Ligue des Champions"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:30",
+      "affiche": "Hambourg - Monchengladbach Bundesliga"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "20:00",
+      "affiche": "FC Séville - Alavés Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "11:30",
-      "affiche": "Ternana F - Como 1907 F Serie A Féminine"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "14:00",
-      "affiche": "Bologne - Monza Serie A"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:00",
-      "affiche": "Udinese - AS Roma Serie A"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:45",
-      "affiche": "AC Milan - Inter Milan Serie A"
-    },
     {
       "date": "Dimanche 1 novembre",
       "heure": "11:30",
@@ -500,6 +350,11 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "FC Porto - Naples Ligue des Champions"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:45",
+      "affiche": "Venise - Udinese Serie A"
     }
   ],
   "Allemagne": [
@@ -612,96 +467,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Cannes - Valenciennes Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "La Roche VF - Bourg-Péronnas Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Rouen - Concarneau Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Versailles - Aubagne Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Le Puy - Caen Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Bastia - Quevilly Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Orléans - Villefranche Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:45",
-      "affiche": "Multiplex - Multiplex Ligue 3"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:00",
-      "affiche": "Malines - Racing Genk Jupiler Pro League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "15:30",
-      "affiche": "Feyenoord - Fortuna Sittard Eredivisie"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "16:00",
-      "affiche": "Fenerbahçe - Goztepe Süper Lig"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "17:45",
-      "affiche": "PSV Eindhoven - Willem II Eredivisie"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "18:00",
-      "affiche": "FC Cincinnati - Philadelphia Union MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "18:00",
-      "affiche": "Al-Hilal - Al-Fateh Saudi Pro League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "19:45",
-      "affiche": "Anderlecht - Westerlo Jupiler Pro League"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "20:00",
-      "affiche": "Ajax Amsterdam - AZ Alkmaar Eredivisie"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "21:00",
-      "affiche": "San Jose Earthquakes - Real Salt Lake MLS"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "21:00",
-      "affiche": "Los Angeles Galaxy - Austin FC MLS"
-    },
     {
       "date": "Dimanche 1 novembre",
       "heure": "01:30",
