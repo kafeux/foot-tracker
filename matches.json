@@ -67,6 +67,11 @@
     },
     {
       "date": "Dimanche 1 novembre",
+      "heure": "16:15",
+      "affiche": "Multiplex - Multiplex Ligue 1"
+    },
+    {
+      "date": "Dimanche 1 novembre",
       "heure": "19:45",
       "affiche": "Marseille - Toulouse Ligue 1"
     },
@@ -116,6 +121,11 @@
       "date": "Samedi 31 octobre",
       "heure": "12:30",
       "affiche": "Stoke City - Preston Championship"
+    },
+    {
+      "date": "Samedi 31 octobre",
+      "heure": "12:45",
+      "affiche": "Everton F - Manchester United F Women's Super League"
     },
     {
       "date": "Samedi 31 octobre",
@@ -186,6 +196,31 @@
       "date": "Samedi 31 octobre",
       "heure": "20:00",
       "affiche": "Aston Villa - Fulham Premier League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "12:00",
+      "affiche": "Arsenal F - Aston Villa F Women's Super League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "12:00",
+      "affiche": "London City Lionesses - Manchester City F Women's Super League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "Birmingham City F - Tottenham F Women's Super League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "West Ham F - Liverpool F Women's Super League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:30",
+      "affiche": "Charlton Athletic F - Chelsea F Women's Super League"
     },
     {
       "date": "Dimanche 1 novembre",
@@ -386,6 +421,11 @@
     }
   ],
   "Italie": [
+    {
+      "date": "Samedi 31 octobre",
+      "heure": "11:30",
+      "affiche": "Ternana F - Como 1907 F Serie A Féminine"
+    },
     {
       "date": "Samedi 31 octobre",
       "heure": "14:00",
@@ -644,6 +684,11 @@
     },
     {
       "date": "Samedi 31 octobre",
+      "heure": "19:45",
+      "affiche": "Anderlecht - Westerlo Jupiler Pro League"
+    },
+    {
+      "date": "Samedi 31 octobre",
       "heure": "20:00",
       "affiche": "Ajax Amsterdam - AZ Alkmaar Eredivisie"
     },
@@ -664,8 +709,23 @@
     },
     {
       "date": "Dimanche 1 novembre",
+      "heure": "04:00",
+      "affiche": "Yokohama FM - Kawasaki Frontale J-League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "07:00",
+      "affiche": "Machida Zelvia - Gamba Osaka J-League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
       "heure": "13:00",
       "affiche": "Trabzonspor - Gaziantep FK Süper Lig"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "14:00",
+      "affiche": "Brighton F - Crystal Palace F Women's Super League"
     },
     {
       "date": "Dimanche 1 novembre",
