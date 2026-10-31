@@ -1,64 +1,9 @@
 {
   "France": [
     {
-      "date": "Vendredi 30 octobre",
-      "heure": "18:00",
-      "affiche": "Nice - Rennes Ligue 1"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "18:00",
-      "affiche": "Le Havre - PSG Ligue 1"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Nantes - Clermont Foot Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Laval - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Metz - Pau FC Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Rodez - Dunkerque Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Grenoble - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "20:00",
-      "affiche": "Marseille F - Nantes F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "20:05",
-      "affiche": "Lille - Lens Ligue 1"
-    },
-    {
       "date": "Samedi 31 octobre",
       "heure": "13:00",
       "affiche": "Annecy - Montpellier Ligue 2"
-    },
-    {
-      "date": "Samedi 31 octobre",
-      "heure": "13:00",
-      "affiche": "Reims - Sochaux Ligue 2"
     },
     {
       "date": "Samedi 31 octobre",
@@ -133,6 +78,11 @@
     {
       "date": "Lundi 2 novembre",
       "heure": "19:45",
+      "affiche": "Reims - Sochaux Ligue 2"
+    },
+    {
+      "date": "Lundi 2 novembre",
+      "heure": "19:45",
       "affiche": "Red Star - Nancy Ligue 2"
     },
     {
@@ -149,14 +99,14 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Lens - Côme Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Bayer Leverkusen - Marseille Ligue Europa"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "20:00",
-      "affiche": "Villarreal - Espanyol Barcelone Liga"
-    },
     {
       "date": "Samedi 31 octobre",
       "heure": "12:30",
@@ -304,16 +254,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "19:30",
-      "affiche": "SV Elversberg - Mayence Bundesliga"
-    },
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "20:15",
-      "affiche": "Casa Pia - Sporting CP Primeira Liga"
-    },
     {
       "date": "Samedi 31 octobre",
       "heure": "12:00",
@@ -624,14 +564,14 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Viking - Sabah FA Ligue des Champions"
+    },
+    {
+      "date": "Mercredi 4 novembre",
+      "heure": "20:00",
+      "affiche": "Multiplex - Multiplex Ligue des Champions"
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 30 octobre",
-      "heure": "17:00",
-      "affiche": "Konyaspor - Galatasaray Süper Lig"
-    },
     {
       "date": "Samedi 31 octobre",
       "heure": "13:45",
@@ -741,6 +681,11 @@
       "date": "Lundi 2 novembre",
       "heure": "02:45",
       "affiche": "Portland Timbers - Houston Dynamo MLS"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "19:45",
+      "affiche": "Valenciennes - Orléans Ligue 3"
     }
   ]
 }
