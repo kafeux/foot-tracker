@@ -193,6 +193,11 @@
       "affiche": "Manchester United - AS Roma Ligue des Champions"
     },
     {
+      "date": "Mardi 3 novembre",
+      "heure": "20:00",
+      "affiche": "West Bromwich - Southampton Championship"
+    },
+    {
       "date": "Mercredi 4 novembre",
       "heure": "12:15",
       "affiche": "Buriram United - Kashima Antlers Ligue des champions d'Asie"
@@ -491,6 +496,11 @@
       "date": "Dimanche 1 novembre",
       "heure": "14:00",
       "affiche": "Brighton F - Crystal Palace F Women's Super League"
+    },
+    {
+      "date": "Dimanche 1 novembre",
+      "heure": "15:00",
+      "affiche": "Saint-Trond - Louvain Jupiler Pro League"
     },
     {
       "date": "Dimanche 1 novembre",
