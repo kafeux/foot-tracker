@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 1 novembre",
-      "heure": "12:30",
-      "affiche": "St. Pauli - Nuremberg Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "13:30",
-      "affiche": "Paris FC F - PSG F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "Strasbourg - Auxerre Ligue 1"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "16:15",
-      "affiche": "Lyon - Angers Ligue 1"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "16:15",
-      "affiche": "Paris FC - Monaco Ligue 1"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "16:15",
-      "affiche": "Multiplex - Multiplex Ligue 1"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "19:45",
-      "affiche": "Marseille - Toulouse Ligue 1"
-    },
-    {
       "date": "Lundi 2 novembre",
       "heure": "19:45",
       "affiche": "Lorient - Brest Ligue 1"
@@ -119,44 +84,24 @@
       "date": "Vendredi 6 novembre",
       "heure": "19:45",
       "affiche": "Toulouse - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Paris 13 Atletico - La Roche VF Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "16:15",
+      "affiche": "Auxerre - Paris FC Ligue 1"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "19:45",
+      "affiche": "PSG - Troyes Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "12:00",
-      "affiche": "Arsenal F - Aston Villa F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "12:00",
-      "affiche": "London City Lionesses - Manchester City F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "Birmingham City F - Tottenham F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "West Ham F - Liverpool F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:30",
-      "affiche": "Charlton Athletic F - Chelsea F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "16:30",
-      "affiche": "Liverpool - Arsenal Premier League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "21:30",
-      "affiche": "Atlanta United FC - Toronto FC MLS"
-    },
     {
       "date": "Lundi 2 novembre",
       "heure": "01:30",
@@ -221,44 +166,24 @@
       "date": "Vendredi 6 novembre",
       "heure": "20:00",
       "affiche": "Everton - Coventry Premier League"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "New York Red Bulls - Atlanta United FC MLS"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "Orlando City SC - New England Revolution MLS"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "DC United - New York City FC MLS"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "13:00",
-      "affiche": "Getafe - FC Séville Liga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:30",
-      "affiche": "Union Berlin - Cologne Bundesliga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "15:15",
-      "affiche": "Racing Santander - Real Madrid Liga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "16:30",
-      "affiche": "Francfort - Hambourg Bundesliga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "17:30",
-      "affiche": "Elche - Valence Liga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "20:00",
-      "affiche": "Athletic Bilbao - Real Sociedad Liga"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "20:30",
-      "affiche": "Braga - Famalicao Primeira Liga"
-    },
     {
       "date": "Lundi 2 novembre",
       "heure": "20:00",
@@ -293,39 +218,54 @@
       "date": "Vendredi 6 novembre",
       "heure": "20:00",
       "affiche": "FC Séville - Alavés Liga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:00",
+      "affiche": "Malaga - Racing Santander Liga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "Mayence - Bayern Munich Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "Borussia Dortmund - SV Elversberg Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "RB Leipzig - Augsbourg Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "Paderborn - Francfort Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "15:15",
+      "affiche": "Espanyol Barcelone - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:30",
+      "affiche": "Osasuna - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:30",
+      "affiche": "Stuttgart - Werder Brême Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "20:00",
+      "affiche": "Valence - Real Madrid Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "11:30",
-      "affiche": "Côme - Venise Serie A"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "11:30",
-      "affiche": "Inter Milan F - Lazio F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "Lazio Rome - Cagliari Serie A"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "Frosinone - Torino Serie A"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "17:00",
-      "affiche": "Lecce - Genoa Serie A"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "19:45",
-      "affiche": "Juventus Turin - Naples Serie A"
-    },
     {
       "date": "Lundi 2 novembre",
       "heure": "00:00",
@@ -360,6 +300,31 @@
       "date": "Vendredi 6 novembre",
       "heure": "19:45",
       "affiche": "Venise - Udinese Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:00",
+      "affiche": "Cagliari - Frosinone Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:00",
+      "affiche": "Torino - Lecce Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:00",
+      "affiche": "Parme - Bologne Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "19:45",
+      "affiche": "AS Roma - Sassuolo Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "Inter Miami - Charlotte FC MLS"
     }
   ],
   "Allemagne": [
@@ -473,46 +438,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 1 novembre",
-      "heure": "01:30",
-      "affiche": "Colorado Rapids - Chicago Fire MLS"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "04:00",
-      "affiche": "Yokohama FM - Kawasaki Frontale J-League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "07:00",
-      "affiche": "Machida Zelvia - Gamba Osaka J-League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "13:00",
-      "affiche": "Trabzonspor - Gaziantep FK Süper Lig"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "14:00",
-      "affiche": "Brighton F - Crystal Palace F Women's Super League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "15:00",
-      "affiche": "Saint-Trond - Louvain Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "20:30",
-      "affiche": "Vancouver Whitecaps - Seattle Sounders MLS"
-    },
-    {
-      "date": "Dimanche 1 novembre",
-      "heure": "21:30",
-      "affiche": "Nashville SC - New York Red Bulls MLS"
-    },
-    {
       "date": "Lundi 2 novembre",
       "heure": "02:45",
       "affiche": "Portland Timbers - Houston Dynamo MLS"
@@ -521,6 +446,61 @@
       "date": "Jeudi 5 novembre",
       "heure": "19:45",
       "affiche": "Valenciennes - Orléans Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Thionville Lusitanos - Cannes Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Aubagne - Amiens Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Rouen - Bastia Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Villefranche - Quevilly Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Concarneau - Fleury 91 Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Bourg-Péronnas - Le Puy Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:45",
+      "affiche": "Caen - Versailles Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "FC Cincinnati - Nashville SC MLS"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "Philadelphia Union - Toronto FC MLS"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "CF Montreal - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "21:00",
+      "affiche": "Chicago Fire - Columbus Crew MLS"
     }
   ]
 }
