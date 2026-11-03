@@ -12,13 +12,33 @@
     },
     {
       "date": "Mercredi 4 novembre",
+      "heure": "15:30",
+      "affiche": "Rennes - Olympiakos Ligue Europa"
+    },
+    {
+      "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Lens - Côme Ligue des Champions"
     },
     {
       "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Real Sociedad - Lyon Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Lillestrom - Pilsen Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
       "heure": "20:00",
       "affiche": "Bayer Leverkusen - Marseille Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Monaco - FC Nordsjaelland Ligue Europa Conférence"
     },
     {
       "date": "Vendredi 6 novembre",
@@ -332,6 +352,26 @@
       "affiche": "FC Porto - Naples Ligue des Champions"
     },
     {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "AC Milan - Ferencvaros Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Atalanta - Kairat Almaty Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Étoile Rouge Belgrade - Inter Club d'Escaldes Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "AZ Alkmaar - Juventus Turin Ligue Europa"
+    },
+    {
       "date": "Vendredi 6 novembre",
       "heure": "19:45",
       "affiche": "Venise - Udinese Serie A"
@@ -464,6 +504,146 @@
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "Multiplex - Multiplex Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Crystal Palace - Hoffenheim Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Sparta Prague - Bournemouth Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Anderlecht - RB Salzbourg Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "NEC Nimègue - Omonia Nicosie Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Levski Sofia - Jagiellonia Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Midtjylland - Ajax Amsterdam Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Aarhus - Braga Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Lincoln Red Imps FC - Hajduk Split Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Trabzonspor - Fribourg Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "FC Thoune - Heart of Midlothian Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "KuPS - La Gantoise Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Mjallby AIF - Borac Banja Luka Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "17:45",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Celtic Glasgow - Besiktas Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Sunderland - Dinamo Zagreb Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Benfica - Lech Poznan Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Celta Vigo - Union Saint-Gilloise Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Sturm Graz - Celje Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Hapoel Beer Sheva - OFI Crète Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Torreense - Ararat-Armenia Ligue Europa"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Copenhague - FC Iberia 1999 Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Twente - Pafos Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Getafe - Brighton Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Panathinaikos - CSKA Sofia Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Universitatea Craiova - Egnatia Rrogozhinë Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Saint-Trond - Brann Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Riga - FK Jablonec Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 5 novembre",
+      "heure": "20:00",
+      "affiche": "Multiplex - Multi-Live Ligue Europa"
     }
   ],
   "Autres": [
