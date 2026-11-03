@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 2 novembre",
-      "heure": "19:45",
-      "affiche": "Lorient - Brest Ligue 1"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "19:45",
-      "affiche": "Reims - Sochaux Ligue 2"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "19:45",
-      "affiche": "Red Star - Nancy Ligue 2"
-    },
-    {
       "date": "Mardi 3 novembre",
       "heure": "20:00",
       "affiche": "Bodo Glimt - Lille Ligue des Champions"
@@ -99,19 +84,39 @@
       "date": "Samedi 7 novembre",
       "heure": "19:45",
       "affiche": "PSG - Troyes Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Rennes - Lille Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:15",
+      "affiche": "Angers - Nice Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:15",
+      "affiche": "Brest - Lyon Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:15",
+      "affiche": "Le Havre - Lorient Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:15",
+      "affiche": "Le Mans - Monaco Ligue 1"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "19:45",
+      "affiche": "Lens - Marseille Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "01:30",
-      "affiche": "Los Angeles FC - Minnesota United FC MLS"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "20:00",
-      "affiche": "Newcastle - Everton Premier League"
-    },
     {
       "date": "Mardi 3 novembre",
       "heure": "07:45",
@@ -186,19 +191,29 @@
       "date": "Samedi 7 novembre",
       "heure": "21:00",
       "affiche": "DC United - New York City FC MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "San Diego - Sporting Kansas City MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "Minnesota United FC - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "Houston Dynamo - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "17:30",
+      "affiche": "Villarreal - Getafe Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "20:00",
-      "affiche": "Deportivo La Corogne - Osasuna Liga"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "20:15",
-      "affiche": "Benfica - Alverca Primeira Liga"
-    },
     {
       "date": "Mardi 3 novembre",
       "heure": "20:00",
@@ -268,29 +283,44 @@
       "date": "Samedi 7 novembre",
       "heure": "20:00",
       "affiche": "Valence - Real Madrid Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "13:00",
+      "affiche": "Elche - Betis Séville Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:30",
+      "affiche": "Cologne - Bayer Leverkusen Bundesliga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "15:15",
+      "affiche": "Real Sociedad - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:30",
+      "affiche": "Fribourg - Union Berlin Bundesliga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "17:30",
+      "affiche": "Celta Vigo - Levante Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "18:30",
+      "affiche": "Hoffenheim - Schalke 04 Bundesliga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "20:00",
+      "affiche": "Atlético Madrid - FC Barcelone Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "00:00",
-      "affiche": "New England Revolution - Inter Miami MLS"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "17:30",
-      "affiche": "Sassuolo - Fiorentina Serie A"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "19:30",
-      "affiche": "Fiorentina F - Juventus F Serie A Féminine"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "19:45",
-      "affiche": "Atalanta - Parme Serie A"
-    },
     {
       "date": "Mardi 3 novembre",
       "heure": "20:00",
@@ -330,6 +360,31 @@
       "date": "Samedi 7 novembre",
       "heure": "21:00",
       "affiche": "Inter Miami - Charlotte FC MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "11:30",
+      "affiche": "Naples - Lazio Rome Serie A"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Genoa - AC Milan Serie A"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Monza - Atalanta Serie A"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "17:00",
+      "affiche": "Inter Milan - Côme Serie A"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "19:45",
+      "affiche": "Fiorentina - Juventus Turin Serie A"
     }
   ],
   "Allemagne": [
@@ -340,36 +395,6 @@
     }
   ],
   "Europe": [
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "13:45",
-      "affiche": "Pakhtakor - Al-Nassr Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "16:00",
-      "affiche": "Tractor Sazi - Neftchi Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "16:00",
-      "affiche": "Al-Wasl FC - Al Quwa Al Jawiya Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "16:00",
-      "affiche": "Al Sadd - Al-Ahli Saudi Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "18:15",
-      "affiche": "Al-Gharafa - Al-Qadisiyah FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 2 novembre",
-      "heure": "18:15",
-      "affiche": "Al-Ittihad - Al Ain Ligue des champions d'Asie"
-    },
     {
       "date": "Mardi 3 novembre",
       "heure": "10:00",
@@ -443,11 +468,6 @@
   ],
   "Autres": [
     {
-      "date": "Lundi 2 novembre",
-      "heure": "02:45",
-      "affiche": "Portland Timbers - Houston Dynamo MLS"
-    },
-    {
       "date": "Jeudi 5 novembre",
       "heure": "19:45",
       "affiche": "Valenciennes - Orléans Ligue 3"
@@ -506,6 +526,41 @@
       "date": "Samedi 7 novembre",
       "heure": "21:00",
       "affiche": "Chicago Fire - Columbus Crew MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "Seattle Sounders - Los Angeles FC MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "Real Salt Lake - Los Angeles Galaxy MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "FC Dallas - Colorado Rapids MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "00:00",
+      "affiche": "Austin FC - Portland Timbers MLS"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "11:15",
+      "affiche": "Heerenveen - Feyenoord Eredivisie"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "13:30",
+      "affiche": "Twente - Ajax Amsterdam Eredivisie"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "15:45",
+      "affiche": "Cambuur - PSV Eindhoven Eredivisie"
     }
   ]
 }
