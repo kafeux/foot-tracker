@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Bodo Glimt - Lille Ligue des Champions"
-    },
-    {
       "date": "Mercredi 4 novembre",
       "heure": "13:00",
       "affiche": "Lens U19 - Como U19 Youth League"
@@ -138,36 +133,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mardi 3 novembre",
-      "heure": "07:45",
-      "affiche": "Newcastle Jets - SHANGHAI SIPG Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "13:00",
-      "affiche": "Manchester United U19 - AS Roma U19 Youth League"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Villarreal - PSG Ligue des Champions"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "FC Barcelone - Aston Villa Ligue des Champions"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Manchester United - AS Roma Ligue des Champions"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "West Bromwich - Southampton Championship"
-    },
-    {
       "date": "Mercredi 4 novembre",
       "heure": "12:15",
       "affiche": "Buriram United - Kashima Antlers Ligue des champions d'Asie"
@@ -234,11 +199,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Atlético Madrid - Bayern Munich Ligue des Champions"
-    },
     {
       "date": "Mercredi 4 novembre",
       "heure": "17:45",
@@ -342,11 +302,6 @@
   ],
   "Italie": [
     {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Feyenoord - Inter Milan Ligue des Champions"
-    },
-    {
       "date": "Mercredi 4 novembre",
       "heure": "20:00",
       "affiche": "FC Porto - Naples Ligue des Champions"
@@ -427,64 +382,8 @@
       "affiche": "Fiorentina - Juventus Turin Serie A"
     }
   ],
-  "Allemagne": [
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "17:45",
-      "affiche": "Galatasaray - Stuttgart Ligue des Champions"
-    }
-  ],
+  "Allemagne": [],
   "Europe": [
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "10:00",
-      "affiche": "Kashiwa Reysol - Daejeon Citizen Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "10:00",
-      "affiche": "Vissel Kobe - Ratchaburi Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "10:00",
-      "affiche": "Jeonbuk Motors - Johor Darul Takzim FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "12:15",
-      "affiche": "Port FC - Beijing Guoan Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "12:15",
-      "affiche": "Công An Nhân Dân - Kyoto Sanga Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "16:00",
-      "affiche": "Esteghlal FC - Al Shamal Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "17:45",
-      "affiche": "Shakhtar Donetsk - Sporting CP Ligue des Champions"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "18:15",
-      "affiche": "Al-Hilal - Shabab AlAhli Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Lask Linz - Slovan Bratislava Ligue des Champions"
-    },
-    {
-      "date": "Mardi 3 novembre",
-      "heure": "20:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    },
     {
       "date": "Mercredi 4 novembre",
       "heure": "10:00",
