@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 4 novembre",
-      "heure": "13:00",
-      "affiche": "Lens U19 - Como U19 Youth League"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "15:30",
-      "affiche": "Rennes - Olympiakos Ligue Europa"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Lens - Côme Ligue des Champions"
-    },
-    {
       "date": "Jeudi 5 novembre",
       "heure": "17:45",
       "affiche": "Real Sociedad - Lyon Ligue Europa"
@@ -129,34 +114,14 @@
       "date": "Dimanche 8 novembre",
       "heure": "19:45",
       "affiche": "Lens - Marseille Ligue 1"
+    },
+    {
+      "date": "Mardi 10 novembre",
+      "heure": "17:45",
+      "affiche": "Real Madrid F - Paris FC F Ligue des Champions Féminine"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "12:15",
-      "affiche": "Buriram United - Kashima Antlers Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "17:45",
-      "affiche": "Fenerbahçe - Liverpool Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "RB Leipzig - Manchester City Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Slavia Prague - Arsenal Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Bristol City - Wolverhampton Championship"
-    },
     {
       "date": "Vendredi 6 novembre",
       "heure": "20:00",
@@ -196,19 +161,19 @@
       "date": "Dimanche 8 novembre",
       "heure": "17:30",
       "affiche": "Villarreal - Getafe Liga"
+    },
+    {
+      "date": "Mardi 10 novembre",
+      "heure": "17:45",
+      "affiche": "Häcken F - Chelsea F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mardi 10 novembre",
+      "heure": "20:00",
+      "affiche": "Inter Milan F - Manchester City F Ligue des Champions Féminine"
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "17:45",
-      "affiche": "AEK Athènes - Real Madrid Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Borussia Dortmund - Betis Séville Ligue des Champions"
-    },
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:30",
@@ -302,11 +267,6 @@
   ],
   "Italie": [
     {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "FC Porto - Naples Ligue des Champions"
-    },
-    {
       "date": "Jeudi 5 novembre",
       "heure": "17:45",
       "affiche": "AC Milan - Ferencvaros Ligue Europa"
@@ -380,30 +340,21 @@
       "date": "Dimanche 8 novembre",
       "heure": "19:45",
       "affiche": "Fiorentina - Juventus Turin Serie A"
+    },
+    {
+      "date": "Mardi 10 novembre",
+      "heure": "20:00",
+      "affiche": "AS Roma F - Servette Chênois F Ligue des Champions Féminine"
     }
   ],
-  "Allemagne": [],
+  "Allemagne": [
+    {
+      "date": "Mardi 10 novembre",
+      "heure": "20:00",
+      "affiche": "PSG F - Bayern Munich F Ligue des Champions Féminine"
+    }
+  ],
   "Europe": [
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "10:00",
-      "affiche": "Pohang Steelers - Gamba Osaka Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "PSV Eindhoven - Club Bruges Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Viking - Sabah FA Ligue des Champions"
-    },
-    {
-      "date": "Mercredi 4 novembre",
-      "heure": "20:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    },
     {
       "date": "Jeudi 5 novembre",
       "heure": "17:45",
