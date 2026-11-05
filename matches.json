@@ -22,6 +22,21 @@
     },
     {
       "date": "Vendredi 6 novembre",
+      "heure": "18:00",
+      "affiche": "Paris FC F - Montpellier F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "18:00",
+      "affiche": "Nantes F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Montpellier - Metz Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
       "heure": "19:00",
       "affiche": "Boulogne - Annecy Ligue 2"
     },
@@ -29,11 +44,6 @@
       "date": "Vendredi 6 novembre",
       "heure": "19:00",
       "affiche": "Grenoble - Reims Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Montpellier - Metz Ligue 2"
     },
     {
       "date": "Vendredi 6 novembre",
@@ -52,6 +62,11 @@
     },
     {
       "date": "Vendredi 6 novembre",
+      "heure": "19:00",
+      "affiche": "Multiplex - Multiplex Ligue 2"
+    },
+    {
+      "date": "Vendredi 6 novembre",
       "heure": "19:45",
       "affiche": "Toulouse - Strasbourg Ligue 1"
     },
@@ -67,7 +82,17 @@
     },
     {
       "date": "Samedi 7 novembre",
-      "heure": "16:15",
+      "heure": "17:00",
+      "affiche": "Fleury F - Strasbourg F D1 Féminine"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:00",
+      "affiche": "Lens F - Lyon F D1 Féminine"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "18:00",
       "affiche": "Auxerre - Paris FC Ligue 1"
     },
     {
@@ -82,7 +107,12 @@
     },
     {
       "date": "Samedi 7 novembre",
-      "heure": "19:45",
+      "heure": "20:00",
+      "affiche": "Saint-Malo F - Marseille F D1 Féminine"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "20:05",
       "affiche": "PSG - Troyes Ligue 1"
     },
     {
@@ -128,6 +158,41 @@
       "affiche": "Everton - Coventry Premier League"
     },
     {
+      "date": "Vendredi 6 novembre",
+      "heure": "20:00",
+      "affiche": "Derby - Bolton Championship"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "12:30",
+      "affiche": "Leeds - Tottenham Premier League"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "12:30",
+      "affiche": "Wrexham - Wolverhampton Championship"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "15:00",
+      "affiche": "Arsenal - Hull City Premier League"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "15:00",
+      "affiche": "Fulham - Newcastle Premier League"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "15:00",
+      "affiche": "Birmingham - Swansea Championship"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:30",
+      "affiche": "Nottingham Forest - Manchester City Premier League"
+    },
+    {
       "date": "Samedi 7 novembre",
       "heure": "21:00",
       "affiche": "New York Red Bulls - Atlanta United FC MLS"
@@ -159,6 +224,36 @@
     },
     {
       "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Multiplex - Multiplex Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Crystal Palace - Liverpool Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Sunderland - Chelsea Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Brighton - Brentford Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "14:00",
+      "affiche": "Ipswich - Bournemouth Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "16:30",
+      "affiche": "Manchester United - Aston Villa Premier League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
       "heure": "17:30",
       "affiche": "Villarreal - Getafe Liga"
     },
@@ -176,6 +271,11 @@
   "Espagne": [
     {
       "date": "Vendredi 6 novembre",
+      "heure": "17:30",
+      "affiche": "Bayern Munich F - Werder Breme F Bundesliga Féminine"
+    },
+    {
+      "date": "Vendredi 6 novembre",
       "heure": "19:30",
       "affiche": "Hambourg - Monchengladbach Bundesliga"
     },
@@ -191,6 +291,11 @@
     },
     {
       "date": "Samedi 7 novembre",
+      "heure": "13:00",
+      "affiche": "Bayer Leverkusen F - Hambourg F Bundesliga Féminine"
+    },
+    {
+      "date": "Samedi 7 novembre",
       "heure": "14:30",
       "affiche": "Mayence - Bayern Munich Bundesliga"
     },
@@ -202,12 +307,17 @@
     {
       "date": "Samedi 7 novembre",
       "heure": "14:30",
-      "affiche": "RB Leipzig - Augsbourg Bundesliga"
+      "affiche": "Multiplex - Multiplex Bundesliga"
     },
     {
       "date": "Samedi 7 novembre",
       "heure": "14:30",
       "affiche": "Paderborn - Francfort Bundesliga"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "RB Leipzig - Augsbourg Bundesliga"
     },
     {
       "date": "Samedi 7 novembre",
@@ -230,9 +340,19 @@
       "affiche": "Valence - Real Madrid Liga"
     },
     {
+      "date": "Samedi 7 novembre",
+      "heure": "20:30",
+      "affiche": "Sporting CP - Moreirense Primeira Liga"
+    },
+    {
       "date": "Dimanche 8 novembre",
       "heure": "13:00",
       "affiche": "Elche - Betis Séville Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "13:00",
+      "affiche": "Union Berlin F - Hoffenheim F Bundesliga Féminine"
     },
     {
       "date": "Dimanche 8 novembre",
@@ -256,6 +376,11 @@
     },
     {
       "date": "Dimanche 8 novembre",
+      "heure": "18:00",
+      "affiche": "Vitória SC - FC Porto Primeira Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
       "heure": "18:30",
       "affiche": "Hoffenheim - Schalke 04 Bundesliga"
     },
@@ -263,6 +388,16 @@
       "date": "Dimanche 8 novembre",
       "heure": "20:00",
       "affiche": "Atlético Madrid - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "20:30",
+      "affiche": "Estrela - Benfica Primeira Liga"
+    },
+    {
+      "date": "Lundi 9 novembre",
+      "heure": "17:00",
+      "affiche": "Cologne F - RB Leipzig F Bundesliga Féminine"
     }
   ],
   "Italie": [
@@ -293,6 +428,11 @@
     },
     {
       "date": "Samedi 7 novembre",
+      "heure": "11:30",
+      "affiche": "Como 1907 F - AS Roma F Serie A Féminine"
+    },
+    {
+      "date": "Samedi 7 novembre",
       "heure": "14:00",
       "affiche": "Cagliari - Frosinone Serie A"
     },
@@ -300,6 +440,11 @@
       "date": "Samedi 7 novembre",
       "heure": "14:00",
       "affiche": "Torino - Lecce Serie A"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:00",
+      "affiche": "AC Milan F - Inter Milan F Serie A Féminine"
     },
     {
       "date": "Samedi 7 novembre",
@@ -335,6 +480,11 @@
       "date": "Dimanche 8 novembre",
       "heure": "17:00",
       "affiche": "Inter Milan - Côme Serie A"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "17:00",
+      "affiche": "Lazio F - Naples F Serie A Féminine"
     },
     {
       "date": "Dimanche 8 novembre",
@@ -503,6 +653,16 @@
       "affiche": "Valenciennes - Orléans Ligue 3"
     },
     {
+      "date": "Vendredi 6 novembre",
+      "heure": "14:55",
+      "affiche": "Al-Hazem - Al-Nassr Saudi Pro League"
+    },
+    {
+      "date": "Vendredi 6 novembre",
+      "heure": "20:00",
+      "affiche": "PSG F - Le Havre F D1 Féminine"
+    },
+    {
       "date": "Samedi 7 novembre",
       "heure": "13:45",
       "affiche": "Thionville Lusitanos - Cannes Ligue 3"
@@ -536,6 +696,21 @@
       "date": "Samedi 7 novembre",
       "heure": "13:45",
       "affiche": "Caen - Versailles Ligue 3"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "14:30",
+      "affiche": "Al-Ettifaq - Al-Hilal Saudi Pro League"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "16:00",
+      "affiche": "Galatasaray - Amed Süper Lig"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "17:30",
+      "affiche": "Al-Ahli Saudi - Al-Taawoun Saudi Pro League"
     },
     {
       "date": "Samedi 7 novembre",
@@ -579,8 +754,13 @@
     },
     {
       "date": "Dimanche 8 novembre",
-      "heure": "11:15",
-      "affiche": "Heerenveen - Feyenoord Eredivisie"
+      "heure": "12:30",
+      "affiche": "Club Bruges - Anderlecht Jupiler Pro League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "13:00",
+      "affiche": "Çorum FK - Fenerbahçe Süper Lig"
     },
     {
       "date": "Dimanche 8 novembre",
@@ -589,8 +769,28 @@
     },
     {
       "date": "Dimanche 8 novembre",
+      "heure": "15:30",
+      "affiche": "Alanyaspor - Trabzonspor Süper Lig"
+    },
+    {
+      "date": "Dimanche 8 novembre",
       "heure": "15:45",
       "affiche": "Cambuur - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "15:45",
+      "affiche": "AZ Alkmaar - Groningen Eredivisie"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "17:30",
+      "affiche": "Union Saint-Gilloise - Racing Genk Jupiler Pro League"
+    },
+    {
+      "date": "Dimanche 8 novembre",
+      "heure": "18:15",
+      "affiche": "Saint-Trond - Zulte Waregem Jupiler Pro League"
     }
   ]
 }
