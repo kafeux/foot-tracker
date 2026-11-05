@@ -23,22 +23,7 @@
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:00",
-      "affiche": "Dijon - Red Star Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Montpellier - Metz Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Saint-Étienne - Laval Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Clermont Foot - Rodez Ligue 2"
+      "affiche": "Boulogne - Annecy Ligue 2"
     },
     {
       "date": "Vendredi 6 novembre",
@@ -48,7 +33,7 @@
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:00",
-      "affiche": "Nancy - Sochaux Ligue 2"
+      "affiche": "Montpellier - Metz Ligue 2"
     },
     {
       "date": "Vendredi 6 novembre",
@@ -58,17 +43,22 @@
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:00",
-      "affiche": "Boulogne - Annecy Ligue 2"
+      "affiche": "Nancy - Sochaux Ligue 2"
     },
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:00",
-      "affiche": "Pau FC - Nantes Ligue 2"
+      "affiche": "Dijon - Red Star Ligue 2"
     },
     {
       "date": "Vendredi 6 novembre",
       "heure": "19:45",
       "affiche": "Toulouse - Strasbourg Ligue 1"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "13:00",
+      "affiche": "Clermont Foot - Rodez Ligue 2"
     },
     {
       "date": "Samedi 7 novembre",
@@ -79,6 +69,16 @@
       "date": "Samedi 7 novembre",
       "heure": "16:15",
       "affiche": "Auxerre - Paris FC Ligue 1"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "19:00",
+      "affiche": "Saint-Étienne - Laval Ligue 2"
+    },
+    {
+      "date": "Samedi 7 novembre",
+      "heure": "19:00",
+      "affiche": "Pau FC - Nantes Ligue 2"
     },
     {
       "date": "Samedi 7 novembre",
