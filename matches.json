@@ -1,56 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 6 novembre",
-      "heure": "18:00",
-      "affiche": "Paris FC F - Montpellier F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "18:00",
-      "affiche": "Nantes F - Toulouse F D1 Féminine"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Montpellier - Metz Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Boulogne - Annecy Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Grenoble - Reims Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Dunkerque - Guingamp Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Nancy - Sochaux Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Dijon - Red Star Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:45",
-      "affiche": "Toulouse - Strasbourg Ligue 1"
-    },
-    {
       "date": "Samedi 7 novembre",
       "heure": "13:00",
       "affiche": "Clermont Foot - Rodez Ligue 2"
@@ -139,19 +89,14 @@
       "date": "Mercredi 11 novembre",
       "heure": "20:00",
       "affiche": "Juventus F - Lyon F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "Italie - France Ligue des Nations"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "20:00",
-      "affiche": "Everton - Coventry Premier League"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "20:00",
-      "affiche": "Derby - Bolton Championship"
-    },
     {
       "date": "Samedi 7 novembre",
       "heure": "12:30",
@@ -295,21 +240,6 @@
   ],
   "Espagne": [
     {
-      "date": "Vendredi 6 novembre",
-      "heure": "17:30",
-      "affiche": "Bayern Munich F - Werder Breme F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:30",
-      "affiche": "Hambourg - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "20:00",
-      "affiche": "FC Séville - Alavés Liga"
-    },
-    {
       "date": "Samedi 7 novembre",
       "heure": "13:00",
       "affiche": "Malaga - Racing Santander Liga"
@@ -437,11 +367,6 @@
   ],
   "Italie": [
     {
-      "date": "Vendredi 6 novembre",
-      "heure": "19:45",
-      "affiche": "Venise - Udinese Serie A"
-    },
-    {
       "date": "Samedi 7 novembre",
       "heure": "11:30",
       "affiche": "Como 1907 F - AS Roma F Serie A Féminine"
@@ -532,16 +457,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "14:55",
-      "affiche": "Al-Hazem - Al-Nassr Saudi Pro League"
-    },
-    {
-      "date": "Vendredi 6 novembre",
-      "heure": "20:00",
-      "affiche": "PSG F - Le Havre F D1 Féminine"
-    },
     {
       "date": "Samedi 7 novembre",
       "heure": "06:00",
@@ -686,6 +601,21 @@
       "date": "Dimanche 8 novembre",
       "heure": "18:15",
       "affiche": "Saint-Trond - Zulte Waregem Jupiler Pro League"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "17:00",
+      "affiche": "Turquie - Belgique Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "Angleterre - Croatie Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "République tchèque - Espagne Ligue des Nations"
     }
   ]
 }
