@@ -1,41 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Rennes - Lille Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:15",
-      "affiche": "Angers - Nice Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:15",
-      "affiche": "Brest - Lyon Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:15",
-      "affiche": "Le Havre - Lorient Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:15",
-      "affiche": "Le Mans - Monaco Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:15",
-      "affiche": "Multiplex - Multiplex Ligue 1"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "19:45",
-      "affiche": "Lens - Marseille Ligue 1"
-    },
-    {
       "date": "Mardi 10 novembre",
       "heure": "17:45",
       "affiche": "Real Madrid F - Paris FC F Ligue des Champions Féminine"
@@ -53,76 +18,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "San Diego - Sporting Kansas City MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "Minnesota United FC - San Jose Earthquakes MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "Houston Dynamo - St. Louis City MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "12:00",
-      "affiche": "Liverpool F - Arsenal F Women's Super League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "12:00",
-      "affiche": "Aston Villa F - Manchester United F Women's Super League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Crystal Palace - Liverpool Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Sunderland - Chelsea Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Brighton - Brentford Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Ipswich - Bournemouth Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Tottenham F - Brighton F Women's Super League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:30",
-      "affiche": "London City Lionesses - Birmingham City F Women's Super League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:30",
-      "affiche": "Manchester United - Aston Villa Premier League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "17:30",
-      "affiche": "Villarreal - Getafe Liga"
-    },
-    {
       "date": "Mardi 10 novembre",
       "heure": "17:45",
       "affiche": "Häcken F - Chelsea F Ligue des Champions Féminine"
@@ -136,69 +31,19 @@
       "date": "Mercredi 11 novembre",
       "heure": "17:45",
       "affiche": "FC Barcelone F - Arsenal F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "14:00",
+      "affiche": "Chelsea F - Manchester City F Women's Super League"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:30",
+      "affiche": "Arsenal F - London City Lionesses Women's Super League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "12:30",
-      "affiche": "FC Heidenheim - Hannover 96 Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "13:00",
-      "affiche": "Elche - Betis Séville Liga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "13:00",
-      "affiche": "Union Berlin F - Hoffenheim F Bundesliga Féminine"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Crystal Palace F - Charlton Athletic F Women's Super League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:30",
-      "affiche": "Cologne - Bayer Leverkusen Bundesliga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "15:15",
-      "affiche": "Real Sociedad - Rayo Vallecano Liga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "16:30",
-      "affiche": "Fribourg - Union Berlin Bundesliga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "17:30",
-      "affiche": "Celta Vigo - Levante Liga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "18:00",
-      "affiche": "Vitória SC - FC Porto Primeira Liga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "18:30",
-      "affiche": "Hoffenheim - Schalke 04 Bundesliga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "20:00",
-      "affiche": "Atlético Madrid - FC Barcelone Liga"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "20:30",
-      "affiche": "Estrela - Benfica Primeira Liga"
-    },
     {
       "date": "Lundi 9 novembre",
       "heure": "17:00",
@@ -206,36 +51,6 @@
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "11:30",
-      "affiche": "Naples - Lazio Rome Serie A"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Genoa - AC Milan Serie A"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "14:00",
-      "affiche": "Monza - Atalanta Serie A"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "17:00",
-      "affiche": "Inter Milan - Côme Serie A"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "17:00",
-      "affiche": "Lazio F - Naples F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "19:45",
-      "affiche": "Fiorentina - Juventus Turin Serie A"
-    },
     {
       "date": "Mardi 10 novembre",
       "heure": "20:00",
@@ -263,76 +78,6 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "Seattle Sounders - Los Angeles FC MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "Real Salt Lake - Los Angeles Galaxy MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "FC Dallas - Colorado Rapids MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "00:00",
-      "affiche": "Austin FC - Portland Timbers MLS"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "06:00",
-      "affiche": "Gamba Osaka - Cerezo Osaka J-League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "11:15",
-      "affiche": "Heerenveen - Feyenoord Eredivisie"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "12:30",
-      "affiche": "Club Bruges - Anderlecht Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "13:00",
-      "affiche": "Çorum FK - Fenerbahçe Süper Lig"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "13:30",
-      "affiche": "Twente - Ajax Amsterdam Eredivisie"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "15:30",
-      "affiche": "Alanyaspor - Trabzonspor Süper Lig"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "15:45",
-      "affiche": "Cambuur - PSV Eindhoven Eredivisie"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "15:45",
-      "affiche": "AZ Alkmaar - Groningen Eredivisie"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "17:30",
-      "affiche": "Union Saint-Gilloise - Racing Genk Jupiler Pro League"
-    },
-    {
-      "date": "Dimanche 8 novembre",
-      "heure": "18:15",
-      "affiche": "Saint-Trond - Zulte Waregem Jupiler Pro League"
-    },
-    {
       "date": "Jeudi 12 novembre",
       "heure": "17:00",
       "affiche": "Turquie - Belgique Ligue des Nations"
@@ -351,6 +96,11 @@
       "date": "Vendredi 13 novembre",
       "heure": "19:45",
       "affiche": "Pays-Bas - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Portugal - Danemark Ligue des Nations"
     }
   ]
 }
