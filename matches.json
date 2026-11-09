@@ -7,6 +7,16 @@
     },
     {
       "date": "Mercredi 11 novembre",
+      "heure": "16:00",
+      "affiche": "Fleury F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Mercredi 11 novembre",
+      "heure": "17:00",
+      "affiche": "France U19 - Norvège U19 Euro U19"
+    },
+    {
+      "date": "Mercredi 11 novembre",
       "heure": "20:00",
       "affiche": "Juventus F - Lyon F Ligue des Champions Féminine"
     },
@@ -28,7 +38,7 @@
       "affiche": "Inter Milan F - Manchester City F Ligue des Champions Féminine"
     },
     {
-      "date": "Mercredi 11 novembre",
+      "date": "Jeudi 12 novembre",
       "heure": "17:45",
       "affiche": "FC Barcelone F - Arsenal F Ligue des Champions Féminine"
     },
@@ -80,7 +90,22 @@
     {
       "date": "Jeudi 12 novembre",
       "heure": "17:00",
+      "affiche": "Arménie - Chypre Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "17:00",
       "affiche": "Turquie - Belgique Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "Albanie - Finlande Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "République tchèque - Espagne Ligue des Nations"
     },
     {
       "date": "Jeudi 12 novembre",
@@ -90,12 +115,22 @@
     {
       "date": "Jeudi 12 novembre",
       "heure": "19:45",
-      "affiche": "République tchèque - Espagne Ligue des Nations"
+      "affiche": "Saint-Marin - Biélorussie Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:45",
+      "affiche": "Monténégro - Lettonie Ligue des Nations"
     },
     {
       "date": "Vendredi 13 novembre",
       "heure": "19:45",
       "affiche": "Pays-Bas - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:00",
+      "affiche": "Norvège - Pays de Galles Ligue des Nations"
     },
     {
       "date": "Samedi 14 novembre",
