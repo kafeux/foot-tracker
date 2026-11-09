@@ -24,6 +24,11 @@
       "date": "Jeudi 12 novembre",
       "heure": "19:45",
       "affiche": "Italie - France Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "19:45",
+      "affiche": "France - Turquie Ligue des Nations"
     }
   ],
   "Angleterre": [
@@ -51,13 +56,33 @@
       "date": "Samedi 14 novembre",
       "heure": "17:30",
       "affiche": "Arsenal F - London City Lionesses Women's Super League"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "13:00",
+      "affiche": "Manchester United F - Crystal Palace F Women's Super League"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "Brighton F - Liverpool F Women's Super League"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "Tottenham F - Everton F Women's Super League"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:30",
+      "affiche": "Aston Villa F - Birmingham City F Women's Super League"
     }
   ],
   "Espagne": [
     {
-      "date": "Lundi 9 novembre",
-      "heure": "17:00",
-      "affiche": "Cologne F - RB Leipzig F Bundesliga Féminine"
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "West Ham F - Charlton Athletic F Women's Super League"
     }
   ],
   "Italie": [
@@ -136,6 +161,16 @@
       "date": "Samedi 14 novembre",
       "heure": "19:45",
       "affiche": "Portugal - Danemark Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "19:45",
+      "affiche": "Espagne - Angleterre Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "19:45",
+      "affiche": "Belgique - Italie Ligue des Nations"
     }
   ]
 }
