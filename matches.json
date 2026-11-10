@@ -114,6 +114,11 @@
   "Autres": [
     {
       "date": "Jeudi 12 novembre",
+      "heure": "16:00",
+      "affiche": "RD Congo - Sierra Leone CAN 2027"
+    },
+    {
+      "date": "Jeudi 12 novembre",
       "heure": "17:00",
       "affiche": "Arménie - Chypre Ligue des Nations"
     },
@@ -121,6 +126,31 @@
       "date": "Jeudi 12 novembre",
       "heure": "17:00",
       "affiche": "Turquie - Belgique Ligue des Nations"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:00",
+      "affiche": "Côte d'Ivoire - Gambie CAN 2027"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:00",
+      "affiche": "Cameroun - Namibie CAN 2027"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:00",
+      "affiche": "Barbade - Guadeloupe Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:00",
+      "affiche": "Aruba - Martinique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Jeudi 12 novembre",
+      "heure": "19:00",
+      "affiche": "Sénégal - Soudan CAN 2027"
     },
     {
       "date": "Jeudi 12 novembre",
@@ -149,13 +179,63 @@
     },
     {
       "date": "Vendredi 13 novembre",
+      "heure": "00:00",
+      "affiche": "Curaçao - Panama Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "13:00",
+      "affiche": "Comores - Congo CAN 2027"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "16:00",
+      "affiche": "Tunisie - Libye CAN 2027"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "16:00",
+      "affiche": "Nigeria - Tanzanie CAN 2027"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:00",
+      "affiche": "Mali - Rwanda CAN 2027"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:00",
+      "affiche": "Egypte - Malawi CAN 2027"
+    },
+    {
+      "date": "Vendredi 13 novembre",
       "heure": "19:45",
       "affiche": "Pays-Bas - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "20:00",
+      "affiche": "Maroc - Niger CAN 2027"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "23:00",
+      "affiche": "Saint-Martin - Salvador Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "02:00",
+      "affiche": "Guatemala - Canada Ligue des nations de la CONCACAF"
     },
     {
       "date": "Samedi 14 novembre",
       "heure": "17:00",
       "affiche": "Norvège - Pays de Galles Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "19:00",
+      "affiche": "Algérie - Togo CAN 2027"
     },
     {
       "date": "Samedi 14 novembre",
