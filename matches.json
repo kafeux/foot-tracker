@@ -86,6 +86,26 @@
   ],
   "Autres": [
     {
+      "date": "Mercredi 11 novembre",
+      "heure": "10:00",
+      "affiche": "Vissel Kobe - Machida Zelvia Japon"
+    },
+    {
+      "date": "Mercredi 11 novembre",
+      "heure": "10:00",
+      "affiche": "Kawasaki Frontale - Kashiwa Reysol Japon"
+    },
+    {
+      "date": "Mercredi 11 novembre",
+      "heure": "10:00",
+      "affiche": "Yokohama FM - Kashima Antlers Japon"
+    },
+    {
+      "date": "Mercredi 11 novembre",
+      "heure": "10:30",
+      "affiche": "Urawa Reds - Cerezo Osaka Japon"
+    },
+    {
       "date": "Jeudi 12 novembre",
       "heure": "16:00",
       "affiche": "RD Congo - Sierra Leone CAN 2027"
@@ -172,6 +192,11 @@
     },
     {
       "date": "Vendredi 13 novembre",
+      "heure": "17:00",
+      "affiche": "Moldavie - Kazakhstan Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
       "heure": "19:00",
       "affiche": "Mali - Rwanda CAN 2027"
     },
@@ -184,6 +209,46 @@
       "date": "Vendredi 13 novembre",
       "heure": "19:45",
       "affiche": "Pays-Bas - Grèce Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Serbie - Allemagne Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Slovaquie - Îles Féroé Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Bulgarie - Islande Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Liechtenstein - Azerbaïdjan Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Slovénie - Suisse Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Ecosse - Macédoine du Nord Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Luxembourg - Estonie Ligue des Nations"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "19:45",
+      "affiche": "Andorre - Gibraltar Ligue des Nations"
     },
     {
       "date": "Vendredi 13 novembre",
@@ -202,8 +267,18 @@
     },
     {
       "date": "Samedi 14 novembre",
+      "heure": "14:00",
+      "affiche": "Kosovo - Israël Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
       "heure": "17:00",
       "affiche": "Norvège - Pays de Galles Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:00",
+      "affiche": "Georgie - Hongrie Ligue des Nations"
     },
     {
       "date": "Samedi 14 novembre",
@@ -216,6 +291,46 @@
       "affiche": "Portugal - Danemark Ligue des Nations"
     },
     {
+      "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Suède - Bosnie-Herzégovine Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Irlande du Nord - Ukraine Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Roumanie - Pologne Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Autriche - Irlande Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "Chypre - Monténégro Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "Lettonie - Arménie Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "17:00",
+      "affiche": "Finlande - Saint-Marin Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "17:00",
+      "affiche": "Biélorussie - Albanie Ligue des Nations"
+    },
+    {
       "date": "Dimanche 15 novembre",
       "heure": "19:45",
       "affiche": "Espagne - Angleterre Ligue des Nations"
@@ -224,6 +339,11 @@
       "date": "Dimanche 15 novembre",
       "heure": "19:45",
       "affiche": "Belgique - Italie Ligue des Nations"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "19:45",
+      "affiche": "Croatie - République tchèque Ligue des Nations"
     },
     {
       "date": "Lundi 16 novembre",
@@ -237,8 +357,53 @@
     },
     {
       "date": "Lundi 16 novembre",
+      "heure": "15:00",
+      "affiche": "Kazakhstan - Slovaquie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "15:00",
+      "affiche": "Îles Féroé - Moldavie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "17:00",
+      "affiche": "Lituanie - Liechtenstein Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "17:00",
+      "affiche": "Estonie - Bulgarie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "17:00",
+      "affiche": "Islande - Luxembourg Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:45",
+      "affiche": "Grèce - Serbie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
       "heure": "19:45",
       "affiche": "Allemagne - Pays-Bas Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:45",
+      "affiche": "Suisse - Ecosse Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:45",
+      "affiche": "Macédoine du Nord - Slovénie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:45",
+      "affiche": "Gibraltar - Malte Ligue des Nations"
     }
   ]
 }
