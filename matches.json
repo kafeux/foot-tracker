@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mardi 10 novembre",
-      "heure": "17:45",
-      "affiche": "Real Madrid F - Paris FC F Ligue des Champions Féminine"
-    },
-    {
       "date": "Mercredi 11 novembre",
       "heure": "16:00",
       "affiche": "Fleury F - Toulouse F D1 Féminine"
@@ -32,16 +27,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Mardi 10 novembre",
-      "heure": "17:45",
-      "affiche": "Häcken F - Chelsea F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Mardi 10 novembre",
-      "heure": "20:00",
-      "affiche": "Inter Milan F - Manchester City F Ligue des Champions Féminine"
-    },
     {
       "date": "Jeudi 12 novembre",
       "heure": "17:45",
@@ -85,20 +70,8 @@
       "affiche": "West Ham F - Charlton Athletic F Women's Super League"
     }
   ],
-  "Italie": [
-    {
-      "date": "Mardi 10 novembre",
-      "heure": "20:00",
-      "affiche": "AS Roma F - Servette Chênois F Ligue des Champions Féminine"
-    }
-  ],
-  "Allemagne": [
-    {
-      "date": "Mardi 10 novembre",
-      "heure": "20:00",
-      "affiche": "PSG F - Bayern Munich F Ligue des Champions Féminine"
-    }
-  ],
+  "Italie": [],
+  "Allemagne": [],
   "Europe": [
     {
       "date": "Mercredi 11 novembre",
@@ -145,11 +118,6 @@
     {
       "date": "Jeudi 12 novembre",
       "heure": "19:00",
-      "affiche": "Aruba - Martinique Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:00",
       "affiche": "Sénégal - Soudan CAN 2027"
     },
     {
@@ -178,8 +146,13 @@
       "affiche": "Monténégro - Lettonie Ligue des Nations"
     },
     {
+      "date": "Jeudi 12 novembre",
+      "heure": "22:00",
+      "affiche": "Aruba - Martinique Ligue des nations de la CONCACAF"
+    },
+    {
       "date": "Vendredi 13 novembre",
-      "heure": "00:00",
+      "heure": "00:30",
       "affiche": "Curaçao - Panama Ligue des nations de la CONCACAF"
     },
     {
@@ -251,6 +224,21 @@
       "date": "Dimanche 15 novembre",
       "heure": "19:45",
       "affiche": "Belgique - Italie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "13:00",
+      "affiche": "Soudan - Sénégal CAN 2027"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "13:00",
+      "affiche": "Namibie - Cameroun CAN 2027"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:45",
+      "affiche": "Allemagne - Pays-Bas Ligue des Nations"
     }
   ]
 }
