@@ -34,28 +34,28 @@
     },
     {
       "date": "Samedi 14 novembre",
-      "heure": "14:00",
+      "heure": "12:45",
+      "affiche": "Manchester United F - Crystal Palace F Women's Super League"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "13:30",
       "affiche": "Chelsea F - Manchester City F Women's Super League"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "15:00",
+      "affiche": "Tottenham F - Everton F Women's Super League"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:15",
+      "affiche": "Brighton F - Liverpool F Women's Super League"
     },
     {
       "date": "Samedi 14 novembre",
       "heure": "17:30",
       "affiche": "Arsenal F - London City Lionesses Women's Super League"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "13:00",
-      "affiche": "Manchester United F - Crystal Palace F Women's Super League"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Brighton F - Liverpool F Women's Super League"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Tottenham F - Everton F Women's Super League"
     },
     {
       "date": "Dimanche 15 novembre",
@@ -79,7 +79,7 @@
       "affiche": "OH Louvain F - Køge F Ligue des Champions Féminine"
     },
     {
-      "date": "Mercredi 11 novembre",
+      "date": "Jeudi 12 novembre",
       "heure": "20:00",
       "affiche": "SL Benfica F - Austria Vienne F Ligue des Champions Féminine"
     }
