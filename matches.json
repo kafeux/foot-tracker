@@ -2,8 +2,33 @@
   "France": [
     {
       "date": "Jeudi 12 novembre",
+      "heure": "16:00",
+      "affiche": "France U20 - Danemark U20 Match amical"
+    },
+    {
+      "date": "Jeudi 12 novembre",
       "heure": "19:45",
       "affiche": "Italie - France Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "14:00",
+      "affiche": "Le Havre F - Paris FC F D1 Féminine"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:00",
+      "affiche": "Lyon F - Saint-Malo F D1 Féminine"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:00",
+      "affiche": "Strasbourg F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "20:00",
+      "affiche": "Marseille F - PSG F D1 Féminine"
     },
     {
       "date": "Dimanche 15 novembre",
@@ -55,7 +80,13 @@
       "affiche": "West Ham F - Charlton Athletic F Women's Super League"
     }
   ],
-  "Italie": [],
+  "Italie": [
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "23:00",
+      "affiche": "Argentine - Uruguay Match international"
+    }
+  ],
   "Allemagne": [],
   "Europe": [
     {
@@ -129,6 +160,11 @@
       "date": "Jeudi 12 novembre",
       "heure": "22:00",
       "affiche": "Aruba - Martinique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Vendredi 13 novembre",
+      "heure": "23:00",
+      "affiche": "Antigua-et-Barbuda - Trinité-et-Tobago Ligue des nations de la CONCACAF"
     },
     {
       "date": "Vendredi 13 novembre",
@@ -239,6 +275,11 @@
       "date": "Samedi 14 novembre",
       "heure": "17:00",
       "affiche": "Georgie - Hongrie Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:30",
+      "affiche": "Montpellier F - Fleury F D1 Féminine"
     },
     {
       "date": "Samedi 14 novembre",
