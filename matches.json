@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 11 novembre",
-      "heure": "16:00",
-      "affiche": "Fleury F - Toulouse F D1 Féminine"
-    },
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "17:00",
-      "affiche": "France U19 - Norvège U19 Euro U19"
-    },
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "20:00",
-      "affiche": "Juventus F - Lyon F Ligue des Champions Féminine"
-    },
-    {
       "date": "Jeudi 12 novembre",
       "heure": "19:45",
       "affiche": "Italie - France Ligue des Nations"
@@ -74,37 +59,12 @@
   "Allemagne": [],
   "Europe": [
     {
-      "date": "Mercredi 11 novembre",
-      "heure": "17:45",
-      "affiche": "OH Louvain F - Køge F Ligue des Champions Féminine"
-    },
-    {
       "date": "Jeudi 12 novembre",
       "heure": "20:00",
       "affiche": "SL Benfica F - Austria Vienne F Ligue des Champions Féminine"
     }
   ],
   "Autres": [
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "10:00",
-      "affiche": "Vissel Kobe - Machida Zelvia Japon"
-    },
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "10:00",
-      "affiche": "Kawasaki Frontale - Kashiwa Reysol Japon"
-    },
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "10:00",
-      "affiche": "Yokohama FM - Kashima Antlers Japon"
-    },
-    {
-      "date": "Mercredi 11 novembre",
-      "heure": "10:30",
-      "affiche": "Urawa Reds - Cerezo Osaka Japon"
-    },
     {
       "date": "Jeudi 12 novembre",
       "heure": "16:00",
@@ -404,6 +364,91 @@
       "date": "Lundi 16 novembre",
       "heure": "19:45",
       "affiche": "Gibraltar - Malte Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "13:00",
+      "affiche": "Malawi - Egypte CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "13:00",
+      "affiche": "Tanzanie - Nigeria CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "16:00",
+      "affiche": "Togo - Algérie CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "16:00",
+      "affiche": "Libye - Tunisie CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "16:00",
+      "affiche": "Gambie - Côte d'Ivoire CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "16:00",
+      "affiche": "Sierra Leone - RD Congo CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:00",
+      "affiche": "Congo - Comores CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:00",
+      "affiche": "Rwanda - Mali CAN 2027"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Pays de Galles - Portugal Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Danemark - Norvège Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Pologne - Suède Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Hongrie - Irlande du Nord Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Ukraine - Georgie Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Irlande - Kosovo Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Bosnie-Herzégovine - Roumanie Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "19:45",
+      "affiche": "Israël - Autriche Ligue des Nations"
+    },
+    {
+      "date": "Mardi 17 novembre",
+      "heure": "20:00",
+      "affiche": "Niger - Maroc CAN 2027"
     }
   ]
 }
