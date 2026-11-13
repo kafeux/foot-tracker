@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 12 novembre",
-      "heure": "16:00",
-      "affiche": "France U20 - Danemark U20 Match amical"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "Italie - France Ligue des Nations"
-    },
-    {
       "date": "Samedi 14 novembre",
       "heure": "14:00",
       "affiche": "Le Havre F - Paris FC F D1 Féminine"
@@ -37,11 +27,6 @@
     }
   ],
   "Angleterre": [
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "17:45",
-      "affiche": "FC Barcelone F - Arsenal F Ligue des Champions Féminine"
-    },
     {
       "date": "Samedi 14 novembre",
       "heure": "12:45",
@@ -71,6 +56,16 @@
       "date": "Dimanche 15 novembre",
       "heure": "14:30",
       "affiche": "Aston Villa F - Birmingham City F Women's Super League"
+    },
+    {
+      "date": "Mercredi 18 novembre",
+      "heure": "17:45",
+      "affiche": "Häcken F - Manchester City F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Mercredi 18 novembre",
+      "heure": "20:00",
+      "affiche": "Chelsea F - PSG F Ligue des Champions Féminine"
     }
   ],
   "Espagne": [
@@ -78,6 +73,11 @@
       "date": "Dimanche 15 novembre",
       "heure": "14:00",
       "affiche": "West Ham F - Charlton Athletic F Women's Super League"
+    },
+    {
+      "date": "Mercredi 18 novembre",
+      "heure": "17:45",
+      "affiche": "Real Madrid F - Inter Milan F Ligue des Champions Féminine"
     }
   ],
   "Italie": [
@@ -85,87 +85,16 @@
       "date": "Samedi 14 novembre",
       "heure": "23:00",
       "affiche": "Argentine - Uruguay Match international"
+    },
+    {
+      "date": "Mercredi 18 novembre",
+      "heure": "20:00",
+      "affiche": "Juventus F - OH Louvain F Ligue des Champions Féminine"
     }
   ],
   "Allemagne": [],
-  "Europe": [
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "20:00",
-      "affiche": "SL Benfica F - Austria Vienne F Ligue des Champions Féminine"
-    }
-  ],
+  "Europe": [],
   "Autres": [
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "16:00",
-      "affiche": "RD Congo - Sierra Leone CAN 2027"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "17:00",
-      "affiche": "Arménie - Chypre Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "17:00",
-      "affiche": "Turquie - Belgique Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:00",
-      "affiche": "Côte d'Ivoire - Gambie CAN 2027"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:00",
-      "affiche": "Cameroun - Namibie CAN 2027"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:00",
-      "affiche": "Barbade - Guadeloupe Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:00",
-      "affiche": "Sénégal - Soudan CAN 2027"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "Albanie - Finlande Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "République tchèque - Espagne Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "Angleterre - Croatie Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "Saint-Marin - Biélorussie Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "19:45",
-      "affiche": "Monténégro - Lettonie Ligue des Nations"
-    },
-    {
-      "date": "Jeudi 12 novembre",
-      "heure": "22:00",
-      "affiche": "Aruba - Martinique Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Vendredi 13 novembre",
-      "heure": "23:00",
-      "affiche": "Antigua-et-Barbuda - Trinité-et-Tobago Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Vendredi 13 novembre",
       "heure": "00:30",
