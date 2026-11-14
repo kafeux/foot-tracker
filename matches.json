@@ -99,7 +99,7 @@
     },
     {
       "date": "Dimanche 15 novembre",
-      "heure": "14:30",
+      "heure": "14:00",
       "affiche": "Aston Villa F - Birmingham City F Women's Super League"
     },
     {
@@ -388,6 +388,11 @@
     },
     {
       "date": "Lundi 16 novembre",
+      "heure": "19:00",
+      "affiche": "Cuba - Grenade Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Lundi 16 novembre",
       "heure": "19:45",
       "affiche": "Grèce - Serbie Ligue des Nations"
     },
@@ -410,11 +415,6 @@
       "date": "Lundi 16 novembre",
       "heure": "19:45",
       "affiche": "Gibraltar - Malte Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "20:00",
-      "affiche": "Cuba - Grenade Ligue des nations de la CONCACAF"
     },
     {
       "date": "Mardi 17 novembre",
@@ -488,6 +488,11 @@
     },
     {
       "date": "Mardi 17 novembre",
+      "heure": "19:00",
+      "affiche": "Saint-Christophe-et-Niévès - Bonaire Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Mardi 17 novembre",
       "heure": "19:45",
       "affiche": "Pays de Galles - Portugal Ligue des Nations"
     },
@@ -530,11 +535,6 @@
       "date": "Mardi 17 novembre",
       "heure": "20:00",
       "affiche": "Niger - Maroc CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "20:00",
-      "affiche": "Saint-Christophe-et-Niévès - Bonaire Ligue des nations de la CONCACAF"
     },
     {
       "date": "Mercredi 18 novembre",
