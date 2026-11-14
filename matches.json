@@ -7,6 +7,11 @@
     },
     {
       "date": "Samedi 14 novembre",
+      "heure": "13:00",
+      "affiche": "Versailles - Rodez Coupe de France"
+    },
+    {
+      "date": "Samedi 14 novembre",
       "heure": "14:00",
       "affiche": "Le Havre F - Paris FC F D1 Féminine"
     },
@@ -19,6 +24,11 @@
       "date": "Samedi 14 novembre",
       "heure": "17:00",
       "affiche": "Strasbourg F - Toulouse F D1 Féminine"
+    },
+    {
+      "date": "Samedi 14 novembre",
+      "heure": "17:00",
+      "affiche": "France U19 - Irlande U19 Euro U19"
     },
     {
       "date": "Samedi 14 novembre",
@@ -37,8 +47,23 @@
     },
     {
       "date": "Dimanche 15 novembre",
+      "heure": "13:00",
+      "affiche": "France U20 - Danemark U20 Match international"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "14:00",
+      "affiche": "Rumilly Vallières - Saint-Étienne Coupe de France"
+    },
+    {
+      "date": "Dimanche 15 novembre",
       "heure": "19:45",
       "affiche": "France - Turquie Ligue des Nations"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "19:30",
+      "affiche": "Angleterre U21 - France U21 Match international"
     },
     {
       "date": "Jeudi 19 novembre",
@@ -73,14 +98,14 @@
       "affiche": "Brighton F - Liverpool F Women's Super League"
     },
     {
-      "date": "Samedi 14 novembre",
-      "heure": "17:30",
-      "affiche": "Arsenal F - London City Lionesses Women's Super League"
-    },
-    {
       "date": "Dimanche 15 novembre",
       "heure": "14:30",
       "affiche": "Aston Villa F - Birmingham City F Women's Super League"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "16:30",
+      "affiche": "Arsenal F - London City Lionesses Women's Super League"
     },
     {
       "date": "Mercredi 18 novembre",
@@ -95,6 +120,11 @@
   ],
   "Espagne": [
     {
+      "date": "Samedi 14 novembre",
+      "heure": "16:55",
+      "affiche": "Wolfsbourg F - Bayern Munich F Bundesliga Féminine"
+    },
+    {
       "date": "Dimanche 15 novembre",
       "heure": "14:00",
       "affiche": "West Ham F - Charlton Athletic F Women's Super League"
@@ -103,6 +133,11 @@
       "date": "Dimanche 15 novembre",
       "heure": "15:00",
       "affiche": "RB Leipzig F - Francfort F Bundesliga Féminine"
+    },
+    {
+      "date": "Lundi 16 novembre",
+      "heure": "17:00",
+      "affiche": "Stuttgart F - Bayer Leverkusen F Bundesliga Féminine"
     },
     {
       "date": "Mercredi 18 novembre",
@@ -228,6 +263,11 @@
     },
     {
       "date": "Samedi 14 novembre",
+      "heure": "19:45",
+      "affiche": "Multiplex - Multiplex Ligue des Nations"
+    },
+    {
+      "date": "Samedi 14 novembre",
       "heure": "21:30",
       "affiche": "Haiti - Etats-Unis Ligue des nations de la CONCACAF"
     },
@@ -240,6 +280,26 @@
       "date": "Dimanche 15 novembre",
       "heure": "01:00",
       "affiche": "Jamaïque - Mexique Ligue des nations de la CONCACAF"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "05:00",
+      "affiche": "Machida Zelvia - Vissel Kobe Japon"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "06:00",
+      "affiche": "Kashima Antlers - Yokohama FM Japon"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "06:00",
+      "affiche": "Cerezo Osaka - Urawa Reds Japon"
+    },
+    {
+      "date": "Dimanche 15 novembre",
+      "heure": "08:00",
+      "affiche": "Kashiwa Reysol - Kawasaki Frontale Japon"
     },
     {
       "date": "Dimanche 15 novembre",
