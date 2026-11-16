@@ -1,31 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 15 novembre",
-      "heure": "13:00",
-      "affiche": "Sedan - Bourges Foot 18 Coupe de France"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "13:00",
-      "affiche": "Paris 13 Atletico - Red Star Coupe de France"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "13:00",
-      "affiche": "France U20 - Danemark U20 Match international"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Rumilly Vallières - Saint-Étienne Coupe de France"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "19:45",
-      "affiche": "France - Turquie Ligue des Nations"
-    },
-    {
       "date": "Lundi 16 novembre",
       "heure": "19:30",
       "affiche": "Angleterre U21 - France U21 Match international"
@@ -89,19 +64,39 @@
       "date": "Vendredi 20 novembre",
       "heure": "19:45",
       "affiche": "Troyes - Le Havre Ligue 1"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Le Puy - Paris 13 Atletico Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "16:15",
+      "affiche": "Nice - PSG Ligue 1"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "19:45",
+      "affiche": "Lille - Lyon Ligue 1"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "19:45",
+      "affiche": "Monaco - Auxerre Ligue 1"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "19:45",
+      "affiche": "Strasbourg - Brest Ligue 1"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "19:45",
+      "affiche": "Lens - Toulouse Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Aston Villa F - Birmingham City F Women's Super League"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "16:30",
-      "affiche": "Arsenal F - London City Lionesses Women's Super League"
-    },
     {
       "date": "Mercredi 18 novembre",
       "heure": "17:45",
@@ -114,16 +109,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "West Ham F - Charlton Athletic F Women's Super League"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "15:00",
-      "affiche": "RB Leipzig F - Francfort F Bundesliga Féminine"
-    },
     {
       "date": "Lundi 16 novembre",
       "heure": "17:00",
@@ -148,24 +133,59 @@
       "date": "Vendredi 20 novembre",
       "heure": "20:00",
       "affiche": "Athletic Bilbao - Espanyol Barcelone Liga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:00",
+      "affiche": "Alavés - Deportivo La Corogne Liga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:30",
+      "affiche": "Monchengladbach - Borussia Dortmund Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:30",
+      "affiche": "Bayer Leverkusen - Paderborn Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:30",
+      "affiche": "Francfort - Hoffenheim Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:30",
+      "affiche": "Union Berlin - RB Leipzig Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:30",
+      "affiche": "SV Elversberg - Fribourg Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "15:15",
+      "affiche": "Rayo Vallecano - Valence Liga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "17:30",
+      "affiche": "FC Séville - Betis Séville Liga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "17:30",
+      "affiche": "Schalke 04 - Stuttgart Bundesliga"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "20:00",
+      "affiche": "Real Madrid - Celta Vigo Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "03:10",
-      "affiche": "Nouvelle-Zélande - Inde Match international"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "11:30",
-      "affiche": "Sassuolo F - Ternana F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Inter Milan F - Juventus F Serie A Féminine"
-    },
     {
       "date": "Mercredi 18 novembre",
       "heure": "23:00",
@@ -180,6 +200,26 @@
       "date": "Jeudi 19 novembre",
       "heure": "20:00",
       "affiche": "SL Benfica F - AS Roma F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:00",
+      "affiche": "Lazio Rome - Lecce Serie A"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "14:00",
+      "affiche": "Côme - Cagliari Serie A"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "17:00",
+      "affiche": "Parme - AS Roma Serie A"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "19:45",
+      "affiche": "Naples - Torino Serie A"
     }
   ],
   "Allemagne": [
@@ -191,76 +231,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "00:00",
-      "affiche": "Saint-Vincent et les Grenadines - Belize Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "01:00",
-      "affiche": "Jamaïque - Mexique Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "05:00",
-      "affiche": "Machida Zelvia - Vissel Kobe Japon"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "06:00",
-      "affiche": "Kashima Antlers - Yokohama FM Japon"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "06:00",
-      "affiche": "Cerezo Osaka - Urawa Reds Japon"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "08:00",
-      "affiche": "Kashiwa Reysol - Kawasaki Frontale Japon"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Chypre - Monténégro Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "14:00",
-      "affiche": "Lettonie - Arménie Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "17:00",
-      "affiche": "Finlande - Saint-Marin Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "17:00",
-      "affiche": "Biélorussie - Albanie Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "19:45",
-      "affiche": "Espagne - Angleterre Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "19:45",
-      "affiche": "Belgique - Italie Ligue des Nations"
-    },
-    {
-      "date": "Dimanche 15 novembre",
-      "heure": "19:45",
-      "affiche": "Croatie - République tchèque Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "23:00",
-      "affiche": "Panama - Curaçao Ligue des nations de la CONCACAF"
-    },
     {
       "date": "Lundi 16 novembre",
       "heure": "13:00",
@@ -480,6 +450,46 @@
       "date": "Jeudi 19 novembre",
       "heure": "19:45",
       "affiche": "Amiens - Caen Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Cannes - Aubagne Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "La Roche VF - Concarneau Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Versailles - Bourg-Péronnas Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Bastia - Villefranche Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Quevilly - Valenciennes Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:45",
+      "affiche": "Fleury 91 - Rouen Ligue 3"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "15:30",
+      "affiche": "NEC Nimègue - PSV Eindhoven Eredivisie"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "17:45",
+      "affiche": "Feyenoord - Excelsior Eredivisie"
     }
   ]
 }
