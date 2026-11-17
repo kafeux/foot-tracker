@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Lundi 16 novembre",
-      "heure": "19:30",
-      "affiche": "Angleterre U21 - France U21 Match international"
-    },
-    {
       "date": "Jeudi 19 novembre",
       "heure": "17:45",
       "affiche": "Paris FC F - Køge F Ligue des Champions Féminine"
@@ -94,6 +89,21 @@
       "date": "Samedi 21 novembre",
       "heure": "19:45",
       "affiche": "Lens - Toulouse Ligue 1"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Paris FC - Angers Ligue 1"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "16:15",
+      "affiche": "Lorient - Rennes Ligue 1"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "19:45",
+      "affiche": "Marseille - Le Mans Ligue 1"
     }
   ],
   "Angleterre": [
@@ -106,14 +116,49 @@
       "date": "Mercredi 18 novembre",
       "heure": "20:00",
       "affiche": "Chelsea F - PSG F Ligue des Champions Féminine"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "12:30",
+      "affiche": "Arsenal F - West Ham F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "13:00",
+      "affiche": "FC Barcelone - Villarreal Liga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Liverpool F - Chelsea F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Manchester City F - Tottenham F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Everton F - Brighton F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Charlton Athletic F - Aston Villa F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "London City Lionesses - Crystal Palace F Women's Super League"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Birmingham City F - Manchester United F Women's Super League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "17:00",
-      "affiche": "Stuttgart F - Bayer Leverkusen F Bundesliga Féminine"
-    },
     {
       "date": "Mercredi 18 novembre",
       "heure": "17:45",
@@ -183,6 +228,31 @@
       "date": "Samedi 21 novembre",
       "heure": "20:00",
       "affiche": "Real Madrid - Celta Vigo Liga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:30",
+      "affiche": "Augsbourg - Mayence Bundesliga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "15:15",
+      "affiche": "Racing Santander - Real Sociedad Liga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "16:30",
+      "affiche": "Werder Brême - Hambourg Bundesliga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "17:30",
+      "affiche": "Osasuna - Malaga Liga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "20:00",
+      "affiche": "Getafe - Atlético Madrid Liga"
     }
   ],
   "Italie": [
@@ -225,6 +295,31 @@
       "date": "Samedi 21 novembre",
       "heure": "19:45",
       "affiche": "Naples - Torino Serie A"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "11:30",
+      "affiche": "Juventus Turin - Venise Serie A"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Sassuolo - Genoa Serie A"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "14:00",
+      "affiche": "Bologne - Udinese Serie A"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "17:00",
+      "affiche": "AC Milan - Frosinone Serie A"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "19:45",
+      "affiche": "Atalanta - Inter Milan Serie A"
     }
   ],
   "Allemagne": [
@@ -236,81 +331,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "13:00",
-      "affiche": "Soudan - Sénégal CAN 2027"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "13:00",
-      "affiche": "Namibie - Cameroun CAN 2027"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "15:00",
-      "affiche": "Kazakhstan - Slovaquie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "15:00",
-      "affiche": "Îles Féroé - Moldavie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "17:00",
-      "affiche": "Lituanie - Liechtenstein Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "17:00",
-      "affiche": "Estonie - Bulgarie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "17:00",
-      "affiche": "Islande - Luxembourg Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:00",
-      "affiche": "Guyane - Porto Rico Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:00",
-      "affiche": "Guadeloupe - Bermudes Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:00",
-      "affiche": "Cuba - Grenade Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:45",
-      "affiche": "Grèce - Serbie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:45",
-      "affiche": "Allemagne - Pays-Bas Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:45",
-      "affiche": "Suisse - Ecosse Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:45",
-      "affiche": "Macédoine du Nord - Slovénie Ligue des Nations"
-    },
-    {
-      "date": "Lundi 16 novembre",
-      "heure": "19:45",
-      "affiche": "Gibraltar - Malte Ligue des Nations"
-    },
     {
       "date": "Mardi 17 novembre",
       "heure": "00:00",
@@ -495,6 +515,11 @@
       "date": "Samedi 21 novembre",
       "heure": "17:45",
       "affiche": "Feyenoord - Excelsior Eredivisie"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "13:30",
+      "affiche": "Ajax Amsterdam - ADO Den Haag Eredivisie"
     }
   ]
 }
