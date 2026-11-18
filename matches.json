@@ -253,19 +253,14 @@
       "date": "Dimanche 22 novembre",
       "heure": "20:00",
       "affiche": "Getafe - Atlético Madrid Liga"
+    },
+    {
+      "date": "Lundi 23 novembre",
+      "heure": "20:00",
+      "affiche": "Levante - Elche Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "17:00",
-      "affiche": "Croatie U21 - Allemagne U21 Match international"
-    },
-    {
-      "date": "Mercredi 18 novembre",
-      "heure": "23:00",
-      "affiche": "Argentine - Costa Rica Match international"
-    },
     {
       "date": "Mercredi 18 novembre",
       "heure": "20:00",
@@ -320,6 +315,11 @@
       "date": "Dimanche 22 novembre",
       "heure": "19:45",
       "affiche": "Atalanta - Inter Milan Serie A"
+    },
+    {
+      "date": "Lundi 23 novembre",
+      "heure": "19:45",
+      "affiche": "Monza - Fiorentina Serie A"
     }
   ],
   "Allemagne": [
@@ -331,131 +331,6 @@
   ],
   "Europe": [],
   "Autres": [
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "00:00",
-      "affiche": "Trinité-et-Tobago - Antigua-et-Barbuda Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "00:00",
-      "affiche": "Martinique - Aruba Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "01:00",
-      "affiche": "Canada - Guatemala Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "13:00",
-      "affiche": "Malawi - Egypte CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "13:00",
-      "affiche": "Tanzanie - Nigeria CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "15:00",
-      "affiche": "Lithuanie U19 - Allemagne U19 Euro U19"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "16:00",
-      "affiche": "Togo - Algérie CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "16:00",
-      "affiche": "Libye - Tunisie CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "16:00",
-      "affiche": "Gambie - Côte d'Ivoire CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "16:00",
-      "affiche": "Sierra Leone - RD Congo CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Congo - Comores CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Rwanda - Mali CAN 2027"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Belize - Sint Maarten Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Dominique - Iles Caïman Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Sainte-Lucie - Barbade Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:00",
-      "affiche": "Saint-Christophe-et-Niévès - Bonaire Ligue des nations de la CONCACAF"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Pays de Galles - Portugal Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Danemark - Norvège Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Pologne - Suède Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Hongrie - Irlande du Nord Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Ukraine - Georgie Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Irlande - Kosovo Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Bosnie-Herzégovine - Roumanie Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "19:45",
-      "affiche": "Israël - Autriche Ligue des Nations"
-    },
-    {
-      "date": "Mardi 17 novembre",
-      "heure": "20:00",
-      "affiche": "Niger - Maroc CAN 2027"
-    },
     {
       "date": "Mercredi 18 novembre",
       "heure": "00:00",
@@ -525,6 +400,11 @@
       "date": "Dimanche 22 novembre",
       "heure": "13:30",
       "affiche": "Ajax Amsterdam - ADO Den Haag Eredivisie"
+    },
+    {
+      "date": "Lundi 23 novembre",
+      "heure": "19:45",
+      "affiche": "Orléans - Thionville Lusitanos Ligue 3"
     }
   ]
 }
