@@ -17,53 +17,13 @@
     },
     {
       "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Metz - Boulogne Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Annecy - Clermont Foot Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Red Star - Pau FC Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Multiplex - Multiplex Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Nancy - Dijon Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
       "heure": "19:45",
       "affiche": "Troyes - Le Havre Ligue 1"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "20:00",
-      "affiche": "Toulouse F - Marseille F D1 Féminine"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:00",
-      "affiche": "Nantes - Grenoble Ligue 2"
     },
     {
       "date": "Samedi 21 novembre",
       "heure": "13:00",
       "affiche": "Laval - Montpellier Ligue 2"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Le Puy - Paris 13 Atletico Ligue 3"
     },
     {
       "date": "Samedi 21 novembre",
@@ -74,11 +34,6 @@
       "date": "Samedi 21 novembre",
       "heure": "16:15",
       "affiche": "Nice - PSG Ligue 1"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "17:00",
-      "affiche": "Le Havre F - Nantes F D1 Féminine"
     },
     {
       "date": "Samedi 21 novembre",
@@ -96,39 +51,9 @@
       "affiche": "Lille - Lyon Ligue 1"
     },
     {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Monaco - Auxerre Ligue 1"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Strasbourg - Brest Ligue 1"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Lens - Toulouse Ligue 1"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Multiplex - Multiplex Ligue 1"
-    },
-    {
       "date": "Dimanche 22 novembre",
       "heure": "14:00",
       "affiche": "Paris FC F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Paris FC - Angers Ligue 1"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Lyon F - Strasbourg F D1 Féminine"
     },
     {
       "date": "Dimanche 22 novembre",
@@ -144,11 +69,6 @@
       "date": "Lundi 23 novembre",
       "heure": "19:45",
       "affiche": "Sochaux - Dunkerque Ligue 2"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "RB Leipzig - Lens Ligue des Champions"
     }
   ],
   "Angleterre": [
@@ -156,41 +76,6 @@
       "date": "Samedi 21 novembre",
       "heure": "12:30",
       "affiche": "Manchester City - Fulham Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Multiplex - Multiplex Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Chelsea - Leeds Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Tottenham - Ipswich Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Aston Villa - Sunderland Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Bournemouth - Nottingham Forest Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Coventry - Crystal Palace Premier League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "17:30",
-      "affiche": "Newcastle - Arsenal Premier League"
     },
     {
       "date": "Dimanche 22 novembre",
@@ -208,77 +93,12 @@
       "affiche": "FC Barcelone - Villarreal Liga"
     },
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Liverpool F - Chelsea F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Manchester City F - Tottenham F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Everton F - Brighton F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Charlton Athletic F - Aston Villa F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "London City Lionesses - Crystal Palace F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Birmingham City F - Manchester United F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Hull City - Brighton Premier League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "16:30",
-      "affiche": "Liverpool - Manchester United Premier League"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "20:00",
-      "affiche": "Brentford - Everton Premier League"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "17:45",
-      "affiche": "Galatasaray - Aston Villa Ligue des Champions"
-    },
-    {
       "date": "Mardi 24 novembre",
       "heure": "20:00",
       "affiche": "Wolverhampton - Derby Championship"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Arsenal - Borussia Dortmund Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Manchester City - Naples Ligue des Champions"
     }
   ],
   "Espagne": [
-    {
-      "date": "Jeudi 19 novembre",
-      "heure": "20:00",
-      "affiche": "FC Barcelone F - Servette Chênois F Ligue des Champions Féminine"
-    },
     {
       "date": "Vendredi 20 novembre",
       "heure": "17:30",
@@ -301,38 +121,8 @@
     },
     {
       "date": "Samedi 21 novembre",
-      "heure": "13:00",
-      "affiche": "Alavés - Deportivo La Corogne Liga"
-    },
-    {
-      "date": "Samedi 21 novembre",
       "heure": "14:30",
       "affiche": "Bayer Leverkusen - Paderborn Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "14:30",
-      "affiche": "Monchengladbach - Borussia Dortmund Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "14:30",
-      "affiche": "SV Elversberg - Fribourg Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "14:30",
-      "affiche": "Union Berlin - RB Leipzig Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "14:30",
-      "affiche": "Francfort - Hoffenheim Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "14:30",
-      "affiche": "Multiplex - Multiplex Bundesliga"
     },
     {
       "date": "Samedi 21 novembre",
@@ -346,18 +136,8 @@
     },
     {
       "date": "Samedi 21 novembre",
-      "heure": "17:30",
-      "affiche": "Schalke 04 - Stuttgart Bundesliga"
-    },
-    {
-      "date": "Samedi 21 novembre",
       "heure": "20:00",
       "affiche": "Real Madrid - Celta Vigo Liga"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "12:30",
-      "affiche": "Energie Cottbus - Hertha BSC Bundesliga 2"
     },
     {
       "date": "Dimanche 22 novembre",
@@ -398,24 +178,9 @@
       "date": "Lundi 23 novembre",
       "heure": "20:00",
       "affiche": "Levante - Elche Liga"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Real Madrid - PSV Eindhoven Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Slovan Bratislava - Betis Séville Ligue des Champions"
     }
   ],
   "Italie": [
-    {
-      "date": "Jeudi 19 novembre",
-      "heure": "20:00",
-      "affiche": "SL Benfica F - AS Roma F Ligue des Champions Féminine"
-    },
     {
       "date": "Samedi 21 novembre",
       "heure": "11:30",
@@ -428,18 +193,8 @@
     },
     {
       "date": "Samedi 21 novembre",
-      "heure": "14:00",
-      "affiche": "Côme - Cagliari Serie A"
-    },
-    {
-      "date": "Samedi 21 novembre",
       "heure": "17:00",
       "affiche": "Parme - AS Roma Serie A"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Naples - Torino Serie A"
     },
     {
       "date": "Dimanche 22 novembre",
@@ -448,67 +203,16 @@
     },
     {
       "date": "Dimanche 22 novembre",
-      "heure": "11:30",
-      "affiche": "Ternana F - Inter Milan F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Sassuolo - Genoa Serie A"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Bologne - Udinese Serie A"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Fiorentina F - Como 1907 F Serie A Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
       "heure": "17:00",
       "affiche": "AC Milan - Frosinone Serie A"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "19:45",
-      "affiche": "Atalanta - Inter Milan Serie A"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "19:45",
-      "affiche": "Monza - Fiorentina Serie A"
     }
   ],
-  "Allemagne": [
-    {
-      "date": "Jeudi 19 novembre",
-      "heure": "17:45",
-      "affiche": "Austria Vienne F - Bayern Munich F Ligue des Champions Féminine"
-    }
-  ],
+  "Allemagne": [],
   "Europe": [
     {
       "date": "Mardi 24 novembre",
       "heure": "17:45",
       "affiche": "Bodo Glimt - Lask Linz Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Multiplex - Multiplex Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Feyenoord - FC Porto Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Côme - AEK Athènes Ligue des Champions"
     }
   ],
   "Autres": [
@@ -519,48 +223,8 @@
     },
     {
       "date": "Samedi 21 novembre",
-      "heure": "13:00",
-      "affiche": "Galatasaray - Samsunspor Süper Lig"
-    },
-    {
-      "date": "Samedi 21 novembre",
       "heure": "13:45",
       "affiche": "Cannes - Aubagne Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "La Roche VF - Concarneau Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Versailles - Bourg-Péronnas Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Bastia - Villefranche Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Quevilly - Valenciennes Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Fleury 91 - Rouen Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "13:45",
-      "affiche": "Multiplex - Multiplex Ligue 3"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "15:00",
-      "affiche": "Charleroi - Saint-Trond Jupiler Pro League"
     },
     {
       "date": "Samedi 21 novembre",
@@ -578,44 +242,14 @@
       "affiche": "Feyenoord - Excelsior Eredivisie"
     },
     {
-      "date": "Samedi 21 novembre",
-      "heure": "19:45",
-      "affiche": "Malines - Club Bruges Jupiler Pro League"
-    },
-    {
-      "date": "Samedi 21 novembre",
-      "heure": "20:00",
-      "affiche": "PSG F - Saint-Malo F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "13:00",
-      "affiche": "Konyaspor - Besiktas Süper Lig"
-    },
-    {
       "date": "Dimanche 22 novembre",
       "heure": "13:30",
       "affiche": "Ajax Amsterdam - ADO Den Haag Eredivisie"
     },
     {
       "date": "Dimanche 22 novembre",
-      "heure": "13:30",
-      "affiche": "Sparta Rotterdam - AZ Alkmaar Eredivisie"
-    },
-    {
-      "date": "Dimanche 22 novembre",
       "heure": "16:00",
       "affiche": "Trabzonspor - Eyüpspor Süper Lig"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "17:30",
-      "affiche": "Anderlecht - Louvain Jupiler Pro League"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "19:45",
-      "affiche": "Orléans - Thionville Lusitanos Ligue 3"
     }
   ]
 }
