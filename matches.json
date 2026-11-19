@@ -78,14 +78,19 @@
       "affiche": "Manchester City - Fulham Premier League"
     },
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "12:00",
-      "affiche": "Burnley - Blackburn Championship"
+      "date": "Samedi 21 novembre",
+      "heure": "12:45",
+      "affiche": "Liverpool F - Chelsea F Women's Super League"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "17:15",
+      "affiche": "London City Lionesses - Crystal Palace F Women's Super League"
     },
     {
       "date": "Dimanche 22 novembre",
-      "heure": "12:30",
-      "affiche": "Arsenal F - West Ham F Women's Super League"
+      "heure": "12:00",
+      "affiche": "Manchester City F - Tottenham F Women's Super League"
     },
     {
       "date": "Dimanche 22 novembre",
@@ -138,6 +143,11 @@
       "date": "Samedi 21 novembre",
       "heure": "20:00",
       "affiche": "Real Madrid - Celta Vigo Liga"
+    },
+    {
+      "date": "Dimanche 22 novembre",
+      "heure": "12:30",
+      "affiche": "Energie Cottbus - Hertha BSC Bundesliga 2"
     },
     {
       "date": "Dimanche 22 novembre",
