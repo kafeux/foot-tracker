@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 19 novembre",
-      "heure": "17:45",
-      "affiche": "Paris FC F - Køge F Ligue des Champions Féminine"
-    },
-    {
-      "date": "Jeudi 19 novembre",
-      "heure": "20:00",
-      "affiche": "Arsenal F - Lyon F Ligue des Champions Féminine"
-    },
-    {
       "date": "Vendredi 20 novembre",
       "heure": "19:00",
       "affiche": "Guingamp - Rodez Ligue 2"
@@ -101,6 +91,11 @@
       "date": "Mardi 24 novembre",
       "heure": "20:00",
       "affiche": "Wolverhampton - Derby Championship"
+    },
+    {
+      "date": "Mercredi 25 novembre",
+      "heure": "20:00",
+      "affiche": "Stoke City - Millwall Championship"
     }
   ],
   "Espagne": [
@@ -188,6 +183,11 @@
       "date": "Lundi 23 novembre",
       "heure": "20:00",
       "affiche": "Levante - Elche Liga"
+    },
+    {
+      "date": "Mercredi 25 novembre",
+      "heure": "17:45",
+      "affiche": "Sabah FA - FC Barcelone Ligue des Champions"
     }
   ],
   "Italie": [
@@ -226,11 +226,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Jeudi 19 novembre",
-      "heure": "19:45",
-      "affiche": "Amiens - Caen Ligue 3"
-    },
     {
       "date": "Samedi 21 novembre",
       "heure": "13:45",
