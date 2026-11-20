@@ -12,11 +12,6 @@
     },
     {
       "date": "Samedi 21 novembre",
-      "heure": "13:00",
-      "affiche": "Laval - Montpellier Ligue 2"
-    },
-    {
-      "date": "Samedi 21 novembre",
       "heure": "15:00",
       "affiche": "Lens F - Montpellier F D1 Féminine"
     },
@@ -54,14 +49,14 @@
       "date": "Dimanche 22 novembre",
       "heure": "19:45",
       "affiche": "Marseille - Le Mans Ligue 1"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "19:45",
-      "affiche": "Sochaux - Dunkerque Ligue 2"
     }
   ],
   "Angleterre": [
+    {
+      "date": "Vendredi 20 novembre",
+      "heure": "10:00",
+      "affiche": "Kashiwa Reysol - JEF United Chiba J-League"
+    },
     {
       "date": "Samedi 21 novembre",
       "heure": "12:30",
@@ -116,8 +111,18 @@
     },
     {
       "date": "Samedi 21 novembre",
+      "heure": "11:00",
+      "affiche": "Francfort F - Hambourg F Bundesliga Féminine"
+    },
+    {
+      "date": "Samedi 21 novembre",
       "heure": "12:00",
       "affiche": "Wolfsbourg - Holstein Kiel Bundesliga 2"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "13:00",
+      "affiche": "Alavés - Deportivo La Corogne Liga"
     },
     {
       "date": "Samedi 21 novembre",
@@ -215,6 +220,11 @@
       "date": "Dimanche 22 novembre",
       "heure": "17:00",
       "affiche": "AC Milan - Frosinone Serie A"
+    },
+    {
+      "date": "Lundi 23 novembre",
+      "heure": "19:45",
+      "affiche": "Monza - Fiorentina Serie A"
     }
   ],
   "Allemagne": [],
@@ -226,6 +236,11 @@
     }
   ],
   "Autres": [
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "05:00",
+      "affiche": "Sanfrecce Hiroshima - Yokohama FM J-League"
+    },
     {
       "date": "Samedi 21 novembre",
       "heure": "13:45",
@@ -245,6 +260,11 @@
       "date": "Samedi 21 novembre",
       "heure": "17:45",
       "affiche": "Feyenoord - Excelsior Eredivisie"
+    },
+    {
+      "date": "Samedi 21 novembre",
+      "heure": "22:30",
+      "affiche": "Atlético Mineiro - Boca Juniors Copa Sudamericana"
     },
     {
       "date": "Dimanche 22 novembre",
