@@ -1,16 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:00",
-      "affiche": "Guingamp - Rodez Ligue 2"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:45",
-      "affiche": "Troyes - Le Havre Ligue 1"
-    },
-    {
       "date": "Samedi 21 novembre",
       "heure": "15:00",
       "affiche": "Lens F - Montpellier F D1 Féminine"
@@ -49,14 +39,14 @@
       "date": "Dimanche 22 novembre",
       "heure": "19:45",
       "affiche": "Marseille - Le Mans Ligue 1"
+    },
+    {
+      "date": "Jeudi 26 novembre",
+      "heure": "17:45",
+      "affiche": "Marseille - Levski Sofia Ligue Europa"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "10:00",
-      "affiche": "Kashiwa Reysol - JEF United Chiba J-League"
-    },
     {
       "date": "Samedi 21 novembre",
       "heure": "12:30",
@@ -94,21 +84,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "17:30",
-      "affiche": "Union Berlin F - Bayer Leverkusen F Bundesliga Féminine"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "19:30",
-      "affiche": "Bayern Munich - Cologne Bundesliga"
-    },
-    {
-      "date": "Vendredi 20 novembre",
-      "heure": "20:00",
-      "affiche": "Athletic Bilbao - Espanyol Barcelone Liga"
-    },
     {
       "date": "Samedi 21 novembre",
       "heure": "11:00",
@@ -233,6 +208,16 @@
       "date": "Mardi 24 novembre",
       "heure": "17:45",
       "affiche": "Bodo Glimt - Lask Linz Ligue des Champions"
+    },
+    {
+      "date": "Jeudi 26 novembre",
+      "heure": "15:30",
+      "affiche": "Kairat Almaty - Mjallby AIF Ligue Europa Conférence"
+    },
+    {
+      "date": "Jeudi 26 novembre",
+      "heure": "20:00",
+      "affiche": "Multiplex - Multiplex Ligue Europa"
     }
   ],
   "Autres": [
