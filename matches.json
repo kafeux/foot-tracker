@@ -24,6 +24,11 @@
   "Angleterre": [
     {
       "date": "Mardi 24 novembre",
+      "heure": "01:00",
+      "affiche": "St. Louis City - Los Angeles FC MLS"
+    },
+    {
+      "date": "Mardi 24 novembre",
       "heure": "07:45",
       "affiche": "Newcastle Jets - Kashiwa Reysol Ligue des champions d'Asie"
     },
@@ -108,6 +113,11 @@
     },
     {
       "date": "Samedi 28 novembre",
+      "heure": "01:00",
+      "affiche": "Columbus Crew - Inter Miami MLS"
+    },
+    {
+      "date": "Samedi 28 novembre",
       "heure": "14:00",
       "affiche": "Frosinone - Parme Serie A"
     },
@@ -172,6 +182,26 @@
   ],
   "Autres": [
     {
+      "date": "Lundi 23 novembre",
+      "heure": "23:30",
+      "affiche": "Chicago Fire - Charlotte FC MLS"
+    },
+    {
+      "date": "Lundi 23 novembre",
+      "heure": "01:30",
+      "affiche": "Vancouver Whitecaps - Real Salt Lake MLS"
+    },
+    {
+      "date": "Mercredi 25 novembre",
+      "heure": "03:00",
+      "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "03:00",
+      "affiche": "Real Salt Lake - Vancouver Whitecaps MLS"
+    },
+    {
       "date": "Samedi 28 novembre",
       "heure": "12:15",
       "affiche": "Al-Hazem - Al-Nassr Saudi Pro League"
@@ -185,6 +215,16 @@
       "date": "Samedi 28 novembre",
       "heure": "17:45",
       "affiche": "PSV Eindhoven - GO Ahead Eagles Eredivisie"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "19:30",
+      "affiche": "Houston Dynamo - San Jose Earthquakes MLS"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "21:30",
+      "affiche": "Philadelphia Union - New England Revolution MLS"
     }
   ]
 }
