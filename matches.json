@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:00",
-      "affiche": "Paris FC F - Fleury F D1 Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "16:15",
-      "affiche": "Lorient - Rennes Ligue 1"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "19:45",
-      "affiche": "Marseille - Le Mans Ligue 1"
-    },
-    {
       "date": "Jeudi 26 novembre",
       "heure": "17:45",
       "affiche": "Marseille - Levski Sofia Ligue Europa"
@@ -24,19 +9,19 @@
       "date": "Vendredi 27 novembre",
       "heure": "19:45",
       "affiche": "Brest - Paris FC Ligue 1"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "16:15",
+      "affiche": "Angers - Lens Ligue 1"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "19:45",
+      "affiche": "Nice - Troyes Ligue 1"
     }
   ],
   "Angleterre": [
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "12:00",
-      "affiche": "Manchester City F - Tottenham F Women's Super League"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "13:00",
-      "affiche": "FC Barcelone - Villarreal Liga"
-    },
     {
       "date": "Mardi 24 novembre",
       "heure": "07:45",
@@ -59,41 +44,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "12:30",
-      "affiche": "Energie Cottbus - Hertha BSC Bundesliga 2"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "14:30",
-      "affiche": "Augsbourg - Mayence Bundesliga"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "15:00",
-      "affiche": "RB Leipzig F - Wolfsbourg F Bundesliga Féminine"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "15:15",
-      "affiche": "Racing Santander - Real Sociedad Liga"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "16:30",
-      "affiche": "Werder Brême - Hambourg Bundesliga"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "17:30",
-      "affiche": "Osasuna - Malaga Liga"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "20:00",
-      "affiche": "Getafe - Atlético Madrid Liga"
-    },
     {
       "date": "Lundi 23 novembre",
       "heure": "17:00",
@@ -123,23 +73,48 @@
       "date": "Vendredi 27 novembre",
       "heure": "20:00",
       "affiche": "Levante - Racing Santander Liga"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "13:00",
+      "affiche": "Betis Séville - Rayo Vallecano Liga"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "14:30",
+      "affiche": "Mayence - Union Berlin Bundesliga"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "15:15",
+      "affiche": "Malaga - Athletic Bilbao Liga"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "17:30",
+      "affiche": "Elche - Atlético Madrid Liga"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "20:00",
+      "affiche": "Real Madrid - Alavés Liga"
     }
   ],
   "Italie": [
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "11:30",
-      "affiche": "Juventus Turin - Venise Serie A"
-    },
-    {
-      "date": "Dimanche 22 novembre",
-      "heure": "17:00",
-      "affiche": "AC Milan - Frosinone Serie A"
-    },
-    {
       "date": "Lundi 23 novembre",
       "heure": "19:45",
       "affiche": "Monza - Fiorentina Serie A"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "14:00",
+      "affiche": "Frosinone - Parme Serie A"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "17:00",
+      "affiche": "Torino - Lazio Rome Serie A"
     }
   ],
   "Allemagne": [],
@@ -197,14 +172,19 @@
   ],
   "Autres": [
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "13:30",
-      "affiche": "Ajax Amsterdam - ADO Den Haag Eredivisie"
+      "date": "Samedi 28 novembre",
+      "heure": "12:15",
+      "affiche": "Al-Hazem - Al-Nassr Saudi Pro League"
     },
     {
-      "date": "Dimanche 22 novembre",
-      "heure": "16:00",
-      "affiche": "Trabzonspor - Eyüpspor Süper Lig"
+      "date": "Samedi 28 novembre",
+      "heure": "14:20",
+      "affiche": "Al-Ettifaq - Al-Hilal Saudi Pro League"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "17:45",
+      "affiche": "PSV Eindhoven - GO Ahead Eagles Eredivisie"
     }
   ]
 }
