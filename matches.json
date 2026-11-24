@@ -24,6 +24,21 @@
       "date": "Samedi 28 novembre",
       "heure": "19:45",
       "affiche": "Nice - Troyes Ligue 1"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "14:00",
+      "affiche": "Auxerre - Marseille Ligue 1"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "16:15",
+      "affiche": "Toulouse - Rennes Ligue 1"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "19:45",
+      "affiche": "Lyon - Monaco Ligue 1"
     }
   ],
   "Angleterre": [
@@ -51,19 +66,19 @@
       "date": "Mercredi 25 novembre",
       "heure": "20:00",
       "affiche": "Stoke City - Millwall Championship"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "01:30",
+      "affiche": "Los Angeles FC - St. Louis City MLS"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "17:30",
+      "affiche": "Celta Vigo - Villarreal Liga"
     }
   ],
   "Espagne": [
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "17:00",
-      "affiche": "Bayern Munich F - Hoffenheim F Bundesliga Féminine"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "20:00",
-      "affiche": "Levante - Elche Liga"
-    },
     {
       "date": "Mercredi 25 novembre",
       "heure": "17:45",
@@ -108,14 +123,39 @@
       "date": "Samedi 28 novembre",
       "heure": "20:00",
       "affiche": "Real Madrid - Alavés Liga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "13:00",
+      "affiche": "Valence - Osasuna Liga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "14:30",
+      "affiche": "Fribourg - RB Leipzig Bundesliga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "15:15",
+      "affiche": "Deportivo La Corogne - FC Barcelone Liga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "16:30",
+      "affiche": "Hoffenheim - Augsbourg Bundesliga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "18:30",
+      "affiche": "Borussia Dortmund - Bayer Leverkusen Bundesliga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "20:00",
+      "affiche": "Real Sociedad - FC Séville Liga"
     }
   ],
   "Italie": [
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "19:45",
-      "affiche": "Monza - Fiorentina Serie A"
-    },
     {
       "date": "Samedi 28 novembre",
       "heure": "01:00",
@@ -130,25 +170,20 @@
       "date": "Samedi 28 novembre",
       "heure": "17:00",
       "affiche": "Torino - Lazio Rome Serie A"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "11:30",
+      "affiche": "Udinese - Fiorentina Serie A"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "17:00",
+      "affiche": "AS Roma - Monza Serie A"
     }
   ],
   "Allemagne": [],
   "Europe": [
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "13:45",
-      "affiche": "Neftchi - Al-Hilal Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "16:00",
-      "affiche": "Tractor Sazi - Al-Wasl FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "18:15",
-      "affiche": "Al-Ittihad - Pakhtakor Ligue des champions d'Asie"
-    },
     {
       "date": "Mardi 24 novembre",
       "heure": "10:00",
@@ -187,16 +222,6 @@
   ],
   "Autres": [
     {
-      "date": "Lundi 23 novembre",
-      "heure": "23:30",
-      "affiche": "Chicago Fire - Charlotte FC MLS"
-    },
-    {
-      "date": "Lundi 23 novembre",
-      "heure": "01:30",
-      "affiche": "Vancouver Whitecaps - Real Salt Lake MLS"
-    },
-    {
       "date": "Mercredi 25 novembre",
       "heure": "03:00",
       "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
@@ -230,6 +255,21 @@
       "date": "Samedi 28 novembre",
       "heure": "21:30",
       "affiche": "Philadelphia Union - New England Revolution MLS"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "23:30",
+      "affiche": "FC Cincinnati - Nashville SC MLS"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "03:30",
+      "affiche": "Portland Timbers - FC Dallas MLS"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "13:30",
+      "affiche": "Feyenoord - Ajax Amsterdam Eredivisie"
     }
   ]
 }
