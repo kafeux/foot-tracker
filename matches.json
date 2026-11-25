@@ -43,26 +43,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mardi 24 novembre",
-      "heure": "01:00",
-      "affiche": "St. Louis City - Los Angeles FC MLS"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "07:45",
-      "affiche": "Newcastle Jets - Kashiwa Reysol Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "12:15",
-      "affiche": "SHANGHAI SIPG - Buriram United Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "20:00",
-      "affiche": "Wolverhampton - Derby Championship"
-    },
-    {
       "date": "Mercredi 25 novembre",
       "heure": "20:00",
       "affiche": "Stoke City - Millwall Championship"
@@ -153,6 +133,11 @@
       "date": "Dimanche 29 novembre",
       "heure": "20:00",
       "affiche": "Real Sociedad - FC Séville Liga"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "20:00",
+      "affiche": "Espanyol Barcelone - Getafe Liga"
     }
   ],
   "Italie": [
@@ -180,30 +165,20 @@
       "date": "Dimanche 29 novembre",
       "heure": "17:00",
       "affiche": "AS Roma - Monza Serie A"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "17:30",
+      "affiche": "Lecce - Atalanta Serie A"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "19:45",
+      "affiche": "Cagliari - AC Milan Serie A"
     }
   ],
   "Allemagne": [],
   "Europe": [
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "10:00",
-      "affiche": "Kyoto Sanga - Pohang Steelers Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "16:00",
-      "affiche": "Shabab AlAhli - Al-Qadisiyah FC Ligue des champions d'Asie"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "17:45",
-      "affiche": "Bodo Glimt - Lask Linz Ligue des Champions"
-    },
-    {
-      "date": "Mardi 24 novembre",
-      "heure": "18:15",
-      "affiche": "Al-Nassr - Al Sadd Ligue des champions d'Asie"
-    },
     {
       "date": "Mercredi 25 novembre",
       "heure": "10:00",
