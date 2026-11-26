@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Mercredi 25 novembre",
-      "heure": "13:30",
-      "affiche": "Uruguay U17 - France U17 Coupe du Monde U17"
-    },
-    {
       "date": "Jeudi 26 novembre",
       "heure": "17:45",
       "affiche": "Marseille - Levski Sofia Ligue Europa"
@@ -43,11 +38,6 @@
   ],
   "Angleterre": [
     {
-      "date": "Mercredi 25 novembre",
-      "heure": "20:00",
-      "affiche": "Stoke City - Millwall Championship"
-    },
-    {
       "date": "Dimanche 29 novembre",
       "heure": "01:30",
       "affiche": "Los Angeles FC - St. Louis City MLS"
@@ -59,11 +49,6 @@
     }
   ],
   "Espagne": [
-    {
-      "date": "Mercredi 25 novembre",
-      "heure": "17:45",
-      "affiche": "Sabah FA - FC Barcelone Ligue des Champions"
-    },
     {
       "date": "Vendredi 27 novembre",
       "heure": "17:30",
@@ -180,11 +165,6 @@
   "Allemagne": [],
   "Europe": [
     {
-      "date": "Mercredi 25 novembre",
-      "heure": "10:00",
-      "affiche": "Kashima Antlers - Jeonbuk Motors Ligue des champions d'Asie"
-    },
-    {
       "date": "Jeudi 26 novembre",
       "heure": "15:30",
       "affiche": "Kairat Almaty - Mjallby AIF Ligue Europa Conférence"
@@ -196,11 +176,6 @@
     }
   ],
   "Autres": [
-    {
-      "date": "Mercredi 25 novembre",
-      "heure": "03:00",
-      "affiche": "San Jose Earthquakes - Houston Dynamo MLS"
-    },
     {
       "date": "Samedi 28 novembre",
       "heure": "03:00",
