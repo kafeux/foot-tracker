@@ -1,11 +1,6 @@
 {
   "France": [
     {
-      "date": "Jeudi 26 novembre",
-      "heure": "17:45",
-      "affiche": "Marseille - Levski Sofia Ligue Europa"
-    },
-    {
       "date": "Vendredi 27 novembre",
       "heure": "19:45",
       "affiche": "Brest - Paris FC Ligue 1"
@@ -123,6 +118,16 @@
       "date": "Lundi 30 novembre",
       "heure": "20:00",
       "affiche": "Espanyol Barcelone - Getafe Liga"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "18:00",
+      "affiche": "Real Sociedad - Real Madrid Liga"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "20:30",
+      "affiche": "FC Barcelone - Atlético Madrid Liga"
     }
   ],
   "Italie": [
@@ -163,18 +168,7 @@
     }
   ],
   "Allemagne": [],
-  "Europe": [
-    {
-      "date": "Jeudi 26 novembre",
-      "heure": "15:30",
-      "affiche": "Kairat Almaty - Mjallby AIF Ligue Europa Conférence"
-    },
-    {
-      "date": "Jeudi 26 novembre",
-      "heure": "20:00",
-      "affiche": "Multiplex - Multiplex Ligue Europa"
-    }
-  ],
+  "Europe": [],
   "Autres": [
     {
       "date": "Samedi 28 novembre",
