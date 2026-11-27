@@ -2,13 +2,38 @@
   "France": [
     {
       "date": "Vendredi 27 novembre",
+      "heure": "18:00",
+      "affiche": "Cannes - Le Puy Coupe de France"
+    },
+    {
+      "date": "Vendredi 27 novembre",
+      "heure": "19:00",
+      "affiche": "Saint-Omer - Caen Coupe de France"
+    },
+    {
+      "date": "Vendredi 27 novembre",
       "heure": "19:45",
       "affiche": "Brest - Paris FC Ligue 1"
     },
     {
       "date": "Samedi 28 novembre",
+      "heure": "15:00",
+      "affiche": "Bayonne - Club Franciscain Coupe de France"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "16:00",
+      "affiche": "Union Cosnoise - Sedan Coupe de France"
+    },
+    {
+      "date": "Samedi 28 novembre",
       "heure": "16:15",
       "affiche": "Angers - Lens Ligue 1"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "18:00",
+      "affiche": "Saint-Étienne - Villefranche Coupe de France"
     },
     {
       "date": "Samedi 28 novembre",
@@ -19,6 +44,11 @@
       "date": "Dimanche 29 novembre",
       "heure": "14:00",
       "affiche": "Auxerre - Marseille Ligue 1"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "15:00",
+      "affiche": "Nantes - Nueillaubiers Coupe de France"
     },
     {
       "date": "Dimanche 29 novembre",
@@ -33,14 +63,49 @@
   ],
   "Angleterre": [
     {
+      "date": "Samedi 28 novembre",
+      "heure": "12:30",
+      "affiche": "Preston - Norwich Championship"
+    },
+    {
       "date": "Dimanche 29 novembre",
       "heure": "01:30",
       "affiche": "Los Angeles FC - St. Louis City MLS"
     },
     {
       "date": "Dimanche 29 novembre",
+      "heure": "12:00",
+      "affiche": "Everton - Liverpool Premier League"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "14:05",
+      "affiche": "Brighton - Newcastle Premier League"
+    },
+    {
+      "date": "Dimanche 29 novembre",
       "heure": "17:30",
       "affiche": "Celta Vigo - Villarreal Liga"
+    },
+    {
+      "date": "Mardi 1 décembre",
+      "heure": "12:15",
+      "affiche": "Buriram United - Kyoto Sanga Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mardi 1 décembre",
+      "heure": "20:00",
+      "affiche": "Coventry - Ipswich Premier League"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "19:30",
+      "affiche": "Manchester City - Leeds Premier League"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "20:15",
+      "affiche": "Newcastle - Manchester United Premier League"
     }
   ],
   "Espagne": [
@@ -61,6 +126,11 @@
     },
     {
       "date": "Samedi 28 novembre",
+      "heure": "12:00",
+      "affiche": "Hertha BSC - Karlsruhe Bundesliga 2"
+    },
+    {
+      "date": "Samedi 28 novembre",
       "heure": "13:00",
       "affiche": "Betis Séville - Rayo Vallecano Liga"
     },
@@ -76,6 +146,11 @@
     },
     {
       "date": "Samedi 28 novembre",
+      "heure": "15:30",
+      "affiche": "Arouca - Rio Ave Primeira Liga"
+    },
+    {
+      "date": "Samedi 28 novembre",
       "heure": "17:30",
       "affiche": "Elche - Atlético Madrid Liga"
     },
@@ -83,6 +158,11 @@
       "date": "Samedi 28 novembre",
       "heure": "20:00",
       "affiche": "Real Madrid - Alavés Liga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "12:30",
+      "affiche": "Eintracht Braunschweig - Wolfsbourg Bundesliga 2"
     },
     {
       "date": "Dimanche 29 novembre",
@@ -106,6 +186,11 @@
     },
     {
       "date": "Dimanche 29 novembre",
+      "heure": "18:00",
+      "affiche": "Gil Vicente - Estoril Primeira Liga"
+    },
+    {
+      "date": "Dimanche 29 novembre",
       "heure": "18:30",
       "affiche": "Borussia Dortmund - Bayer Leverkusen Bundesliga"
     },
@@ -115,9 +200,19 @@
       "affiche": "Real Sociedad - FC Séville Liga"
     },
     {
+      "date": "Dimanche 29 novembre",
+      "heure": "20:30",
+      "affiche": "FC Porto - Sporting CP Primeira Liga"
+    },
+    {
       "date": "Lundi 30 novembre",
       "heure": "20:00",
       "affiche": "Espanyol Barcelone - Getafe Liga"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "20:15",
+      "affiche": "Benfica - Famalicao Primeira Liga"
     },
     {
       "date": "Mercredi 2 décembre",
@@ -167,13 +262,60 @@
       "affiche": "Cagliari - AC Milan Serie A"
     }
   ],
-  "Allemagne": [],
-  "Europe": [],
+  "Allemagne": [
+    {
+      "date": "Mardi 1 décembre",
+      "heure": "17:00",
+      "affiche": "Stuttgart - Dynamo Dresde Coupe d'Allemagne"
+    },
+    {
+      "date": "Mardi 1 décembre",
+      "heure": "19:45",
+      "affiche": "Bayern Munich - Hertha BSC Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "17:00",
+      "affiche": "Bayer Leverkusen - RB Leipzig Coupe d'Allemagne"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "19:45",
+      "affiche": "Francfort - Borussia Dortmund Coupe d'Allemagne"
+    }
+  ],
+  "Europe": [
+    {
+      "date": "Mardi 1 décembre",
+      "heure": "10:00",
+      "affiche": "Kashiwa Reysol - Công An Nhân Dân Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "10:00",
+      "affiche": "Jeonbuk Motors - Gamba Osaka Ligue des champions d'Asie"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "12:15",
+      "affiche": "Port FC - Kashima Antlers Ligue des champions d'Asie"
+    }
+  ],
   "Autres": [
+    {
+      "date": "Vendredi 27 novembre",
+      "heure": "17:00",
+      "affiche": "Alanyaspor - Konyaspor Süper Lig"
+    },
     {
       "date": "Samedi 28 novembre",
       "heure": "03:00",
       "affiche": "Real Salt Lake - Vancouver Whitecaps MLS"
+    },
+    {
+      "date": "Samedi 28 novembre",
+      "heure": "05:00",
+      "affiche": "Kyoto Sanga - Cerezo Osaka J-League"
     },
     {
       "date": "Samedi 28 novembre",
@@ -212,8 +354,33 @@
     },
     {
       "date": "Dimanche 29 novembre",
+      "heure": "07:00",
+      "affiche": "Machida Zelvia - Tokyo Verdy J-League"
+    },
+    {
+      "date": "Dimanche 29 novembre",
       "heure": "13:30",
       "affiche": "Feyenoord - Ajax Amsterdam Eredivisie"
+    },
+    {
+      "date": "Dimanche 29 novembre",
+      "heure": "16:00",
+      "affiche": "Fenerbahçe - Erzurumspor FK Süper Lig"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "16:00",
+      "affiche": "Goztepe - Trabzonspor Süper Lig"
+    },
+    {
+      "date": "Lundi 30 novembre",
+      "heure": "18:00",
+      "affiche": "Besiktas - Galatasaray Süper Lig"
+    },
+    {
+      "date": "Mercredi 2 décembre",
+      "heure": "20:00",
+      "affiche": "Côme - Cremonese Coupe d'Italie"
     }
   ]
 }
