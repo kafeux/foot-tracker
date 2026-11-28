@@ -1,21 +1,6 @@
 {
   "France": [
     {
-      "date": "Vendredi 27 novembre",
-      "heure": "18:00",
-      "affiche": "Cannes - Le Puy Coupe de France"
-    },
-    {
-      "date": "Vendredi 27 novembre",
-      "heure": "19:00",
-      "affiche": "Saint-Omer - Caen Coupe de France"
-    },
-    {
-      "date": "Vendredi 27 novembre",
-      "heure": "19:45",
-      "affiche": "Brest - Paris FC Ligue 1"
-    },
-    {
       "date": "Samedi 28 novembre",
       "heure": "15:00",
       "affiche": "Bayonne - Club Franciscain Coupe de France"
@@ -106,24 +91,14 @@
       "date": "Mercredi 2 décembre",
       "heure": "20:15",
       "affiche": "Newcastle - Manchester United Premier League"
+    },
+    {
+      "date": "Jeudi 3 décembre",
+      "heure": "20:00",
+      "affiche": "Tottenham - Fulham Premier League"
     }
   ],
   "Espagne": [
-    {
-      "date": "Vendredi 27 novembre",
-      "heure": "17:30",
-      "affiche": "FC Heidenheim - Nuremberg Bundesliga 2"
-    },
-    {
-      "date": "Vendredi 27 novembre",
-      "heure": "19:30",
-      "affiche": "Werder Brême - Monchengladbach Bundesliga"
-    },
-    {
-      "date": "Vendredi 27 novembre",
-      "heure": "20:00",
-      "affiche": "Levante - Racing Santander Liga"
-    },
     {
       "date": "Samedi 28 novembre",
       "heure": "12:00",
@@ -303,11 +278,6 @@
   ],
   "Autres": [
     {
-      "date": "Vendredi 27 novembre",
-      "heure": "17:00",
-      "affiche": "Alanyaspor - Konyaspor Süper Lig"
-    },
-    {
       "date": "Samedi 28 novembre",
       "heure": "03:00",
       "affiche": "Real Salt Lake - Vancouver Whitecaps MLS"
@@ -381,6 +351,11 @@
       "date": "Mercredi 2 décembre",
       "heure": "20:00",
       "affiche": "Côme - Cremonese Coupe d'Italie"
+    },
+    {
+      "date": "Jeudi 3 décembre",
+      "heure": "19:45",
+      "affiche": "Caen - Cannes Ligue 3"
     }
   ]
 }
